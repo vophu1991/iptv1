@@ -113,8 +113,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playli
 #EXTINF:-1 group-title="CÁ HEO TV VÕ PHÚ" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",03h00 06/03: Real Madrid - Real Sociedad
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Espanyol - Getafe
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lens - Brest
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Roma - Atalanta
@@ -166,8 +164,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=everton-vs-wolves-luc-22h
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",22h15 05/03: Espanyol - Getafe
-https://vophubongda.000webhostapp.com/playcakhia.php?id=621e2079f4971120e2f97d91&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",23h00 05/03: Lens - Brest
 https://vophubongda.000webhostapp.com/playcakhia.php?id=621e209bf4971120e2f97d97&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",00h00 06/03: Roma - Atalanta
