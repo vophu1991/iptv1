@@ -127,11 +127,29 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Udinese - Sampdoria
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài RB Leipzig - Freiburg
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bochum - Greuther Fürth
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Wolfsburg - Union Berlin
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Hertha BSC - Frankfurt
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bayern München - Leverkusen
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Bayern München - Leverkusen
+https://ihkvgekdmaliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Bayern München - Leverkusen
+https://ihkvgekdmaliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Bayern München - Leverkusen
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Bayern München - Leverkusen
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Leicester - Leeds
-https://vophubongda.000webhostapp.com/playxembd.php?id=leicester-vs-leeds-luc-19h30-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/q07nt0F.png",Bayern Munich - Bayer Leverkusen
+https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-bayer-leverkusen-luc-21h30-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Burnley - Chelsea
 https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-chelsea-luc-22h00-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Udinese - Sampdoria
@@ -141,8 +159,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=osasuna-vs-villarreal-luc
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CnsoRtq.png",Fulham - Blackburn
 https://vophubongda.000webhostapp.com/playxembd.php?id=fulham-vs-blackburn-luc-19h30-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",05/03 - 21:30 Bayern Munich - Bayer Leverkusen
-https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-bayer-leverkusen-luc-21h30-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",05/03 - 22:00 Aston Villa - Southampton
 https://vophubongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-southampton-luc-22h00-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",06/03 - 00:00 AS Roma - Atalanta
