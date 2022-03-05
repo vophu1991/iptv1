@@ -113,8 +113,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playli
 #EXTINF:-1 group-title="CÁ HEO TV VÕ PHÚ" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",03h00 06/03: Real Madrid - Real Sociedad
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Viettel - Saigon FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Leicester - Leeds
 https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Leicester - Leeds
@@ -180,8 +178,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=brighton-vs-liverpool-luc
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",19h15 05/03: Viettel - Saigon FC
-https://vophubongda.000webhostapp.com/playcakhia.php?id=621e1f4af4971120e2f97d5f&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",19h30 05/03: Leicester - Leeds
 https://vophubongda.000webhostapp.com/playcakhia.php?id=621e1f58f4971120e2f97d62&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",19h30 05/03: Fulham - Blackburn
