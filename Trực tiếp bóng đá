@@ -115,8 +115,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Viettel - Saigon FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Leicester - Leeds
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Leicester - Leeds
 https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Leicester - Leeds
@@ -136,6 +134,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist
 https://vophubongda.000webhostapp.com/playxembd.php?id=leicester-vs-leeds-luc-19h30-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YtmLrXy.png",Viettel - Sai Gon
 https://vophubongda.000webhostapp.com/playxembd.php?id=viettel-vs-sai-gon-luc-19h15-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Udinese - Sampdoria
+https://vophubongda.000webhostapp.com/playxembd.php?id=udinese-vs-sampdoria-luc-21h00-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Osasuna - Villarreal
 https://vophubongda.000webhostapp.com/playxembd.php?id=osasuna-vs-villarreal-luc-20h00-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CnsoRtq.png",Fulham - Blackburn
