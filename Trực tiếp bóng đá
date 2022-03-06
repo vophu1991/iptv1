@@ -163,6 +163,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Watford - Arsenal
 https://vophubongda.000webhostapp.com/playxembd.php?id=watford-vs-arsenal-luc-21h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Manchester City - Manchester United
+https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-manchester-united-luc-23h30-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Elche - Barcelona
 https://vophubongda.000webhostapp.com/playxembd.php?id=elche-vs-barcelona-luc-22h15-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Bordeaux - Estac Troyes
@@ -180,8 +182,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=fiorentina-vs-verona-luc-
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Venezia - Sassuolo
 https://vophubongda.000webhostapp.com/playxembd.php?id=venezia-vs-sassuolo-luc-21h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",06/03 - 23:30 Manchester City - Manchester United
-https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-manchester-united-luc-23h30-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",07/03 - 00:00 Juventus - Spezia
 https://vophubongda.000webhostapp.com/playxembd.php?id=juventus-vs-spezia-luc-00h00-ngay-07-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",07/03 - 02:45 Napoli - AC Milan
