@@ -124,8 +124,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h45 07/03: Napoli - Milan
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://champhatden.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Saint-Etienne - Metz
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Ho Chi Minh City FC - Binh Duong
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Ho Chi Minh City FC - Binh Duong
@@ -148,6 +146,20 @@ https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://cakhia.cakhia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Watford - Arsenal
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bologna - Torino
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Fiorentina - Hellas Verona
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Venezia - Sassuolo
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bordeaux - Troyes
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Reims - Strasbourg
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Rennes - Angers
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Nantes - Montpellier
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
@@ -157,8 +169,12 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=watford-vs-arsenal-luc-21
 https://vophubongda.000webhostapp.com/playxembd.php?id=ho-chi-minh-city-vs-binh-duong-luc-19h15-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Bordeaux - Estac Troyes
 https://vophubongda.000webhostapp.com/playxembd.php?id=bordeaux-vs-estac-troyes-luc-21h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Nantes - Montpellier
+https://vophubongda.000webhostapp.com/playxembd.php?id=nantes-vs-montpellier-luc-21h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Reims - Strasbourg
 https://vophubongda.000webhostapp.com/playxembd.php?id=reims-vs-strasbourg-luc-21h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Rennes - Angers
+https://vophubongda.000webhostapp.com/playxembd.php?id=rennes-vs-angers-luc-21h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Bologna - Torino
 https://vophubongda.000webhostapp.com/playxembd.php?id=bologna-vs-torino-luc-21h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Fiorentina - Verona
@@ -167,8 +183,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=fiorentina-vs-verona-luc-
 https://vophubongda.000webhostapp.com/playxembd.php?id=venezia-vs-sassuolo-luc-21h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Cadiz - Rayo Vallecano
 https://vophubongda.000webhostapp.com/playxembd.php?id=cadiz-vs-rayo-vallecano-luc-20h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Saint Etienne - Metz
-https://vophubongda.000webhostapp.com/playxembd.php?id=saint-etienne-vs-metz-luc-19h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",06/03 - 23:30 Manchester City - Manchester United
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-manchester-united-luc-23h30-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
@@ -205,8 +219,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-bo
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",19h00 06/03: Saint-Etienne - Metz
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622071a96ac0965da90d26af&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",19h15 06/03: Ho Chi Minh City FC - Binh Duong
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6220718a6ac0965da90d26a9&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 06/03: Cadiz - Rayo Vallecano
