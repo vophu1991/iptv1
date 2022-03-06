@@ -124,47 +124,11 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h45 07/03: Napoli - Milan
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://champhatden.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Elche - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Elche - Barcelona
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Elche - Barcelona
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Elche - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Elche - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lille - Clermont Foot
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Man City - Man United
-https://bb5iqwas4fliv.vcdn.cloud/m301nd/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Man City - Man United
-https://bb5iqwas4fliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Man City - Man United
-https://bb5iqwas4fliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Man City - Man United
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Man City - Man United
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Köln - Hoffenheim
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Juventus - Spezia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Juventus - Spezia
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Juventus - Spezia
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Juventus - Spezia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Juventus - Spezia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Manchester City - Manchester United
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-manchester-united-luc-23h30-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Elche - Barcelona
-https://vophubongda.000webhostapp.com/playxembd.php?id=elche-vs-barcelona-luc-22h15-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Juventus - Spezia
 https://vophubongda.000webhostapp.com/playxembd.php?id=juventus-vs-spezia-luc-00h00-ngay-07-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/q07nt0F.png",FC Koln - Hoffenheim
@@ -178,10 +142,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=napoli-vs-ac-milan-luc-02
 https://vophubongda.000webhostapp.com/playxembd.php?id=real-betis-vs-atletico-madrid-luc-03h00-ngay-07-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",08/03 - 03:00 Tottenham - Everton
 https://vophubongda.000webhostapp.com/playxembd.php?id=tottenham-vs-everton-luc-03h00-ngay-08-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Bayern Munich - Red Bull Salzburg
-https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-red-bull-salzburg-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Liverpool - Inter
 https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-inter-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Bayern Munich - Red Bull Salzburg
+https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-red-bull-salzburg-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Manchester City - Sporting CP
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-sporting-cp-luc-03h00-ngay-10-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Real Madrid - Paris Saint Germain
@@ -207,39 +171,3 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-vs-armi
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",22h15 06/03: Elche - Barcelona
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622072836ac0965da90d26bb&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",23h05 06/03: Lille - Clermont Foot
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622073ba6ac0965da90d26dc&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",23h30 06/03: Man City - Man United
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6220726b6ac0965da90d26b8&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 06/03: Köln - Hoffenheim
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622073416ac0965da90d26ca&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",00h00 07/03: Juventus - Spezia
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622075336ac0965da90d26f1&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",00h30 07/03: Celta Vigo - Mallorca
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622075486ac0965da90d26f4&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",02h45 07/03: Napoli - Milan
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6220757e6ac0965da90d26fa&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",02h45 07/03: Marseille - Monaco
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622075966ac0965da90d26fd&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 07/03: Real Betis - Atletico Madrid
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622075a96ac0965da90d2700&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/k47mbG2.png",02h30 08/03: Nottm Forest - Huddersfield
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d61f6ac0965da90d328a&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",03h00 08/03: Tottenham - Everton
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d61b6ac0965da90d3285&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 08/03: Athletic Club - Levante
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d61c6ac0965da90d3286&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 09/03: Bayern München - Salzburg
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d63d6ac0965da90d3294&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 09/03: Liverpool - Inter
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d6446ac0965da90d3297&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 10/03: FC Porto - Lyon
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d6b16ac0965da90d32a6&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 10/03: Real Betis - Frankfurt
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d6b86ac0965da90d32a9&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 10/03: Real Madrid - PSG
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d6a46ac0965da90d32a0&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 10/03: Man City - Sporting CP
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d6a96ac0965da90d32a3&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
