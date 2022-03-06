@@ -136,6 +136,16 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Marseille - Monaco
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Real Betis - Atletico Madrid
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Real Betis - Atletico Madrid
+https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Real Betis - Atletico Madrid
+https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Real Betis - Atletico Madrid
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Real Betis - Atletico Madrid
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
@@ -148,10 +158,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=napoli-vs-ac-milan-luc-02
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",08/03 - 03:00 Tottenham - Everton
 https://vophubongda.000webhostapp.com/playxembd.php?id=tottenham-vs-everton-luc-03h00-ngay-08-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Bayern Munich - Red Bull Salzburg
-https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-red-bull-salzburg-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Liverpool - Inter
 https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-inter-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Bayern Munich - Red Bull Salzburg
+https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-red-bull-salzburg-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Manchester City - Sporting CP
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-sporting-cp-luc-03h00-ngay-10-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Real Madrid - Paris Saint Germain
