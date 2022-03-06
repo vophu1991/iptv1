@@ -124,16 +124,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h45 07/03: Napoli - Milan
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://champhatden.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Song Lam Nghe An - Hoang Anh Gia Lai
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Song Lam Nghe An - Hoang Anh Gia Lai
-https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Song Lam Nghe An - Hoang Anh Gia Lai
-https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Song Lam Nghe An - Hoang Anh Gia Lai
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Song Lam Nghe An - Hoang Anh Gia Lai
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Hai Phong - FLC Thanh Hoa
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Genoa - Empoli
@@ -143,15 +133,15 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YtmLrXy.png",Song Lam Nghe An - Hoang Anh Gia Lai
-https://vophubongda.000webhostapp.com/playxembd.php?id=song-lam-nghe-an-vs-hoang-anh-gia-lai-luc-17h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YtmLrXy.png",Ho Chi Minh City - Binh Duong
+https://vophubongda.000webhostapp.com/playxembd.php?id=ho-chi-minh-city-vs-binh-duong-luc-19h15-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Saint Etienne - Metz
+https://vophubongda.000webhostapp.com/playxembd.php?id=saint-etienne-vs-metz-luc-19h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Genoa - Empoli
 https://vophubongda.000webhostapp.com/playxembd.php?id=genoa-vs-empoli-luc-18h30-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YtmLrXy.png",Hai Phong - Thanh Hóa
 https://vophubongda.000webhostapp.com/playxembd.php?id=hai-phong-vs-thanh-hoa-luc-18h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",06/03 - 19:15 Ho Chi Minh City - Binh Duong
-https://vophubongda.000webhostapp.com/playxembd.php?id=ho-chi-minh-city-vs-binh-duong-luc-19h15-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",06/03 - 21:00 Watford - Arsenal
 https://vophubongda.000webhostapp.com/playxembd.php?id=watford-vs-arsenal-luc-21h00-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",06/03 - 23:30 Manchester City - Manchester United
@@ -184,11 +174,11 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=hoffenheim-vs-bayern-muni
 https://vophubongda.000webhostapp.com/playxembd.php?id=everton-vs-wolves-luc-22h00-ngay-12-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",13/03 - 00:30 Manchester United - Tottenham
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-tottenham-luc-00h30-ngay-13-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/athVAHY.png",13/03 - 19:00 Paris Saint Germain - Bordeaux
+https://vophubongda.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-bordeaux-luc-19h00-ngay-13-03-2022&.m3u8|Referer=https://xembd.live/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",17h00 06/03: Song Lam Nghe An - Hoang Anh Gia Lai
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622071346ac0965da90d269e&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",18h00 06/03: Hai Phong - FLC Thanh Hoa
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6220716f6ac0965da90d26a3&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",18h30 06/03: Genoa - Empoli
