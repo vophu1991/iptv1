@@ -113,14 +113,26 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Nottm Forest - Huddersfield
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Tottenham - Everton
+https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Tottenham - Everton
+https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Tottenham - Everton
+https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Tottenham - Everton
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Tottenham - Everton
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Athletic Club - Levante
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Tottenham - Everton
+https://vophubongda.000webhostapp.com/playxembd.php?id=tottenham-vs-everton-luc-03h00-ngay-08-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ICDDsHD.png",Nottingham Forest - Huddersfield
 https://vophubongda.000webhostapp.com/playxembd.php?id=nottingham-forest-vs-huddersfield-luc-02h30-ngay-08-03-2022&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",08/03 - 03:00 Tottenham - Everton
-https://vophubongda.000webhostapp.com/playxembd.php?id=tottenham-vs-everton-luc-03h00-ngay-08-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Bayern Munich - Red Bull Salzburg
 https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-red-bull-salzburg-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Liverpool - Inter
