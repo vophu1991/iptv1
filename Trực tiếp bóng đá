@@ -111,18 +111,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 08/03: Tottenham - Everton
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://champhatden.xyz/xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Tottenham - Everton
-https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Tottenham - Everton
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Tottenham - Everton
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Tottenham - Everton
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Tottenham - Everton
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Athletic Club - Levante
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
@@ -164,10 +152,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=mallorca-vs-real-madrid-l
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",03h00 08/03: Tottenham - Everton
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d61b6ac0965da90d3285&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 08/03: Athletic Club - Levante
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d61c6ac0965da90d3286&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h30 08/03: Ceramica Cleopatra - Smouha SC
 https://vophubongda.000webhostapp.com/playcakhia.php?id=62267b756ac0965da90d3ac7&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 09/03: Bayern München - Salzburg
