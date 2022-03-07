@@ -205,7 +205,16 @@ http://s1zen.myclip.vn/s2-video3/2019/09/03/12/822a57dd/822a57dd-fc93-4daf-9f53-
 http://s2zen.myclip.vn/video1/2019/10/07/14/64c95532/64c95532-2afb-4847-8351-51526b7622bd_4_.m3u8
 
 
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/19048/poster.jpg",Bố Đường Con Nuôi TẬP 1
+https://hlss.xyz/cdn/hls/652bc8878cb54f9c38834f3e8adf999c/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/19048/poster.jpg",Bố Đường Con Nuôi TẬP 2
+https://hlss.xyz/cdn/hls/4ec2f2a0ab371e99f9a298f09b092aa4/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/19048/poster.jpg",Bố Đường Con Nuôi TẬP 3
+https://hlss.xyz/cdn/hls/6e371dccd26fecec4e25e527ebc3582d/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/19048/poster.jpg",Bố Đường Con Nuôi TẬP 4
+https://hlss.xyz/cdn/hls/4820c01c58771042a2849fa83348620d/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/19048/poster.jpg",Bố Đường Con Nuôi TẬP 5
+https://hlss.xyz/cdn/hls/03e371fe3e0eb1692a2b598614895a98/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/9QcVkir.jpg",Phim Trường Ma
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200731/phim-truong-ma-logofptplay/37ce266fec94e24c501e9728bcfca290.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/muZuJmo.jpg",Một Ngày Làm Sếp
