@@ -111,8 +111,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 08/03: Tottenham - Everton
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://champhatden.xyz/xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Nottm Forest - Huddersfield
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Tottenham - Everton
 https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Tottenham - Everton
@@ -133,10 +131,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=tottenham-vs-everton-luc-
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Athletic Club - Levante
 https://vophubongda.000webhostapp.com/playxembd.php?id=athletic-club-vs-levante-luc-03h00-ngay-08-03-2022&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Bayern Munich - Red Bull Salzburg
-https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-red-bull-salzburg-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Liverpool - Inter
 https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-inter-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Bayern Munich - Red Bull Salzburg
+https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-red-bull-salzburg-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Manchester City - Sporting CP
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-sporting-cp-luc-03h00-ngay-10-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Real Madrid - Paris Saint Germain
@@ -170,8 +168,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=mallorca-vs-real-madrid-l
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/k47mbG2.png",02h30 08/03: Nottm Forest - Huddersfield
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d61f6ac0965da90d328a&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",03h00 08/03: Tottenham - Everton
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d61b6ac0965da90d3285&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 08/03: Athletic Club - Levante
