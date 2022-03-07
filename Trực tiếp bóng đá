@@ -98,10 +98,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 #EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/4J6WdN3.png",BLV: Giàng A Lếch
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CÚP FA" tvg-logo= "https://i.imgur.com/A23Gmng.png",02h30 08/03: Nottm Forest - Huddersfield
+#EXTINF:-1 group-title="CÚP FA" tvg-logo= "https://i.imgur.com/eJPkyMT.png",02h30 08/03: Nottm Forest - Huddersfield
 https://livecdn.fptplay.net/hdevent/fa03_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="CÚP FA" tvg-logo= "https://i.imgur.com/w9dd7w6.png",02h30 08/03: Nottm Forest - Huddersfield
-https://livecdn.fptplay.net/hdevent/fa03_4000.stream/chunklist.m3u8
+
 
 
 #EXTINF:-1 group-title="CÁ HEO TV VÕ PHÚ" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",03h00 08/03: Tottenham - Everton
