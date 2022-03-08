@@ -2,7 +2,8 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Nottingham Forest - Huddersfield Town /8/3 CÚP FA
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220308/220308-0230-nottingham-forest-huddersfield-town-fa-clean-fm-final-1646697174/a64a599fd3ce88f31c94990e91ac3f81.smil/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Southampton - West Ham United/3/3 CÚP FA
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220303/82835b881aaf06faee1f7d3388dfc6ef.mp4/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Liverpool FC - Norwich City 3/3 CÚP FA
