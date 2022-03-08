@@ -110,11 +110,33 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Liverpool - Inter
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Liverpool - Inter
+https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Liverpool - Inter
+https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Liverpool - Inter
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Liverpool - Inter
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bayern München - Salzburg
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Bayern München - Salzburg
+https://bb5iqwas4fliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Bayern München - Salzburg
+https://bb5iqwas4fliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Bayern München - Salzburg
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Bayern München - Salzburg
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/rLKexfN.png",Bayern Munich - Red Bull Salzburg
 https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-red-bull-salzburg-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/rLKexfN.png",Liverpool - Inter
+https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-inter-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CnsoRtq.png",Bournemouth - Peterborough
 https://vophubongda.000webhostapp.com/playxembd.php?id=bournemouth-vs-peterborough&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CnsoRtq.png",Coventry - Luton
@@ -126,8 +148,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=swansea-vs-fulham&.m3u8|R
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CnsoRtq.png",Barnsley - Stoke City
 https://vophubongda.000webhostapp.com/playxembd.php?id=barnsley-vs-stoke-city&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Liverpool - Inter
-https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-inter-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Manchester City - Sporting CP
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-sporting-cp-luc-03h00-ngay-10-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Real Madrid - Paris Saint Germain
