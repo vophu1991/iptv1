@@ -112,11 +112,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/play
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oIQNztV.png",Central Coast Mariners - Melbourne Victory
-https://vophubongda.000webhostapp.com/playxembd.php?id=central-coast-mariners-vs-melbourne-victory&.m3u8|Referer=https://xembd.live/truc-tiep/
-
-#EXTINF:-1 group-title="XEMBD by VoPhu - A-League" tvg-logo="https://i.imgur.com/oIQNztV.png",09/03 - 15:05 Melbourne City - Macarthur
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oIQNztV.png",Melbourne City - Macarthur
 https://vophubongda.000webhostapp.com/playxembd.php?id=melbourne-city-vs-macarthur-luc-15h05-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Manchester City - Sporting CP
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-sporting-cp-luc-03h00-ngay-10-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Real Madrid - Paris Saint Germain
