@@ -113,10 +113,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/play
 
 
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Manchester City - Sporting CP
-https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-sporting-cp-luc-03h00-ngay-10-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Real Madrid - Paris Saint Germain
 https://vophubongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-paris-saint-germain-luc-03h00-ngay-10-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Manchester City - Sporting CP
+https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-sporting-cp-luc-03h00-ngay-10-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",11/03 - 17:00 Hoang Anh Gia Lai - Viettel
 https://vophubongda.000webhostapp.com/playxembd.php?id=hoang-anh-gia-lai-vs-viettel-luc-17h00-ngay-11-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",12/03 - 19:15 Sai Gon - Song Lam Nghe An
@@ -139,10 +139,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-vs-armi
 https://vophubongda.000webhostapp.com/playxembd.php?id=spvgg-greuther-furth-vs-rb-leipzig-luc-01h30-ngay-14-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",14/03 - 03:00 Barcelona - Osasuna
 https://vophubongda.000webhostapp.com/playxembd.php?id=barcelona-vs-osasuna-luc-03h00-ngay-14-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",15/03 - 03:00 Mallorca - Real Madrid
-https://vophubongda.000webhostapp.com/playxembd.php?id=mallorca-vs-real-madrid-luc-03h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",15/03 - 03:00 Crystal Palace - Manchester City
 https://vophubongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-manchester-city-luc-03h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",15/03 - 03:00 Mallorca - Real Madrid
+https://vophubongda.000webhostapp.com/playxembd.php?id=mallorca-vs-real-madrid-luc-03h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",16/03 - 03:00 Manchester United - Atletico Madrid
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-atletico-madrid-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 
