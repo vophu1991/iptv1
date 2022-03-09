@@ -16,9 +16,20 @@ https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220302/5ecacf5a39c5
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220302/fb79be8821a1cb7382380aebcad128d1.mp4/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/ifmNEth.png",U23 Thái Lan - U23 Việt Nam CHUNG KẾT 
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/220226-1930-thailan-vietnam-u23aff-clean-48-fm-fn-1645887019/54a7441f02e3935b279e74a98c9c3e53.smil/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/rcTQ6ct.png",Liverpool FC - Inter Milan 9/03 
+
+
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Real Betis - Eintracht Frankfurt 10/03 cúp c2
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/9a4b9d780c8eb0355e7e759639785255.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Porto FC - Olympique Lyonnais 10/03 cúp c2
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e26097b022544290019e81.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/rcTQ6ct.png",Real Madrid - Paris Saint 10/03 cúp c1
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/f670058d9d117f6f40addd06951f977f.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/rcTQ6ct.png",Manchester City - Sporting CP  10/03 cúp c1
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/12ca21d504b5d601ff3063d11c8791eb.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/rcTQ6ct.png",Liverpool FC - Inter Milan 9/03 cúp c1
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220309/e5a0b47dc7a41f54388644f64d493b10.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/rcTQ6ct.png",Bayern Munich - FC Salzburg  9/03 
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/rcTQ6ct.png",Bayern Munich - FC Salzburg  9/03 cúp c1
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220309/edef41bb19b1c9db5ceec0669e0c2c9f.mp4/playlist.m3u8
 
 
