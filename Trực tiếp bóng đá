@@ -143,15 +143,17 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-vs-armi
 https://vophubongda.000webhostapp.com/playxembd.php?id=spvgg-greuther-furth-vs-rb-leipzig-luc-01h30-ngay-14-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",14/03 - 03:00 Barcelona - Osasuna
 https://vophubongda.000webhostapp.com/playxembd.php?id=barcelona-vs-osasuna-luc-03h00-ngay-14-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",15/03 - 03:00 Mallorca - Real Madrid
-https://vophubongda.000webhostapp.com/playxembd.php?id=mallorca-vs-real-madrid-luc-03h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",15/03 - 03:00 Crystal Palace - Manchester City
 https://vophubongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-manchester-city-luc-03h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",15/03 - 03:00 Mallorca - Real Madrid
+https://vophubongda.000webhostapp.com/playxembd.php?id=mallorca-vs-real-madrid-luc-03h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",16/03 - 03:00 Manchester United - Atletico Madrid
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-atletico-madrid-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/k47mbG2.png",00h00 10/03: Rijeka - Osijek
+https://vophubongda.000webhostapp.com/playcakhia.php?id=622878ff6ac0965da90d4186&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 10/03: FC Porto - Lyon
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6223d6b16ac0965da90d32a6&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 10/03: Real Betis - Frankfurt
