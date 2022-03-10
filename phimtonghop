@@ -2,13 +2,6 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/97.png", K+SPORT1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AwiEaGgk-VXpljwo7VFu80d7xerUZq3-hc05zpaIctu8%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2ODkxOTU5MDUxLHU6Ijg4MzY4YTVhLWFmMDktNjk4MS1iYWNkLWViYzM2MzYyOTNhYiIsZGU6MyxsZjowfQ
-https://sglive.vegacdn.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-
 
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Nottingham Forest - Huddersfield Town /8/3 CÚP FA
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220308/220308-0230-nottingham-forest-huddersfield-town-fa-clean-fm-final-1646697174/a64a599fd3ce88f31c94990e91ac3f81.smil/playlist.m3u8
