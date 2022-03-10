@@ -75,15 +75,15 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 #EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/Uz1hyi6.png",BLV : SAO MAI 
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://champhatden.xyz/
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://tructiepbd.xyz/
 #EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/8m1TtJq.png",BLV: Thần Chổi 
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://champhatden.xyz/
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://tructiepbd.xyz/
 #EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/Tjb1YgT.png",BLV : SAO KÊ 
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://champhatden.xyz/
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://tructiepbd.xyz/
 #EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/JqJwQPw.png",BLV KEN
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://champhatden.xyz/
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://tructiepbd.xyz/
 #EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/w80Wcmp.png",BLV SAO BĂNG NỮ
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://champhatden.xyz/
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://tructiepbd.xyz/
 
 #EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/z3nxUoN.png",BLV: Giàng A Phò 1
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
