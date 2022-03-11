@@ -105,20 +105,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 #EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",03h00 12/03: Atletico Madrid - Cadiz
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Atletico Madrid - Cadiz
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Atletico Madrid - Cadiz
-https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Atletico Madrid - Cadiz
-https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Atletico Madrid - Cadiz
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Atletico Madrid - Cadiz
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lille - Saint-Etienne
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài West Brom - Huddersfield
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -126,12 +112,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 12/03: Atletico Madrid - Cadiz
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c1136ac0965da90d3f2e&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",03h00 12/03: Lille - Saint-Etienne
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c1156ac0965da90d3f2f&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",03h00 12/03: West Brom - Huddersfield
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c1526ac0965da90d3f3a&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",17h00 12/03: FLC Thanh Hoa - Da Nang
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2896ac0965da90d3f47&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",19h15 12/03: Ha Noi FC - Ho Chi Minh City FC
