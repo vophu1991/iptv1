@@ -114,14 +114,16 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 #EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",02h45 13/03: Milan - Empoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Ha Noi FC - Ho Chi Minh City FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Brighton - Liverpool
+https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YtmLrXy.png",Ha Noi - Ho Chi Minh City
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",12/03 - 19:30 Brighton - Liverpool
-https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",12/03 - 21:30 Hoffenheim - Bayern Munich
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",13/03 - 00:30 Manchester United - Tottenham
@@ -136,9 +138,9 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xe
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",13/03 - 21:00 Chelsea - Newcastle
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",13/03 - 23:30 Borussia Dortmund - Arminia Bielefeld
-https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",13/03 - 23:30 Arsenal - Leicester
+https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",13/03 - 23:30 Borussia Dortmund - Arminia Bielefeld
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",14/03 - 01:30 SpVgg Greuther Furth - RB Leipzig
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
@@ -169,16 +171,16 @@ https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c27d6ac0965da90d3f3d
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2946ac0965da90d3f56&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",21h00 12/03: Salernitana - Sassuolo
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2976ac0965da90d3f59&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 12/03: Union Berlin - VfB Stuttgart
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c28b6ac0965da90d3f4a&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 12/03: Hoffenheim - Bayern München
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c28d6ac0965da90d3f4d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 12/03: Union Berlin - VfB Stuttgart
+https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c28b6ac0965da90d3f4a&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 12/03: Freiburg - Wolfsburg
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c28f6ac0965da90d3f50&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",22h00 12/03: Peterborough - Stoke
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2996ac0965da90d3f5c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 12/03: Brentford - Burnley
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622b4a947c8c061a70f6caf1&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",22h00 12/03: Peterborough - Stoke
+https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2996ac0965da90d3f5c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",22h15 12/03: Granada - Elche
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622b50417c8c061a70f6cb00&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",23h00 12/03: Montpellier - Nice
