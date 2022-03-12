@@ -114,24 +114,12 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 #EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",02h45 13/03: Milan - Empoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài FLC Thanh Hoa - Da Nang
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 FLC Thanh Hoa - Da Nang
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 FLC Thanh Hoa - Da Nang
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 FLC Thanh Hoa - Da Nang
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 FLC Thanh Hoa - Da Nang
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YtmLrXy.png",Thanh Hóa - Da Nang
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YtmLrXy.png",Ha Noi - Ho Chi Minh City
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",12/03 - 19:15 Ha Noi - Ho Chi Minh City
-https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",12/03 - 19:30 Brighton - Liverpool
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",12/03 - 21:30 Hoffenheim - Bayern Munich
@@ -142,11 +130,11 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xe
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",13/03 - 19:15 Sai Gon - Song Lam Nghe An
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",13/03 - 21:00 West Ham - Aston Villa
+https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",13/03 - 21:00 Everton - Wolves
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",13/03 - 21:00 Chelsea - Newcastle
-https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",13/03 - 21:00 West Ham - Aston Villa
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",13/03 - 23:30 Arsenal - Leicester
 https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
@@ -169,14 +157,12 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xe
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",17h00 12/03: FLC Thanh Hoa - Da Nang
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2896ac0965da90d3f47&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",19h15 12/03: Ha Noi FC - Ho Chi Minh City FC
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2866ac0965da90d3f44&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",19h30 12/03: Barnsley - Fulham
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2806ac0965da90d3f3e&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",19h30 12/03: Brighton - Liverpool
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2846ac0965da90d3f43&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",19h30 12/03: Barnsley - Fulham
+https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2806ac0965da90d3f3e&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 12/03: Levante - Espanyol
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c27d6ac0965da90d3f3d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",21h00 12/03: Spezia - Cagliari
