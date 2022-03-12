@@ -114,16 +114,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 #EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",02h45 13/03: Milan - Empoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Brighton - Liverpool
-https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Brighton - Liverpool
-https://bb5iqwas4fliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Brighton - Liverpool
-https://bb5iqwas4fliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Brighton - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Brighton - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Barnsley - Fulham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Levante - Espanyol
@@ -135,15 +125,15 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Hoffenheim - Bayern München
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Hoffenheim - Bayern München
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Hoffenheim - Bayern München
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Hoffenheim - Bayern München
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Hoffenheim - Bayern München
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Union Berlin - VfB Stuttgart
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Freiburg - Wolfsburg
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
@@ -153,8 +143,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",19h30 12/03: Brighton - Liverpool
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2846ac0965da90d3f43&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",19h30 12/03: Barnsley - Fulham
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c2806ac0965da90d3f3e&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 12/03: Levante - Espanyol
