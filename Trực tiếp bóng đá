@@ -114,10 +114,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 #EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",02h45 13/03: Milan - Empoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Getafe - Valencia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Troyes - Nantes
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -125,10 +121,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 13/03: Getafe - Valencia
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c3526ac0965da90d3f80&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",03h00 13/03: Troyes - Nantes
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6227c3546ac0965da90d3f83&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",17h00 13/03: Binh Duong - Hai Phong
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6229e48b7c8c061a70f6c62c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",18h00 13/03: Hong Linh Ha Tinh - Binh Dinh
