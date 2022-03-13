@@ -2,8 +2,13 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
+
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/5zirnDK.png",Arsenal vs Leiceste 13/03  NGOẠI HẠNG ANH
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/14/196_1968492c6fdc05442b69c974ec13b32d678_RELAY-20220313232148/playlist_720.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/5zirnDK.png",Chelsea vs Newcastle 13/03  NGOẠI HẠNG ANH
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/13/196_196b8f59fa5965d4f7bbd2f05d6dddcd847_RELAY-20220313204622/playlist_720.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/5zirnDK.png", ManUtd vs Tottenham 12/03 NGOẠI HẠNG ANH
-https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/13/196_196cdb606e44bc84deb83b3b3361b5423d5_1080p-20220313001916/playlist.m3u8
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/13/196_196cdb606e44bc84deb83b3b3361b5423d5_1080p-20220313001916/playlist_720.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Nottingham Forest - Huddersfield Town /8/3 CÚP FA
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220308/220308-0230-nottingham-forest-huddersfield-town-fa-clean-fm-final-1646697174/a64a599fd3ce88f31c94990e91ac3f81.smil/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Southampton - West Ham United/3/3 CÚP FA
