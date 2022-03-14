@@ -81,33 +81,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playli
 #EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",03h00 15/03: Mallorca - Real Madrid 
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Crystal Palace - Man City
-https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Crystal Palace - Man City
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Crystal Palace - Man City
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Crystal Palace - Man City
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Crystal Palace - Man City
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Mallorca - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Mallorca - Real Madrid
-https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Mallorca - Real Madrid
-https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Mallorca - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Mallorca - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_106.png",Mallorca - Real Madrid
-https://vophubongda.000webhostapp.com/playxembd.php?id=mallorca-vs-real-madrid-luc-03h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_147.png",Crystal Palace - Manchester City
-https://vophubongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-manchester-city-luc-03h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_118.png",16/03 - 03:00 Ajax - Benfica
 https://vophubongda.000webhostapp.com/playxembd.php?id=ajax-vs-benfica-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
@@ -154,10 +130,6 @@ https://vophubongda.000webhostapp.com/playvebotv.php?id=liverpool-arsenal-wYGJlB
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",03h00 15/03: Crystal Palace - Man City
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622cca867c8c061a70f6d031&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 15/03: Mallorca - Real Madrid
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622cca887c8c061a70f6d034&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 16/03: Man United - Atletico Madrid
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622ccb0f7c8c061a70f6d045&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 16/03: Ajax - Benfica
