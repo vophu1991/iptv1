@@ -109,6 +109,20 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlis
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2699/image", -  Lazio - Venezia
+https://vophubongda.000webhostapp.com/playvebotv.php?id=lazio-venezia-h8usosK&.m3u8|Referer=https://vebotv.tv
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2826/image", -  RCD Mallorca - Real Madrid
+https://vophubongda.000webhostapp.com/playvebotv.php?id=real-madrid-rcd-mallorca-JiKBdP0&.m3u8|Referer=https://vebotv.tv
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7/image", -  Crystal Palace - Manchester City
+https://vophubongda.000webhostapp.com/playvebotv.php?id=crystal-palace-manchester-city-O0DyEZY&.m3u8|Referer=https://vebotv.tv
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2953/image",16/03/2022 - 03:00 Ajax - SL Benfica
+https://vophubongda.000webhostapp.com/playvebotv.php?id=sl-benfica-ajax-I4D7IqR&.m3u8|Referer=https://vebotv.tv
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/35/image",16/03/2022 - 03:00 Manchester United - Atlético Madrid
+https://vophubongda.000webhostapp.com/playvebotv.php?id=manchester-united-atletico-madrid-p2iZeIi&.m3u8|Referer=https://vebotv.tv
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2687/image",17/03/2022 - 03:00 Juventus - Villarreal
+https://vophubongda.000webhostapp.com/playvebotv.php?id=villarreal-juventus-9dywk7C&.m3u8|Referer=https://vebotv.tv
+
+
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",02h45 15/03: Lazio - Venezia
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622cca847c8c061a70f6d030&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
