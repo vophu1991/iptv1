@@ -75,28 +75,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
-#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/Uz1hyi6.png",BLV : SAO MAI 
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://16m50.xyz/
-#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/8m1TtJq.png",BLV: Thần Chổi 
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8https://16m50.xyz/
-#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/Tjb1YgT.png",BLV : SAO KÊ 
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://16m50.xyz/
-#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/JqJwQPw.png",BLV KEN
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://16m50.xyz/
-
-#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/z3nxUoN.png",BLV: Giàng A Phò 1
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/em5ot5H.png",BLV: Giàng A Lữ 1
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/AJjsTVB.png",BLV: Giàng A CAY 
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/HdAg3Wc.png",BLV: Giàng A PÁO 
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/4J6WdN3.png",BLV: Giàng A Lếch
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-
-
-
 #EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",03h00 15/03: Crystal Palace - Man City
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",03h00 15/03: Mallorca - Real Madrid 
