@@ -95,10 +95,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=wolves-vs-leeds-luc-03h00
 https://vophubongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-arsenal-luc-19h30-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_116.png",19/03 - 22:00 Manchester City - Brighton
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-brighton-luc-22h00-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
-https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
 https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
+https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_84.png",20/03 - 19:00 Monaco - Paris Saint Germain
 https://vophubongda.000webhostapp.com/playxembd.php?id=monaco-vs-paris-saint-germain-luc-19h00-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_92.png",20/03 - 21:00 Tottenham - West Ham
@@ -109,21 +109,13 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-manchester-u
 https://vophubongda.000webhostapp.com/playxembd.php?id=fc-koln-vs-borussia-dortmund-luc-01h30-ngay-21-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 
 
-#EXTINF:-1 group-title="VEBOTV VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2953/image",16/03/2022 - 03:00 Ajax - SL Benfica
-https://vophubongda.000webhostapp.com/playvebotv.php?id=sl-benfica-ajax-I4D7IqR&.m3u8|Referer=https://vebotv.tv
-#EXTINF:-1 group-title="VEBOTV VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/35/image",16/03/2022 - 03:00 Manchester United - Atlético Madrid
-https://vophubongda.000webhostapp.com/playvebotv.php?id=manchester-united-atletico-madrid-p2iZeIi&.m3u8|Referer=https://vebotv.tv
-#EXTINF:-1 group-title="VEBOTV VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/30/image",17/03/2022 - 02:30 Brighton & Hove Albion - Tottenham
-https://vophubongda.000webhostapp.com/playvebotv.php?id=tottenham-brighton-and-hove-albion-kdSUa7P&.m3u8|Referer=https://vebotv.tv
-#EXTINF:-1 group-title="VEBOTV VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1643/image",17/03/2022 - 03:00 Lille OSC - Chelsea
-https://vophubongda.000webhostapp.com/playvebotv.php?id=chelsea-lille-osc-2AvzKeH&.m3u8|Referer=https://vebotv.tv
-#EXTINF:-1 group-title="VEBOTV VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2687/image",17/03/2022 - 03:00 Juventus - Villarreal
-https://vophubongda.000webhostapp.com/playvebotv.php?id=villarreal-juventus-9dywk7C&.m3u8|Referer=https://vebotv.tv
-#EXTINF:-1 group-title="VEBOTV VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/42/image",17/03/2022 - 03:15 Arsenal - Liverpool
-https://vophubongda.000webhostapp.com/playvebotv.php?id=liverpool-arsenal-wYGJlBU&.m3u8|Referer=https://vebotv.tv
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",18h00 15/03: Biashara Mara United - Tanzania Prisons
+https://vophubongda.000webhostapp.com/playcakhia.php?id=622ffb667b4fa14404a5069e&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",18h00 15/03: Noravank - Ararat
+https://vophubongda.000webhostapp.com/playcakhia.php?id=622ffb677b4fa14404a5069f&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 16/03: Man United - Atletico Madrid
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622ccb0f7c8c061a70f6d045&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 16/03: Ajax - Benfica
