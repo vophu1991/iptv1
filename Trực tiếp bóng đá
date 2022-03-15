@@ -99,13 +99,9 @@ https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Ajax - Benfica
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài West Brom - Fulham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",Manchester United - Atletico Madrid
-https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-atletico-madrid-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_118.png",Ajax - Benfica
 https://vophubongda.000webhostapp.com/playxembd.php?id=ajax-vs-benfica-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 
@@ -127,10 +123,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=wolves-vs-leeds-luc-03h00
 https://vophubongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-arsenal-luc-19h30-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",19/03 - 22:00 Manchester City - Brighton
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-brighton-luc-22h00-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
-https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
 https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
+https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_84.png",20/03 - 19:00 Monaco - Paris Saint Germain
 https://vophubongda.000webhostapp.com/playxembd.php?id=monaco-vs-paris-saint-germain-luc-19h00-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",20/03 - 21:00 Tottenham - West Ham
@@ -152,8 +148,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-barcelona-
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622ccb0f7c8c061a70f6d045&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 16/03: Ajax - Benfica
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622ccb147c8c061a70f6d048&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",03h00 16/03: West Brom - Fulham
-https://vophubongda.000webhostapp.com/playcakhia.php?id=62307b6cf9b15a1f461dbcbf&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",19h15 16/03: Ha Noi FC - FLC Thanh Hoa
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f73da7b4fa14404a50419&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",00h30 17/03: Mainz 05 - Borussia Dortmund
