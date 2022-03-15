@@ -81,10 +81,12 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_118.png",16/03 - 03:00 Ajax - Benfica
 https://vophubongda.000webhostapp.com/playxembd.php?id=ajax-vs-benfica-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_45.png",17/03 - 03:00 Lille - Chelsea
-https://vophubongda.000webhostapp.com/playxembd.php?id=lille-vs-chelsea-luc-03h00-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_42.png",16/03 - 03:10 Manchester United - Atletico Madrid
+https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-atletico-madrid-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_46.png",17/03 - 03:00 Juventus - Villarreal
 https://vophubongda.000webhostapp.com/playxembd.php?id=juventus-vs-villarreal-luc-03h00-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_45.png",17/03 - 03:00 Lille - Chelsea
+https://vophubongda.000webhostapp.com/playxembd.php?id=lille-vs-chelsea-luc-03h00-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_60.png",17/03 - 03:15 Arsenal - Liverpool
 https://vophubongda.000webhostapp.com/playxembd.php?id=arsenal-vs-liverpool-luc-03h15-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_127.png",18/03 - 00:45 Galatasaray - Barcelona
@@ -95,10 +97,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=wolves-vs-leeds-luc-03h00
 https://vophubongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-arsenal-luc-19h30-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_116.png",19/03 - 22:00 Manchester City - Brighton
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-brighton-luc-22h00-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
-https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
 https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
+https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_84.png",20/03 - 19:00 Monaco - Paris Saint Germain
 https://vophubongda.000webhostapp.com/playxembd.php?id=monaco-vs-paris-saint-germain-luc-19h00-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/wp-content/uploads/data/team/team_92.png",20/03 - 21:00 Tottenham - West Ham
