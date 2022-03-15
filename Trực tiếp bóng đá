@@ -82,6 +82,8 @@ https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_138.png",Legia Warszawa - Nieciecza
+https://vophubongda.000webhostapp.com/playxembd.php?id=legia-warszawa-vs-nieciecza-luc-00h45-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1701.png",Baniyas SC - Nasaf
 https://vophubongda.000webhostapp.com/playxembd.php?id=baniyas-sc-vs-nasaf-luc-23h15-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1703.png",Sharjah FC - Al Zawra'a
@@ -89,10 +91,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=sharjah-fc-vs-al-zawraa-l
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1699.png",Al Taawon - Jaish
 https://vophubongda.000webhostapp.com/playxembd.php?id=al-taawon-vs-jaish-luc-22h50-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",16/03 - 03:00 Manchester United - Atletico Madrid
-https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-atletico-madrid-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_118.png",16/03 - 03:00 Ajax - Benfica
 https://vophubongda.000webhostapp.com/playxembd.php?id=ajax-vs-benfica-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",16/03 - 03:00 Manchester United - Atletico Madrid
+https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-atletico-madrid-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1639.png",16/03 - 07:00 Comunicaciones - New York City FC
 https://vophubongda.000webhostapp.com/playxembd.php?id=comunicaciones-vs-new-york-city-fc-luc-07h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1672.png",16/03 - 22:30 Borussia Dortmund U19 - Atlético Madrid U19
