@@ -79,21 +79,9 @@ https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/5VXyGbS.png",03h00 17/03: Lille - Chelsea
 https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Ha Noi FC - FLC Thanh Hoa
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Ha Noi FC - FLC Thanh Hoa
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Ha Noi FC - FLC Thanh Hoa
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Ha Noi FC - FLC Thanh Hoa
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Ha Noi FC - FLC Thanh Hoa
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/en/2/24/Hanoi_FC_logo.svg",Ha Noi - Thanh Hóa
-https://vophubongda.000webhostapp.com/playxembd.php?id=ha-noi-vs-thanh-hoa&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/ATK_Mohun_Bagan_FC_logo.svg/1200px-ATK_Mohun_Bagan_FC_logo.svg.png",ATK Mohun Bagan - Hyderabad
 https://vophubongda.000webhostapp.com/playxembd.php?id=atk-mohun-bagan-vs-hyderabad-luc-21h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1358.png",PSS Sleman - PSIS Semarang
@@ -117,10 +105,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=wolves-vs-leeds-luc-03h00
 https://vophubongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-arsenal-luc-19h30-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",19/03 - 22:00 Manchester City - Brighton
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-brighton-luc-22h00-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
-https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
 https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
+https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_84.png",20/03 - 19:00 Monaco - Paris Saint Germain
 https://vophubongda.000webhostapp.com/playxembd.php?id=monaco-vs-paris-saint-germain-luc-19h00-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",20/03 - 21:00 Tottenham - West Ham
@@ -138,8 +126,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-barcelona-
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",19h15 16/03: Ha Noi FC - FLC Thanh Hoa
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622f73da7b4fa14404a50419&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",00h30 17/03: Mainz 05 - Borussia Dortmund
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f69727b4fa14404a503aa&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",02h30 17/03: Brighton - Tottenham
