@@ -82,6 +82,12 @@ https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1352.png",Adelaide United - Western Sydney Wanderers
+https://vophubongda.000webhostapp.com/playxembd.php?id=adelaide-united-vs-western-sydney-wanderers&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1689.png",Phu Dong - Bà Ria Vũng Tàu
+https://vophubongda.000webhostapp.com/playxembd.php?id=phu-dong-vs-ba-ria-vung-tau-luc-15h30-ngay-04-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/CAND_FC.svg/220px-CAND_FC.svg.png",Công An Nhân Dân - Quang Nam
+https://vophubongda.000webhostapp.com/playxembd.php?id=cong-an-nhan-dan-vs-quang-nam-luc-15h30-ngay-05-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1384.png",Bhayangkara FC - Persipura Jayapura
 https://vophubongda.000webhostapp.com/playxembd.php?id=bhayangkara-fc-vs-persipura-jayapura-luc-15h15-ngay-14-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 
