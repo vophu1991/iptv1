@@ -89,6 +89,16 @@ https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://xem.rakhoi1.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Mainz 05 - Borussia Dortmund
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Brighton - Tottenham
+https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Brighton - Tottenham
+https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Brighton - Tottenham
+https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Brighton - Tottenham
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Brighton - Tottenham
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -106,14 +116,10 @@ https://vophubongda.000webhostapp.com/playmitomtv.php?id=lille-vs-chelsea-0300-1
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=juventus-vs-villarreal-0300-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/19.png",Hôm nay - 03:15  Arsenal - Liverpool
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=arsenal-vs-liverpool-0315-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/05/3787.png",Hôm nay - 00:00  Wolfsberger AC - Salzburg
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=wolfsberger-ac-vs-salzburg-0000-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/794.png",Hôm nay - 00:30  FSV Mainz 05 - B. Dortmund
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=fsv-mainz-05-vs-b-dortmund-2130-06-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/1006.png",Hôm nay - 00:30  Ascoli - Pisa
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=ascoli-vs-pisa-0030-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/10722.png",Hôm nay - 00:30  Cremonese - Pordenone
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=cremonese-vs-pordenone-0030-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/731.png",Hôm nay - 00:30  Perugia - SPAL
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=perugia-vs-spal-0030-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/4270.png",Hôm nay - 01:00  ENPPI - C. Cleopatra
@@ -138,6 +144,10 @@ https://vophubongda.000webhostapp.com/playmitomtv.php?id=dep-tolima-vs-patriotas
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=america-w-vs-queretaro-w-0445-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2022/03/9966.png",Hôm nay - 05:00  Moto Club - Tombense
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=moto-club-vs-tombense-0500-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/07/000-20.png",Hôm nay - 05:15  River Plate - Liverpool P.
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=river-plate-vs-liverpool-p-0515-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/9335.png",Hôm nay - 05:15  Estudiantes - Everton CD
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=estudiantes-vs-everton-cd-0515-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
