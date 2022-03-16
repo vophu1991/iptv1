@@ -120,8 +120,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/690.png",Hôm nay - 03:00  Lille - Chelsea
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=lille-vs-chelsea-0300-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/09/2-3.png",Hôm nay - 03:00  Juventus - Villarreal
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=juventus-vs-villarreal-0300-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/19.png",Hôm nay - 03:15  Arsenal - Liverpool
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=arsenal-vs-liverpool-0315-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/10204.png",Hôm nay - 04:00  Dep. Tolima - Patriotas Boyacá
@@ -158,6 +156,8 @@ https://vophubongda.000webhostapp.com/playmitomtv.php?id=sport-boys-vs-ayacucho-
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=olimpia-vs-fluminense-0730-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/3847.png",Hôm nay - 07:30  CSA - Paysandu
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=csa-vs-paysandu-0730-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/3496.png",Hôm nay - 07:30  São Paulo - Manaus
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=sao-paulo-vs-manaus-0730-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
