@@ -84,6 +84,8 @@ https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1352.png",Adelaide United - Western Sydney Wanderers
 https://vophubongda.000webhostapp.com/playxembd.php?id=adelaide-united-vs-western-sydney-wanderers&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1924.png",Gwangju FC - Seoul E-Land FC
+https://vophubongda.000webhostapp.com/playxembd.php?id=gwangju-fc-vs-seoul-e-land-fc-luc-17h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1689.png",Phu Dong - Bà Ria Vũng Tàu
 https://vophubongda.000webhostapp.com/playxembd.php?id=phu-dong-vs-ba-ria-vung-tau-luc-15h30-ngay-04-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/CAND_FC.svg/220px-CAND_FC.svg.png",Công An Nhân Dân - Quang Nam
@@ -212,6 +214,10 @@ https://vophubongda.000webhostapp.com/playcakhia.php?id=6231aad20688c5459c870dd4
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6231ab330688c5459c870dd7&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",19h30 19/03: Sheff Utd - Barnsley
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6231ab350688c5459c870dd8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",19h30 19/03: Aston Villa - Arsenal
+https://vophubongda.000webhostapp.com/playcakhia.php?id=6231b2960688c5459c870dfc&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 19/03: Deportivo Alaves - Granada
+https://vophubongda.000webhostapp.com/playcakhia.php?id=6231b2bf0688c5459c870e02&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",21h00 19/03: Napoli - Udinese
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6231ab380688c5459c870ddb&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 19/03: Greuther Fürth - Freiburg
