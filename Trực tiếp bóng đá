@@ -79,6 +79,12 @@ https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/5VXyGbS.png",03h00 17/03: Lille - Chelsea
 https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Adelaide United - Western Sydney Wanderers FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Qb2TmO4.png",HD Adelaide United - Western Sydney Wanderers FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/n8dg9yF.png",SD Adelaide United - Western Sydney Wanderers FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -99,10 +105,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=cong-an-nhan-dan-vs-quang
 https://vophubongda.000webhostapp.com/playxembd.php?id=ha-noi-vs-thanh-hoa&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1672.png",16/03 - 22:30 Borussia Dortmund U19 - Atlético Madrid U19
 https://vophubongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-u19-vs-atletico-madrid-u19-luc-22h30-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",17/03 - 03:00 Juventus - Villarreal
-https://vophubongda.000webhostapp.com/playxembd.php?id=juventus-vs-villarreal-luc-03h00-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_45.png",17/03 - 03:00 Lille - Chelsea
 https://vophubongda.000webhostapp.com/playxembd.php?id=lille-vs-chelsea-luc-03h00-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",17/03 - 03:00 Juventus - Villarreal
+https://vophubongda.000webhostapp.com/playxembd.php?id=juventus-vs-villarreal-luc-03h00-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_60.png",17/03 - 03:15 Arsenal - Liverpool
 https://vophubongda.000webhostapp.com/playxembd.php?id=arsenal-vs-liverpool-luc-03h15-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_127.png",18/03 - 00:45 Galatasaray - Barcelona
@@ -134,6 +140,8 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-barcelona-
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - A-League Men" tvg-logo="https://i.imgur.com/Xvjl8PW.png",15h35 16/03: Adelaide United - Western Sydney Wanderers FC
+https://vophubongda.000webhostapp.com/playcakhia.php?id=6230bc1c0688c5459c870af3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",19h15 16/03: Ha Noi FC - FLC Thanh Hoa
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f73da7b4fa14404a50419&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",00h30 17/03: Mainz 05 - Borussia Dortmund
