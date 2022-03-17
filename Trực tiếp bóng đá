@@ -137,6 +137,16 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Rennes - Leicester
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Everton - Newcastle
+https://bb5iqwas4fliv.vcdn.cloud/m401nd/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Everton - Newcastle
+https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Everton - Newcastle
+https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Everton - Newcastle
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Everton - Newcastle
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -149,16 +159,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=galatasaray-vs-barcelona-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/2673.png",Hôm nay - 00:45  Crvena Zvezda - Rangers
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=crvena-zvezda-vs-rangers-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/monaco.gif",Hôm nay - 00:45  Monaco - Sporting Braga
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=monaco-vs-sporting-braga-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/3321-2.png",Hôm nay - 00:45  B. Leverkusen - Atalanta
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=b-leverkusen-vs-atalanta-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/468.png",Hôm nay - 00:45  Basel - Olympique Marseille
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=basel-vs-olympique-marseille-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/598.png",Hôm nay - 00:45  Rennes - Leicester City
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=rennes-vs-leicester-city-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/85.png",Hôm nay - 00:45  København - PSV
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=kobenhavn-vs-psv-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/61.png",Hôm nay - 00:45  AZ - Bodø / Glimt
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=az-vs-bodo-glimt-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/07/1-2.png",Hôm nay - 03:00  West Ham Utd - Sevilla
