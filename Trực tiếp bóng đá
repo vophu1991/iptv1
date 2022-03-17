@@ -85,10 +85,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2022/03/9966.png",Hôm nay - 05:00  Moto Club - Tombense
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=moto-club-vs-tombense-0500-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/07/000-20.png",Hôm nay - 05:15  River Plate - Liverpool P.
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=river-plate-vs-liverpool-p-0515-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/9335.png",Hôm nay - 05:15  Estudiantes - Everton CD
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=estudiantes-vs-everton-cd-0515-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/07/15553.png",Hôm nay - 06:00  Alebrijes - Tlaxcala
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=alebrijes-vs-tlaxcala-0600-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/9999.png",Hôm nay - 06:00  Talleres Córdoba - Atlético Güemes
@@ -123,6 +119,10 @@ https://vophubongda.000webhostapp.com/playmitomtv.php?id=correcaminos-vs-atlante
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=dep-pasto-vs-santa-fe-0810-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/ZZICanP.png",Hôm nay - 09:00  Juárez W - Mazatlán W
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=juarez-w-vs-mazatlan-w-0900-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/Golden-State-Warriors-1.png",Hôm nay - 09:00  Golden State Warriors - Boston Celtics
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=golden-state-warriors-vs-boston-celtics-0900-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/Sacramento-Kings-1.png",Hôm nay - 09:00  Sacramento Kings - Milwaukee Bucks
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=sacramento-kings-vs-milwaukee-bucks-0900-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
