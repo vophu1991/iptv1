@@ -111,6 +111,18 @@ https://livecdn.fptplay.net/hdevent/uefa15_vhls.smil/chunklist_b5000000.m3u8
 
 
 
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/7/image",18/03/2022 - 18:00 Champions League - Champions League
+https://vophubongda.000webhostapp.com/playvebotv.php?id=ironi-tiberias-sc-tzeirey-taibe-veNWoZS&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/679/image",18/03/2022 - 19:00  Europa League -  Europa League
+https://vophubongda.000webhostapp.com/playvebotv.php?id=maccabi-kabilio-jaffa-maccabi-ironi-ashdod-GLnyQ2P&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17015/image",18/03/2022 - 19:30 Conference League - Conference League
+https://vophubongda.000webhostapp.com/playvebotv.php?id=maccabi-tamra-hapoel-kaukab-wGsrhty&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/3/image",19/03/2022 - 03:00 Wolverhampton - Leeds United
+https://vophubongda.000webhostapp.com/playvebotv.php?id=leeds-united-wolverhampton-DcJxubS&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/40/image",19/03/2022 - 19:30 Aston Villa - Arsenal
+https://vophubongda.000webhostapp.com/playvebotv.php?id=arsenal-aston-villa-e7ZdQWJ&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/36/image",20/03/2022 - 00:15 Middlesbrough - Chelsea
+https://vophubongda.000webhostapp.com/playvebotv.php?id=chelsea-middlesbrough-dm4voiI&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/538.png",Hôm nay - 10:05  Querétaro - Atl. San Luis
