@@ -83,8 +83,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2022/03/3736.png",Hôm nay - 07:00  M. Impact - Cruz Azul
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=m-impact-vs-cruz-azul-0700-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/9269.png",Hôm nay - 07:30  América Cali - Inde.Medellín
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=america-cali-vs-inde-medellin-0730-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/10779.png",Hôm nay - 07:30  LDU Quito - Mushuc Runa
@@ -123,6 +121,8 @@ https://vophubongda.000webhostapp.com/playmitomtv.php?id=atyrau-vs-maqtaaral-160
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=astana-vs-aktobe-1600-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/02/team_placeholder-36.png",Hôm nay - 16:30  Baridhara - A. Chittagong
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=baridhara-vs-a-chittagong-1630-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/7345.png",Hôm nay - 18:00  Ordabasy - Akzhayik
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=ordabasy-vs-akzhayik-1800-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
