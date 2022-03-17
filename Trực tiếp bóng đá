@@ -105,6 +105,8 @@ https://livecdn.fptplay.net/hdevent/uefa14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/XSPLm3d.png",03h00 18/03: West Ham - Sevilla
 https://livecdn.fptplay.net/hdevent/uefa15_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Tobol Kostanay - FC Kyzylzhar Petropavlovsk
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -145,6 +147,8 @@ https://vophubongda.000webhostapp.com/playmitomtv.php?id=lask-linz-vs-slavia-pra
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=feyenoord-vs-partizan-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/538.png",Ngày mai - 10:05  Querétaro - Atl. San Luis
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=queretaro-vs-atl-san-luis-1005-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/1041.png",19/03/2022 - 00:00  Rizespor - Trabzonspor
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=rizespor-vs-trabzonspor-0000-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
