@@ -105,18 +105,6 @@ https://livecdn.fptplay.net/hdevent/uefa14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/XSPLm3d.png",03h00 18/03: West Ham - Sevilla
 https://livecdn.fptplay.net/hdevent/uefa15_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài West Ham - Sevilla
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 West Ham - Sevilla
-https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 West Ham - Sevilla
-https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 West Ham - Sevilla
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 West Ham - Sevilla
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Frankfurt - Real Betis
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -158,10 +146,6 @@ https://vophubongda.000webhostapp.com/playmitomtv.php?id=puebla-vs-santos-laguna
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: West Ham - Sevilla
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622f69db7b4fa14404a503db&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: Frankfurt - Real Betis
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622f69d17b4fa14404a503d5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",21h00 18/03: Papua New Guinea - New Zealand
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f6b3f7b4fa14404a503fe&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 19/03: New Caledonia - Fiji
