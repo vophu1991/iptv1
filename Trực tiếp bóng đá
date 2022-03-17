@@ -83,46 +83,38 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/Utah-Jazz-1.png",Hôm nay - 08:00  Utah Jazz - Chicago Bulls
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=utah-jazz-vs-chicago-bulls-0800-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/11382.png",Hôm nay - 08:05  Correcaminos - Atlante
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=correcaminos-vs-atlante-0805-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/12832.png",Hôm nay - 08:10  Dep. Pasto - Santa Fe
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=dep-pasto-vs-santa-fe-0810-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/ZZICanP.png",Hôm nay - 09:00  Juárez W - Mazatlán W
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=juarez-w-vs-mazatlan-w-0900-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/Golden-State-Warriors-1.png",Hôm nay - 09:00  Golden State Warriors - Boston Celtics
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=golden-state-warriors-vs-boston-celtics-0900-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/Sacramento-Kings-1.png",Hôm nay - 09:00  Sacramento Kings - Milwaukee Bucks
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=sacramento-kings-vs-milwaukee-bucks-0900-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/2989.png",Hôm nay - 09:15  Pumas UNAM - New England
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=pumas-unam-vs-new-england-0915-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/Indiana-Pacers-1-1.png",Hôm nay - 09:30  Los Angeles Clippers - Toronto Raptors
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=los-angeles-clippers-vs-toronto-raptors-0930-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2022/03/8329.png",Hôm nay - 10:05  Cimarrones Sonora - Celaya
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=cimarrones-sonora-vs-celaya-1005-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/01/team_placeholder-1-25.png",Hôm nay - 15:00  Da Nang U19 - Pho Hien U19
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=da-nang-u19-vs-pho-hien-u19-1500-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/09/5653.png",Hôm nay - 16:00  Atyrau - Maqtaaral
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=atyrau-vs-maqtaaral-1600-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/5909.png",Hôm nay - 16:00  Astana - Aktobe
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=astana-vs-aktobe-1600-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/02/team_placeholder-36.png",Hôm nay - 16:30  Baridhara - A. Chittagong
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=baridhara-vs-a-chittagong-1630-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/7345.png",Hôm nay - 18:00  Ordabasy - Akzhayik
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=ordabasy-vs-akzhayik-1800-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/3108.png",Hôm nay - 18:00  Kairat - Taraz
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=kairat-vs-taraz-1800-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/09/team_placeholder-156.png",Hôm nay - 18:00  Arys - Kaspiy
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=arys-vs-kaspiy-1800-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/11/36396.jpg",Hôm nay - 20:00  Pharco - NBE SC
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=pharco-vs-nbe-sc-2000-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/5834.png",Hôm nay - 20:00  Tobol - Kyzyl-Zhar
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=tobol-vs-kyzyl-zhar-2000-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/6733.png",Hôm nay - 20:30  Persija - Madura Utd
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=persija-vs-madura-united-2030-09-02&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/09/3890.png",Hôm nay - 20:30  Triestina - Pergolettese
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=triestina-vs-pergolettese-2030-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/34.png",Ngày mai - 00:45  Galatasaray - Barcelona
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=galatasaray-vs-barcelona-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/2673.png",Ngày mai - 00:45  Crvena Zvezda - Rangers
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=crvena-zvezda-vs-rangers-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/monaco.gif",Ngày mai - 00:45  Monaco - Sporting Braga
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=monaco-vs-sporting-braga-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/3321-2.png",Ngày mai - 00:45  B. Leverkusen - Atalanta
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=b-leverkusen-vs-atalanta-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/468.png",Ngày mai - 00:45  Basel - Olympique Marseille
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=basel-vs-olympique-marseille-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/598.png",Ngày mai - 00:45  Rennes - Leicester City
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=rennes-vs-leicester-city-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/85.png",Ngày mai - 00:45  København - PSV
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=kobenhavn-vs-psv-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/61.png",Ngày mai - 00:45  AZ - Bodø / Glimt
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=az-vs-bodo-glimt-0045-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/07/1-2.png",Ngày mai - 03:00  West Ham Utd - Sevilla
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=west-ham-utd-vs-sevilla-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/366.png",Ngày mai - 03:00  E. Frankfurt - Real Betis
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=e-frankfurt-vs-real-betis-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/12/79.png",Ngày mai - 03:00  Lyonnais - Porto
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=olympique-lyonnais-vs-porto-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/2402.png",Ngày mai - 03:00  Gent - PAOK
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=gent-vs-paok-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/37.png",Ngày mai - 03:00  Roma - Vitesse
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=roma-vs-vitesse-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/3369.png",Ngày mai - 03:00  LASK Linz - Slavia Praha
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=lask-linz-vs-slavia-praha-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/73.png",Ngày mai - 03:00  Feyenoord - Partizan
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=feyenoord-vs-partizan-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/538.png",Ngày mai - 10:05  Querétaro - Atl. San Luis
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=queretaro-vs-atl-san-luis-1005-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
