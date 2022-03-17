@@ -105,8 +105,6 @@ https://livecdn.fptplay.net/hdevent/uefa14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/XSPLm3d.png",03h00 18/03: West Ham - Sevilla
 https://livecdn.fptplay.net/hdevent/uefa15_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Tobol Kostanay - FC Kyzylzhar Petropavlovsk
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -147,13 +145,31 @@ https://vophubongda.000webhostapp.com/playmitomtv.php?id=lask-linz-vs-slavia-pra
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=feyenoord-vs-partizan-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/538.png",Ngày mai - 10:05  Querétaro - Atl. San Luis
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=queretaro-vs-atl-san-luis-1005-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/557.png",Ngày mai - 15:45  Newcastle Jets - Wellington Phoenix
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=newcastle-jets-vs-wellington-phoenix-1545-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/2756.png",Ngày mai - 17:00  Yokohama F.M - Sagan Tosu
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=yokohama-f-m-vs-sagan-tosu-1700-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2022/03/18845.png",19/03/2022 - 00:00  New Caledonia - Fiji
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=new-caledonia-vs-fiji-0000-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/1041.png",19/03/2022 - 00:00  Rizespor - Trabzonspor
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=rizespor-vs-trabzonspor-0000-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/2714.png",19/03/2022 - 00:45  Sassuolo - Spezia
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=sassuolo-vs-spezia-0045-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/02/3958.png",19/03/2022 - 02:45  Saint Gilloise - KV Oostende
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=uni-saint-gilloise-vs-kv-oostende-0245-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/29.png",19/03/2022 - 03:00  Wolverhampton - Leeds United
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=wolverhampton-vs-leeds-united-0300-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/108.png",19/03/2022 - 03:00  Saint-Étienne - Troyes
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=saint-etienne-vs-troyes-0300-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/102.png",19/03/2022 - 03:00  Genoa - Torino
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=genoa-vs-torino-0300-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/09/team_placeholder-20.png",19/03/2022 - 03:15  Vizela - Famalicão
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=vizela-vs-famalicao-0315-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/3849.png",19/03/2022 - 10:00  Puebla - Santos Laguna
+https://vophubongda.000webhostapp.com/playmitomtv.php?id=puebla-vs-santos-laguna-1000-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",20h00 17/03: Tobol Kostanay - FC Kyzylzhar Petropavlovsk
-https://vophubongda.000webhostapp.com/playcakhia.php?id=623319660fedc811706ac8a2&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",21h00 17/03: Cook Islands - Solomon Islands
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f68607b4fa14404a5038c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 18/03: Tahiti - Vanuatu
