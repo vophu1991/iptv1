@@ -105,12 +105,8 @@ https://livecdn.fptplay.net/hdevent/uefa14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/XSPLm3d.png",03h00 18/03: West Ham - Sevilla
 https://livecdn.fptplay.net/hdevent/uefa15_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài FK Crvena Zvezda - Rangers
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài AZ Alkmaar - Bodø/Glimt
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Rennes - Leicester
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Everton - Newcastle
 https://bb5iqwas4fliv.vcdn.cloud/m401nd/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Everton - Newcastle
@@ -178,20 +174,16 @@ https://vophubongda.000webhostapp.com/playmitomtv.php?id=puebla-vs-santos-laguna
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: FK Crvena Zvezda - Rangers
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622f69af7b4fa14404a503b1&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 18/03: AZ Alkmaar - Bodø/Glimt
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f6b1b7b4fa14404a503e1&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 18/03: Rennes - Leicester
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622f6b1e7b4fa14404a503e4&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",02h45 18/03: Everton - Newcastle
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f6b017b4fa14404a503de&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: West Ham - Sevilla
-https://vophubongda.000webhostapp.com/playcakhia.php?id=622f69db7b4fa14404a503db&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: Frankfurt - Real Betis
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f69d17b4fa14404a503d5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: Lyon - FC Porto
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f69d67b4fa14404a503d8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: West Ham - Sevilla
+https://vophubongda.000webhostapp.com/playcakhia.php?id=622f69db7b4fa14404a503db&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",03h00 18/03: Feyenoord - Partizan Beograd
 https://vophubongda.000webhostapp.com/playcakhia.php?id=622f6b207b4fa14404a503e9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",03h00 18/03: Gent - PAOK Thessaloniki FC
