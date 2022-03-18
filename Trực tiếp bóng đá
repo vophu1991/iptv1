@@ -83,8 +83,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/538.png",Hôm nay - 10:05  Querétaro - Atl. San Luis
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=queretaro-vs-atl-san-luis-1005-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/557.png",Hôm nay - 15:45  Newcastle Jets - Wellington Phoenix
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=newcastle-jets-vs-wellington-phoenix-1545-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/2756.png",Hôm nay - 17:00  Yokohama F.M - Sagan Tosu
