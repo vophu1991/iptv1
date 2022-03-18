@@ -83,8 +83,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/2756.png",Hôm nay - 17:00  Yokohama F.M - Sagan Tosu
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=yokohama-f-m-vs-sagan-tosu-1700-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2022/03/18844.gif",Hôm nay - 21:00  Papua New Guinea - New Zealand
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=papua-new-guinea-vs-new-zealand-2100-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2022/03/18845.png",Ngày mai - 00:00  New Caledonia - Fiji
