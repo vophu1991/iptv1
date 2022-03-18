@@ -93,8 +93,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/29.png",Hôm nay - 03:00  Wolverhampton - Leeds United
-https://vophubongda.000webhostapp.com/playmitomtv.php?id=wolverhampton-vs-leeds-united-0300-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/09/team_placeholder-20.png",Hôm nay - 03:15  Vizela - Famalicão
 https://vophubongda.000webhostapp.com/playmitomtv.php?id=vizela-vs-famalicao-0315-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/3849.png",Hôm nay - 10:00  Puebla - Santos Laguna
