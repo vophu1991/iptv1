@@ -93,8 +93,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2672/image", -  Bayern München - 1. FC Union Berlin
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=bayern-munchen-1-fc-union-berlin-LEtTTkf&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2719/image",20/03/2022 - 02:45 Cagliari - Milan
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=cagliari-milan-8XXcvMm&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2818/image",20/03/2022 - 03:00 Rayo Vallecano - Atlético Madrid
@@ -105,12 +103,12 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=crystal-palace-evert
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=brentford-leicester-city-2wUxuIR&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/45/image",20/03/2022 - 22:00 Southampton - Manchester City
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=southampton-manchester-city-cxDNt3X&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/33/image",20/03/2022 - 23:30 Tottenham - West Ham United
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=west-ham-united-tottenham-x0dLUcD&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:30  Osasuna - Levante
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=osasuna-vs-levante-0030-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:30  Bayern Munich - Union Berlin
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=bayern-munich-vs-union-berlin-0030-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 02:00  Toronto - DC United
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=toronto-vs-dc-united-0200-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 02:30  LA Galaxy - Orlando City
