@@ -105,7 +105,7 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2714/image", -  Napoli - Udinese
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=napoli-udinese-4qgXGII&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2846/image",19/03/2022 - 22:15 Elche CF - Valencia
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2846/image", -  Elche CF - Valencia
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=elche-cf-valencia-XcFNpYQ&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2697/image",20/03/2022 - 00:00 Inter - Fiorentina
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=inter-fiorentina-dCHulA7&.m3u8|Referer=https://vebotv.tv/
@@ -248,8 +248,6 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6235e01502ab8d3a96c4
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3b90688c5459c870d83&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",19h00 20/03: Monaco - PSG
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3bc0688c5459c870d84&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",19h30 20/03: QPR - Peterborough
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3c10688c5459c870d8a&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 20/03: Espanyol - Mallorca
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3c40688c5459c870d8d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",21h00 20/03: Leicester - Brentford
