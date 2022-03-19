@@ -75,10 +75,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Rayo Vallecano - Atletico Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Nantes - Lille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 
@@ -99,8 +95,6 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=west-ham-united-tott
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=liverpool-nottingham-forest-kL6Nbgf&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 03:00  Atlanta Utd - Montreal Impact
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=atlanta-utd-vs-montreal-impact-0300-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 10:00  Pachuca - Cruz Azul
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=pachuca-vs-cruz-azul-1000-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 14:30  Ulsan - Pohang Steelers
@@ -162,10 +156,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=tijuana-vs-juarez-1
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 20/03: Rayo Vallecano - Atletico Madrid
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a2020688c5459c870d6f&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",03h00 20/03: Nantes - Lille
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a2050688c5459c870d72&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",17h00 20/03: Van - Ararat Armenia
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6235e01502ab8d3a96c4dc4d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",18h30 20/03: Venezia - Sampdoria
