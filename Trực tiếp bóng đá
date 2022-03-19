@@ -91,6 +91,16 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Deportivo Alaves - Granada
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Napoli - Udinese
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Napoli - Udinese
+https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Napoli - Udinese
+https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Napoli - Udinese
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Napoli - Udinese
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 
@@ -248,6 +258,8 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a2000688c5459c87
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a2020688c5459c870d6f&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",03h00 20/03: Nantes - Lille
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a2050688c5459c870d72&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",17h00 20/03: Van - Ararat Armenia
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6235e01502ab8d3a96c4dc4d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",18h30 20/03: Venezia - Sampdoria
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3b90688c5459c870d83&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",19h00 20/03: Monaco - PSG
