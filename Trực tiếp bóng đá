@@ -97,7 +97,7 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2846/image", -  Elche CF - Valencia
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=elche-cf-valencia-XcFNpYQ&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2697/image",20/03/2022 - 00:00 Inter - Fiorentina
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2697/image", -  Inter - Fiorentina
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=inter-fiorentina-dCHulA7&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/36/image",20/03/2022 - 00:15 Middlesbrough - Chelsea
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=chelsea-middlesbrough-dm4voiI&.m3u8|Referer=https://vebotv.tv/
