@@ -75,18 +75,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Aston Villa - Arsenal
-https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Aston Villa - Arsenal
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Aston Villa - Arsenal
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Aston Villa - Arsenal
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Aston Villa - Arsenal
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Sheff Utd - Barnsley
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Deportivo Alaves - Granada
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Napoli - Udinese
@@ -113,8 +101,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/40/image", -  Aston Villa - Arsenal
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=arsenal-aston-villa-e7ZdQWJ&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2846/image",19/03/2022 - 22:15 Elche CF - Valencia
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=elche-cf-valencia-XcFNpYQ&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2697/image",20/03/2022 - 00:00 Inter - Fiorentina
@@ -125,10 +111,10 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=chelsea-middlesbroug
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=bayern-munchen-1-fc-union-berlin-LEtTTkf&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7/image",20/03/2022 - 19:30 Crystal Palace - Everton
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=crystal-palace-everton-b3oySlM&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/31/image",20/03/2022 - 21:00 Leicester City - Brentford
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=brentford-leicester-city-2wUxuIR&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 19:30  Aston Villa - Arsenal
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=aston-villa-vs-arsenal-1930-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 20:00  Dep. Alavés - Granada
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=deportivo-alaves-vs-granada-2000-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 20:30  Akhmat Grozny - Lok. Moskva
@@ -228,10 +214,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=tijuana-vs-juarez-1
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",19h30 19/03: Aston Villa - Arsenal
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231b2960688c5459c870dfc&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",19h30 19/03: Sheff Utd - Barnsley
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231ab350688c5459c870dd8&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 19/03: Deportivo Alaves - Granada
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231b2bf0688c5459c870e02&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",21h00 19/03: Napoli - Udinese
