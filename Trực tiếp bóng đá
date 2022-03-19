@@ -83,16 +83,16 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/40/image",19/03/2022 - 19:30 Aston Villa - Arsenal
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=arsenal-aston-villa-e7ZdQWJ&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2714/image",19/03/2022 - 21:00 Napoli - Udinese
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=napoli-udinese-4qgXGII&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2846/image",19/03/2022 - 22:15 Elche CF - Valencia
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=elche-cf-valencia-XcFNpYQ&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2697/image",20/03/2022 - 00:00 Inter - Fiorentina
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=inter-fiorentina-dCHulA7&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/36/image",20/03/2022 - 00:15 Middlesbrough - Chelsea
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=chelsea-middlesbrough-dm4voiI&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7/image",20/03/2022 - 19:30 Crystal Palace - Everton
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=crystal-palace-everton-b3oySlM&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/31/image",20/03/2022 - 21:00 Leicester City - Brentford
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=brentford-leicester-city-2wUxuIR&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/45/image",20/03/2022 - 22:00 Southampton - Manchester City
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=southampton-manchester-city-cxDNt3X&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/33/image",20/03/2022 - 23:30 Tottenham - West Ham United
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=west-ham-united-tottenham-x0dLUcD&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2672/image",20/03/2022 - 00:30 Bayern München - 1. FC Union Berlin
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=bayern-munchen-1-fc-union-berlin-LEtTTkf&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 18:00  Nizjni Novgorod - Spartak Moskva
