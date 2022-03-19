@@ -95,6 +95,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Reading - Blackburn
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Elche - Valencia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 
@@ -264,6 +266,8 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3e20688c5459c87
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3e50688c5459c870dab&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",21h00 20/03: Juventus - Salernitana
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3e80688c5459c870dae&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 20/03: RB Leipzig - Frankfurt
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6235f18f02ab8d3a96c4dcbf&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",22h15 20/03: Cadiz - Villarreal
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3ed0688c5459c870db4&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",22h15 20/03: Celta Vigo - Real Betis
@@ -274,6 +278,8 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a3fc0688c5459c87
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a4010688c5459c870dcc&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 20/03: Wolfsburg - Leverkusen
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a4030688c5459c870dcf&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",00h00 21/03: Roma - Lazio
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6235f1c302ab8d3a96c4dcc3&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",00h30 21/03: Sevilla - Real Sociedad
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62337cef02ab8d3a96c4d4a3&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 21/03: Köln - Dortmund
