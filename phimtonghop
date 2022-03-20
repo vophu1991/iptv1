@@ -46,18 +46,13 @@ https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/14/196_19684
 https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/13/196_196b8f59fa5965d4f7bbd2f05d6dddcd847_RELAY-20220313204622/playlist_720.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/5zirnDK.png", ManUtd vs Tottenham 12/03 NGOẠI HẠNG ANH
 https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/13/196_196cdb606e44bc84deb83b3b3361b5423d5_1080p-20220313001916/playlist_720.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Nottingham Forest - Huddersfield Town /8/3 CÚP FA
-https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220308/220308-0230-nottingham-forest-huddersfield-town-fa-clean-fm-final-1646697174/a64a599fd3ce88f31c94990e91ac3f81.smil/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Southampton - West Ham United/3/3 CÚP FA
-https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220303/82835b881aaf06faee1f7d3388dfc6ef.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Liverpool FC - Norwich City 3/3 CÚP FA
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220303/20c736a7f75f3667de27d6e4a91b881e.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Luton Town - Chelsea FC3/3 CÚP FA
-https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220303/280da18d27f77ad1a17ea14d010c59ce.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Middlesbrough - Tottenham Hotspur/2/3 CÚP FA
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220302/5ecacf5a39c5778725338dc6c246255c.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Peterborough United - Manchester City/2/3 CÚP FA
-https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220302/fb79be8821a1cb7382380aebcad128d1.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Southampton - Manchester City/21/3 CÚP FA
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220321/220320-2200-southampton-mancity-fa-clean-57-fm-fn-1647797935/093905576ee30d572824d9a0cc2ee6c0.smil/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Nottingham Forest - Liverpool 21/3 CÚP FA
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220321/220321-0100-nottingham-forest-liverpool-fa-fm-fn-1647815615/fada3a7d7192beec39c4345eb59df52e.smil/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Crystal Palace - Everton 21/3 CÚP FA
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220320/220320-1930-crystal-palace-everton-fa-clean-48-fm-fn-1647788765/f96caffd8c99f06772e2bc782ec9ad2e.smil/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/ifmNEth.png",U23 Thái Lan - U23 Việt Nam CHUNG KẾT 
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/220226-1930-thailan-vietnam-u23aff-clean-48-fm-fn-1645887019/54a7441f02e3935b279e74a98c9c3e53.smil/playlist.m3u8
 
