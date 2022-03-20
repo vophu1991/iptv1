@@ -96,8 +96,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2961/image", -  Willem II Tilburg - AZ Alkmaar
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=willem-ii-tilburg-az-alkmaar-XTrd4oB&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1641/image", -  Olympique de Marseille - OGC Nice
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=ogc-nice-olympique-de-marseille-heZvvhr&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2685/image", -  Bologna - Atalanta
@@ -108,6 +106,8 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=real-madrid-barcelon
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=portimonense-sporting-braga-c72Cjr3&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2995/image", -  Boavista - FC Porto
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=fc-porto-boavista-Xb7C3cF&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/23495/image",21/03/2022 - 21:00 Papua New Guinea - New Caledonia
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=new-caledonia-papua-new-guinea-lf5OipG&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 02:45  Bologna - Atalanta
