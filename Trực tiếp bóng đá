@@ -76,16 +76,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Tottenham - West Ham
-https://bb5iqwas4fliv.vcdn.cloud/m301nd/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Tottenham - West Ham
-https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Tottenham - West Ham
-https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Tottenham - West Ham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Tottenham - West Ham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Wolfsburg - Leverkusen
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Roma - Lazio
@@ -118,8 +108,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/33/image", -  Tottenham - West Ham United
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=west-ham-united-tottenham-x0dLUcD&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2702/image", -  Roma - Lazio
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=roma-lazio-x7Wtz78&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2833/image", -  Sevilla - Real Sociedad
@@ -128,14 +116,12 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=sevilla-real-socieda
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=liverpool-nottingham-forest-kL6Nbgf&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2671/image",21/03/2022 - 01:30 1. FC Köln - Borussia Dortmund
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=borussia-dortmund-1-fc-koln-xz4k43l&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2685/image",21/03/2022 - 02:45 Bologna - Atalanta
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=atalanta-bologna-iiO5w4t&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2829/image",21/03/2022 - 03:00 Real Madrid - Barcelona
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",20/03/2022 - 23:30  Tottenham - West Ham Utd
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=tottenham-vs-west-ham-utd-2330-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",20/03/2022 - 23:30  Wolfsburg - B. Leverkusen
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=wolfsburg-vs-b-leverkusen-2330-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:00  Roma - Lazio
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=roma-vs-lazio-0000-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:30  Sevilla - Real Sociedad
@@ -171,8 +157,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=dorados-vs-celaya-1
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",23h30 20/03: Tottenham - West Ham
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a4010688c5459c870dcc&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 20/03: Wolfsburg - Leverkusen
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6231a4030688c5459c870dcf&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",00h00 21/03: Roma - Lazio
