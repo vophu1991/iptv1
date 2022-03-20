@@ -98,8 +98,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2671/image", -  1. FC Köln - Borussia Dortmund
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=borussia-dortmund-1-fc-koln-xz4k43l&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2961/image", -  Willem II Tilburg - AZ Alkmaar
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=willem-ii-tilburg-az-alkmaar-XTrd4oB&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1641/image", -  Olympique de Marseille - OGC Nice
@@ -110,10 +108,10 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=atalanta-bologna-iiO
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/3026/image", -  Portimonense - Sporting Braga
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=portimonense-sporting-braga-c72Cjr3&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2995/image",21/03/2022 - 03:45 Boavista - FC Porto
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=fc-porto-boavista-Xb7C3cF&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 01:30  FC Koln - B. Dortmund
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=fc-koln-vs-b-dortmund-0130-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 02:45  Bologna - Atalanta
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=bologna-vs-atalanta-0245-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 03:00  Real Madrid - Barcelona
