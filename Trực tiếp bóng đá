@@ -76,10 +76,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Marseille - Nice
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bologna - Atalanta
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Real Madrid - Barcelona
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Real Madrid - Barcelona
@@ -96,18 +92,18 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1641/image", -  Olympique de Marseille - OGC Nice
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=ogc-nice-olympique-de-marseille-heZvvhr&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2685/image", -  Bologna - Atalanta
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=atalanta-bologna-iiO5w4t&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2829/image", -  Real Madrid - Barcelona
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/3026/image", -  Portimonense - Sporting Braga
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=portimonense-sporting-braga-c72Cjr3&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2995/image", -  Boavista - FC Porto
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=fc-porto-boavista-Xb7C3cF&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/5032/image",21/03/2022 - 06:30 Everton de Viña del Mar - Audax Italiano
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=everton-de-vina-del-mar-audax-italiano-SL5bKOL&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/23495/image",21/03/2022 - 21:00 Papua New Guinea - New Caledonia
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=new-caledonia-papua-new-guinea-lf5OipG&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4784/image",22/03/2022 - 00:00 New Zealand - Fiji
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=fiji-new-zealand-ZldSp3V&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 03:00  Real Madrid - Barcelona
@@ -133,10 +129,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=dorados-vs-celaya-1
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",02h45 21/03: Marseille - Nice
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62337cf702ab8d3a96c4d4af&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",02h45 21/03: Bologna - Atalanta
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62337cfa02ab8d3a96c4d4b4&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 21/03: Real Madrid - Barcelona
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62337cfc02ab8d3a96c4d4b9&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",16h10 24/03: Australia - Japan
