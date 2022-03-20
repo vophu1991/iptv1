@@ -76,16 +76,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Nottm Forest - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Nottm Forest - Liverpool
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Nottm Forest - Liverpool
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Nottm Forest - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Nottm Forest - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Köln - Dortmund
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Marseille - Nice
@@ -108,8 +98,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/3006/image", -  SL Benfica - Estoril Praia
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=estoril-praia-sl-benfica-RBh66Fg&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2671/image", -  1. FC Köln - Borussia Dortmund
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=borussia-dortmund-1-fc-koln-xz4k43l&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2961/image", -  Willem II Tilburg - AZ Alkmaar
@@ -120,6 +108,8 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=ogc-nice-olympique-d
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=atalanta-bologna-iiO5w4t&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2829/image",21/03/2022 - 03:00 Real Madrid - Barcelona
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/3026/image",21/03/2022 - 03:00 Portimonense - Sporting Braga
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=portimonense-sporting-braga-c72Cjr3&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 01:30  FC Koln - B. Dortmund
@@ -149,8 +139,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=dorados-vs-celaya-1
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/QO7TWnQ.png",01h00 21/03: Nottm Forest - Liverpool
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62337cf202ab8d3a96c4d4a7&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 21/03: Köln - Dortmund
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62337cf402ab8d3a96c4d4ab&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",02h45 21/03: Marseille - Nice
