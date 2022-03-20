@@ -22,6 +22,9 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.live/
 #EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/JqJwQPw.png",BLV KEN
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.live/
+#EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/uziNYbU.png",BLV SAO KIM
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/chunklist.m3u8|Referer=https://saokelive.live/
+
 
 #EXTINF: -1 group-title = "BÌNH LUẬN VIÊN" tvg-logo = "https://i.imgur.com/z3nxUoN.png",BLV: Giàng A Phò 1
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/
