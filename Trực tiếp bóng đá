@@ -82,8 +82,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2995/image", -  Boavista - FC Porto
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=fc-porto-boavista-Xb7C3cF&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/5032/image",21/03/2022 - 06:30 Everton de Viña del Mar - Audax Italiano
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=everton-de-vina-del-mar-audax-italiano-SL5bKOL&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/274650/image",21/03/2022 - 09:00 Los Angeles FC - Vancouver Whitecaps
@@ -94,6 +92,8 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=new-caledonia-papua-
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=fiji-new-zealand-ZldSp3V&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/5601/image",22/03/2022 - 04:00 CD Antofagasta - Unión La Calera
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=cd-antofagasta-union-la-calera-VVp9SYc&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/174970/image",22/03/2022 - 05:00 Boston River - Defensor Sporting
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=defensor-sporting-boston-river-GmzqoNn&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 10:06  Tijuana - Juárez
