@@ -106,22 +106,20 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2702/image", -  Roma - Lazio
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=roma-lazio-x7Wtz78&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2833/image", -  Sevilla - Real Sociedad
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=sevilla-real-sociedad-evJC6gj&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/14/image", -  Nottingham Forest - Liverpool
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=liverpool-nottingham-forest-kL6Nbgf&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2671/image", -  1. FC Köln - Borussia Dortmund
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=borussia-dortmund-1-fc-koln-xz4k43l&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1641/image",21/03/2022 - 02:45 Olympique de Marseille - OGC Nice
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=ogc-nice-olympique-de-marseille-heZvvhr&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2685/image",21/03/2022 - 02:45 Bologna - Atalanta
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=atalanta-bologna-iiO5w4t&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2829/image",21/03/2022 - 03:00 Real Madrid - Barcelona
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:00  Roma - Lazio
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=roma-vs-lazio-0000-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:30  Sevilla - Real Sociedad
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=sevilla-vs-real-sociedad-0030-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 01:00  Nottingham - Liverpool
