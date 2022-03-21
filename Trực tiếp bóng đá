@@ -82,8 +82,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/274650/image", -  Los Angeles FC - Vancouver Whitecaps
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=los-angeles-fc-vancouver-whitecaps-SDxcBH7&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/23495/image",21/03/2022 - 21:00 Papua New Guinea - New Caledonia
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=new-caledonia-papua-new-guinea-lf5OipG&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4784/image",22/03/2022 - 00:00 New Zealand - Fiji
@@ -94,6 +92,8 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=cd-antofagasta-union
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=defensor-sporting-boston-river-GmzqoNn&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/3153/image",22/03/2022 - 06:30 Unión Española - Ñublense
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=nublense-union-espanola-LLsB1NL&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/174972/image",22/03/2022 - 07:15 Montevideo City Torque - Danubio FC
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=danubio-fc-montevideo-city-torque-xJIOtc9&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 10:06  Tijuana - Juárez
