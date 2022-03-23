@@ -87,8 +87,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49094/image", -  Saudi Arabia U23 - Uzbekistan U23
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=uzbekistan-u23-saudi-arabia-u23-NWJ5gPo&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49108/image",23/03/2022 - 23:00 United Arab Emirates U23 - China U23
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=united-arab-emirates-u23-china-u23-jGxSVk1&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49091/image",23/03/2022 - 23:00 Qatar U23 - Thailand U23
@@ -99,6 +97,8 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=grenada-gibraltar-Ql
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=chile-brazil-9NcBiHY&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4789/image",25/03/2022 - 06:30 Paraguay - Ecuador
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=paraguay-ecuador-QX0TCXF&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4820/image",25/03/2022 - 06:30 Colombia - Bolivia
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=colombia-bolivia-lu6u6AJ&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 16:10  Australia - Nhật Bản
