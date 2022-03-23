@@ -79,16 +79,6 @@ http://live.tv360.vn/manifest/u23-dubaicup1/playlist_720p.m3u8
 http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Vietnam - Iraq
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Vietnam - Iraq
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Vietnam - Iraq
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Vietnam - Iraq
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Vietnam - Iraq
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Japan - Croatia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Japan - Croatia
@@ -111,14 +101,14 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=vietnam-u23-iraq-u23-7uuVysb&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49094/image", -  Saudi Arabia U23 - Uzbekistan U23
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=uzbekistan-u23-saudi-arabia-u23-NWJ5gPo&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49055/image", -  Japan U23 - Croatia U23
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=japan-u23-croatia-u23-pi4wyn3&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49108/image",23/03/2022 - 23:00 United Arab Emirates U23 - China U23
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=united-arab-emirates-u23-china-u23-jGxSVk1&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49091/image",23/03/2022 - 23:00 Qatar U23 - Thailand U23
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=thailand-u23-qatar-u23-l61wOyE&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/129264/image",24/03/2022 - 00:00 Gibraltar - Grenada
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=grenada-gibraltar-QlNyszI&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4748/image",25/03/2022 - 06:30 Brazil - Chile
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=chile-brazil-9NcBiHY&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 16:10  Australia - Nhật Bản
@@ -172,8 +162,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=argentina-vs-venezu
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",19h00 23/03: Vietnam - Iraq
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623a0f03fa2b83159cacfa6d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",19h00 23/03: Japan - Croatia
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623a0ee9fa2b83159cacfa69&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",20h00 23/03: Saudi Arabia - Uzbekistan
