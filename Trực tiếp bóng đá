@@ -79,18 +79,12 @@ http://live.tv360.vn/manifest/u23-dubaicup1/playlist_720p.m3u8
 http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài UAE - China
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49108/image", -  United Arab Emirates U23 - China U23
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=united-arab-emirates-u23-china-u23-jGxSVk1&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49091/image", -  Qatar U23 - Thailand U23
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=thailand-u23-qatar-u23-l61wOyE&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/129264/image", -  Gibraltar - Grenada
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=grenada-gibraltar-QlNyszI&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4741/image",24/03/2022 - 16:10 Australia - Japan
@@ -99,6 +93,10 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=japan-australia-3btV
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=iran-south-korea-X5J5Rwf&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7050/image",24/03/2022 - 19:00 Việt Nam - Oman
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=vietnam-oman-ZFVREV5&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4789/image",25/03/2022 - 06:30 Paraguay - Ecuador
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=paraguay-ecuador-QX0TCXF&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4725/image",25/03/2022 - 06:30 Uruguay - Peru
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=peru-uruguay-TArZQ4e&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 16:10  Australia - Nhật Bản
@@ -152,8 +150,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=argentina-vs-venezu
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",23h00 23/03: UAE - China
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623a0f17fa2b83159cacfa71&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",16h10 24/03: Australia - Japan
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623695e202ab8d3a96c4de97&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",18h00 24/03: South Korea - Iran
