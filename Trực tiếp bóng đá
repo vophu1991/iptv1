@@ -87,8 +87,8 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49111/image",23/03/2022 - 19:00 Vietnam U23 - Iraq U23
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=vietnam-u23-iraq-u23-7uuVysb&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4741/image",24/03/2022 - 16:10 Australia - Japan
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=japan-australia-3btVbDS&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49055/image",23/03/2022 - 19:00 Japan U23 - Croatia U23
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=japan-u23-croatia-u23-pi4wyn3&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4748/image",25/03/2022 - 06:30 Brazil - Chile
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=chile-brazil-9NcBiHY&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4789/image",25/03/2022 - 06:30 Paraguay - Ecuador
