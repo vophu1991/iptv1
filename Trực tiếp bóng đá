@@ -99,6 +99,8 @@ https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://live.rakhoi1.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Japan - Croatia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Saudi Arabia - Uzbekistan
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 
@@ -109,7 +111,7 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=vietnam-u23-iraq-u23-7uuVysb&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49055/image", -  Japan U23 - Croatia U23
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=japan-u23-croatia-u23-pi4wyn3&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49094/image",23/03/2022 - 20:00 Saudi Arabia U23 - Uzbekistan U23
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49094/image", -  Saudi Arabia U23 - Uzbekistan U23
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=uzbekistan-u23-saudi-arabia-u23-NWJ5gPo&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49108/image",23/03/2022 - 23:00 United Arab Emirates U23 - China U23
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=united-arab-emirates-u23-china-u23-jGxSVk1&.m3u8|Referer=https://vebotv.tv/
