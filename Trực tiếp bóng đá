@@ -93,8 +93,6 @@ https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://live.rakhoi1.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Iraq - UAE
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Fiji - Papua New Guinea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài New Zealand - New Caledonia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
@@ -119,8 +117,6 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=colombia-bolivia-lu6
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Iraq - UAE
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=iraq-vs-uae-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Moldova - Kazakhstan
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=moldova-vs-kazakhstan-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Estonia - Cyprus
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=estonia-vs-cyprus-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:45  Xứ Wales - Áo
@@ -170,8 +166,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 25/03: Iraq - UAE
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62392fbffa2b83159cacf6e2&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 25/03: Fiji - Papua New Guinea
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62392fc3fa2b83159cacf6e6&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 25/03: New Zealand - New Caledonia
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62392fccfa2b83159cacf6ea&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",02h45 25/03: Portugal - Turkey
