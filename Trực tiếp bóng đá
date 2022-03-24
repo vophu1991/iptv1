@@ -109,22 +109,20 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4741/image", -  Australia - Japan
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=japan-australia-3btVbDS&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4735/image",24/03/2022 - 18:00 South Korea - Iran
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4735/image", -  South Korea - Iran
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=iran-south-korea-X5J5Rwf&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7050/image",24/03/2022 - 19:00 Việt Nam - Oman
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=vietnam-oman-ZFVREV5&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4755/image",24/03/2022 - 22:00 China - Saudi Arabia
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=saudi-arabia-china-fkVuIes&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4748/image",25/03/2022 - 06:30 Brazil - Chile
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=chile-brazil-9NcBiHY&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4789/image",25/03/2022 - 06:30 Paraguay - Ecuador
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=paraguay-ecuador-QX0TCXF&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4725/image",25/03/2022 - 06:30 Uruguay - Peru
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=peru-uruguay-TArZQ4e&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 16:10  Australia - Nhật Bản
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=australia-vs-nhat-ban-1610-24-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 18:00  Hàn Quốc - IR Iran
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=han-quoc-vs-ir-iran-1800-24-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 19:00  Lebanon - Syria
