@@ -98,8 +98,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",Ghana - Nigeria
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=ghana-vs-nigeria-luc-02h30-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_112.png",Egypt - Senegal
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=egypt-vs-senegal-luc-02h30-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_235.png",France - Ivory Coast
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=france-vs-ivory-coast-luc-03h15-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1913.png",Dordrecht - ADO Den Haag
@@ -153,8 +151,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=netherlands-vs-german
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:30  Ai Cập - Senegal
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=ai-cap-vs-senegal-0230-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:30  Ghana - Nigeria
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=ghana-vs-nigeria-0230-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Argentina - Venezuela
