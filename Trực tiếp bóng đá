@@ -81,13 +81,13 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Mali - Tunisia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_112.png",Egypt - Senegal
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=egypt-vs-senegal-luc-02h30-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_203.png",Luxembourg - Northern Ireland
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=luxembourg-vs-northern-ireland-luc-02h15-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_211.png",Romania - Greece
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=romania-vs-greece-luc-01h15-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_202.png",Malta - Azerbaijan
@@ -154,8 +154,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 26/03: Mali - Tunisia
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62393179fa2b83159cacf751&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",02h30 26/03: Egypt - Senegal
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623931a8fa2b83159cacf77d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",02h30 26/03: Ghana - Nigeria
