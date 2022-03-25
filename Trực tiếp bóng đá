@@ -99,8 +99,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4781/image", -  Mexico - USA
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=mexico-usa-abrVLMe&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4756/image", -  Costa Rica - Canada
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=costa-rica-canada-NgOWcUm&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4823/image",25/03/2022 - 22:00 DR Congo - Morocco
@@ -109,12 +107,12 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=dr-congo-morocco-Lkz
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=mali-tunisia-6Hwtce4&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4751/image",26/03/2022 - 00:00 Cameroon - Algeria
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=cameroon-algeria-DJpBE7j&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4758/image",26/03/2022 - 02:30 Egypt - Senegal
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=egypt-senegal-dyT7zGc&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4819/image",26/03/2022 - 06:30 Argentina - Venezuela
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=argentina-venezuela-21kDyIw&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 09:00  Mexico - United States
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=mexico-vs-united-states-0900-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 09:05  Costa Rica - Canada
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-canada-0905-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Cameroon - Algeria
