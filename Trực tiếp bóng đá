@@ -91,13 +91,9 @@ https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi1.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Egypt - Senegal
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Ghana - Nigeria
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",Ghana - Nigeria
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=ghana-vs-nigeria-luc-02h30-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_235.png",France - Ivory Coast
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=france-vs-ivory-coast-luc-03h15-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1913.png",Dordrecht - ADO Den Haag
@@ -151,8 +147,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=netherlands-vs-german
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:30  Ghana - Nigeria
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=ghana-vs-nigeria-0230-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Argentina - Venezuela
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=argentina-vs-venezuela-0630-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 20:00  U23 Croatia - U23 Việt Nam
@@ -168,8 +162,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",02h30 26/03: Egypt - Senegal
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623931a8fa2b83159cacf77d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",02h30 26/03: Ghana - Nigeria
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623931acfa2b83159cacf781&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 26/03: Argentina - Venezuela
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623931bffa2b83159cacf791&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",19h00 26/03: U23 China - U23 Thailand
