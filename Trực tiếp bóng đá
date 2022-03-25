@@ -81,18 +81,6 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Paraguay - Ecuador
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Uruguay - Peru
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Uruguay - Peru
-https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Uruguay - Peru
-https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Uruguay - Peru
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Uruguay - Peru
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Panama - Honduras
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
@@ -101,8 +89,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4789/image", -  Paraguay - Ecuador
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=paraguay-ecuador-QX0TCXF&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4781/image",25/03/2022 - 09:00 Mexico - USA
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=mexico-usa-abrVLMe&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4756/image",25/03/2022 - 09:05 Costa Rica - Canada
@@ -111,6 +97,8 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=costa-rica-canada-Ng
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=dr-congo-morocco-Lkz9j70&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4831/image",26/03/2022 - 00:00 Mali - Tunisia
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=mali-tunisia-6Hwtce4&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4751/image",26/03/2022 - 00:00 Cameroon - Algeria
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=cameroon-algeria-DJpBE7j&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4819/image",26/03/2022 - 06:30 Argentina - Venezuela
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=argentina-venezuela-21kDyIw&.m3u8|Referer=https://vebotv.tv/
 
@@ -142,10 +130,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 25/03: Paraguay - Ecuador
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6239304afa2b83159cacf71d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 25/03: Uruguay - Peru
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6239304efa2b83159cacf721&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",08h05 25/03: Panama - Honduras
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62393055fa2b83159cacf725&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",09h00 25/03: Mexico - USA
