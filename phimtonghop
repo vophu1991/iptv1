@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://gg.gg/vietanhepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
-
-
+#EXTINF:-1 group-title="BÌNH LUẬN VIÊN- BÌNH LUẬN VIÊN" tvg-logo= "https://i.imgur.com/Zbl57DU.png",BLV: Cá Mập
+https://live.meta-scores.com/mancini/0e1ea9133b/playlist.m3u8
 
 #EXTINF:-1 group-title="BÌNH LUẬN VIÊN- BÌNH LUẬN VIÊN" tvg-logo= "https://i.imgur.com/Zbl57DU.png",BLV: Cá Mập
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
