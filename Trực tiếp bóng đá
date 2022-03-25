@@ -81,16 +81,6 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài DR Congo - Morocco
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 DR Congo - Morocco
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 DR Congo - Morocco
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 DR Congo - Morocco
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 DR Congo - Morocco
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Cameroon - Algeria
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Cameroon - Algeria
@@ -108,15 +98,13 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1297.png",Cameroon - Algeria
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=cameroon-vs-algeria-luc-00h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1845.png",Congo DR - Morocco
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=congo-dr-vs-morocco-luc-22h00-ngay-25-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1290.png",Mali - Tunisia
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=mali-vs-tunisia-luc-00h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_231.png",Norway - Slovakia
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=norway-vs-slovakia-luc-01h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_218.png",Liechtenstein - Cape Verde Islands
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=liechtenstein-vs-cape-verde-islands-luc-23h00-ngay-25-03-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1290.png",26/03 - 00:00 Mali - Tunisia
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=mali-vs-tunisia-luc-00h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_112.png",26/03 - 02:30 Egypt - Senegal
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=egypt-vs-senegal-luc-02h30-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",26/03 - 02:30 Ghana - Nigeria
@@ -155,21 +143,23 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=senegal-vs-egypt-luc-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=nigeria-vs-ghana-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1284.png",30/03 - 02:30 Algeria - Cameroon
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=algeria-vs-cameroon-luc-02h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_209.png",30/03 - 02:45 Spain - Iceland
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=spain-vs-iceland-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Cameroon - Algeria
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Cameroon - Algeria
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=cameroon-vs-algeria-0000-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Mali - Tunisia
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Mali - Tunisia
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=mali-vs-tunisia-0000-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 02:30  Ai Cập - Senegal
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:30  Ai Cập - Senegal
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=ai-cap-vs-senegal-0230-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 02:30  Ghana - Nigeria
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:30  Ghana - Nigeria
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=ghana-vs-nigeria-0230-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 06:30  Argentina - Venezuela
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Argentina - Venezuela
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=argentina-vs-venezuela-0630-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 20:00  U23 Croatia - U23 Việt Nam
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 20:00  U23 Croatia - U23 Việt Nam
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=u23-croatia-vs-u23-viet-nam-1900-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",28/03/2022 - 03:05  Canada - Jamaica
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=canada-vs-jamaica-0305-28-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
@@ -180,8 +170,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",22h00 25/03: DR Congo - Morocco
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62393066fa2b83159cacf735&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 26/03: Cameroon - Algeria
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62393174fa2b83159cacf74d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 26/03: Mali - Tunisia
