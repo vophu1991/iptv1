@@ -81,18 +81,6 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Brazil - Chile
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Brazil - Chile
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Brazil - Chile
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Brazil - Chile
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Brazil - Chile
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Colombia - Bolivia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Paraguay - Ecuador
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Uruguay - Peru
@@ -113,24 +101,22 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4748/image", -  Brazil - Chile
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=chile-brazil-9NcBiHY&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4789/image", -  Paraguay - Ecuador
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=paraguay-ecuador-QX0TCXF&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4725/image", -  Uruguay - Peru
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=peru-uruguay-TArZQ4e&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4820/image", -  Colombia - Bolivia
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=colombia-bolivia-lu6u6AJ&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4781/image",25/03/2022 - 09:00 Mexico - USA
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=mexico-usa-abrVLMe&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4756/image",25/03/2022 - 09:05 Costa Rica - Canada
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=costa-rica-canada-NgOWcUm&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4823/image",25/03/2022 - 22:00 DR Congo - Morocco
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=dr-congo-morocco-Lkz9j70&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4819/image",26/03/2022 - 06:30 Argentina - Venezuela
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=argentina-venezuela-21kDyIw&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Uruguay - Peru
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=uruguay-vs-peru-0630-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Brazil - Chile
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=brazil-vs-chile-0630-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Paraguay - Ecuador
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=paraguay-vs-ecuador-0630-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 08:05  Panama - Honduras
@@ -160,10 +146,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 25/03: Brazil - Chile
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62393041fa2b83159cacf715&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 25/03: Colombia - Bolivia
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62393046fa2b83159cacf719&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 25/03: Paraguay - Ecuador
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6239304afa2b83159cacf71d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 25/03: Uruguay - Peru
