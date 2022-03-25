@@ -99,8 +99,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/5164/image", -  Panama - Honduras
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=panama-honduras-Hpl3VET&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4781/image", -  Mexico - USA
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=mexico-usa-abrVLMe&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4756/image", -  Costa Rica - Canada
@@ -109,6 +107,8 @@ https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=costa-rica-canada-Ng
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=dr-congo-morocco-Lkz9j70&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4831/image",26/03/2022 - 00:00 Mali - Tunisia
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=mali-tunisia-6Hwtce4&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4751/image",26/03/2022 - 00:00 Cameroon - Algeria
+https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=cameroon-algeria-DJpBE7j&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4819/image",26/03/2022 - 06:30 Argentina - Venezuela
 https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=argentina-venezuela-21kDyIw&.m3u8|Referer=https://vebotv.tv/
 
