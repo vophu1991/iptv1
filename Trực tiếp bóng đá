@@ -96,13 +96,13 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=kashima-vs-gamba-osak
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=fc-tokyo-vs-shonan-bellmare-luc-13h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1517.png",Kashiwa Reysol - Sagan Tosu
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=kashiwa-reysol-vs-sagan-tosu-luc-13h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1512.png",Nagoya Grampus - Tokushima Vortis
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=nagoya-grampus-vs-tokushima-vortis-luc-12h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1515.png",Sanfrecce Hiroshima - Shimizu S-pulse
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=sanfrecce-hiroshima-vs-shimizu-s-pulse-luc-12h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1522.png",Jubilo Iwata - Avispa Fukuoka
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=jubilo-iwata-vs-avispa-fukuoka-luc-12h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1920.png",26/03 - 14:00 Daejeon Citizen - Gyeongnam FC
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=daejeon-citizen-vs-gyeongnam-fc-luc-14h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_212.png",26/03 - 20:00 Croatia - Vietnam
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=croatia-vs-vietnam&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_2060.png",26/03 - 23:00 Uzbekistan - United Arab Emirates
@@ -141,8 +141,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=algeria-vs-cameroon-l
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=spain-vs-iceland-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",30/03 - 02:45 Netherlands - Germany
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=netherlands-vs-germany-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_226.png",30/03 - 02:45 England - Ivory Coast
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=england-vs-ivory-coast-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 
 
 
@@ -182,3 +180,25 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb777fa2b83159cad
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb78afa2b83159cad05c9&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",01h00 30/03: Saudi Arabia - Australia
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb796fa2b83159cad05cd&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",01h45 30/03: Poland - Sweden
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb7a0fa2b83159cad05d1&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",01h45 30/03: Portugal - North Macedonia
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb7a7fa2b83159cad05d5&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",01h45 30/03: Wales - Scotland/Ukraine
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb7affa2b83159cad05d9&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",02h30 30/03: Algeria - Cameroon
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb7b7fa2b83159cad05dd&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",02h30 30/03: Morocco - DR Congo
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb7c0fa2b83159cad05e1&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",02h30 30/03: Tunisia - Mali
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb7d4fa2b83159cad05e5&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 30/03: Bolivia - Brazil
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb7e3fa2b83159cad05e9&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 30/03: Chile - Uruguay
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb7fefa2b83159cad05ed&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 30/03: Ecuador - Argentina
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb805fa2b83159cad05f1&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 30/03: Peru - Paraguay
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb80cfa2b83159cad05f5&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 30/03: Venezuela - Colombia
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623eb813fa2b83159cad05f9&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
