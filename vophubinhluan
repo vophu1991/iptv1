@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="TH Vĩnh Long📛" tvg-logo="http://fboximages.fptplay.net.vn/Channel/iconChannel/vinhlong1_vdsl.png", Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="BÌNH LUẬN VIÊN- BÌNH LUẬN VIÊN" tvg-logo= "https://i.imgur.com/Zbl57DU.png",BLV: Cá Mập
+#EXTINF:-1 group-title="BÌNH LUẬN VIÊN- BÌNH LUẬN VIÊN" tvg-logo= "https://i.imgur.com/gmw8slc.png",BLV: Cá Mập
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="BÌNH LUẬN VIÊN- BÌNH LUẬN VIÊN" tvg-logo= "https://i.imgur.com/fitZse1.png",BLV: Cá Chuối
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
