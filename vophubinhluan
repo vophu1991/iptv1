@@ -1,6 +1,5 @@
-#EXTM3U url-tvg="http://gg.gg/vietanhepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#EXTM3U luôn cập nhật ổn định trên mọi mặt trận
-#EXTINF:vo phu 
+#EXTM3U url-tvg="http://gg.gg/epgviet" tvg-shift=0 m3uautoload=1
+#EXTINF: bình luận
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
