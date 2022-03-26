@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgviet" tvg-shift=0 m3uautoload=1
 #EXTINF: bình luận
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/EtlEltw.png", One Bóng đáTV
 https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="BÌNH LUẬN VIÊN- BÌNH LUẬN VIÊN" tvg-logo= "https://i.imgur.com/Zbl57DU.png",BLV: Cá Mập
