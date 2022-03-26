@@ -84,10 +84,8 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",Netherlands - Denmark
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=netherlands-vs-denmark-luc-02h45-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_210.png",Germany - Israel
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=germany-vs-israel-luc-02h45-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1731.png",Charlotte - FC Cincinnati
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=charlotte-vs-fc-cincinnati-luc-04h00-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_190.png",28/03 - 06:00 USA - Panama
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=usa-vs-panama-luc-06h00-ngay-28-03-2022&.m3u8|Origin=https://xembd.live
