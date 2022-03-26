@@ -84,8 +84,6 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_200.png",Rep. Of Ireland - Belgium
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=rep-of-ireland-vs-belgium-luc-00h00-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_226.png",England - Switzerland
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=england-vs-switzerland-luc-00h30-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_2060.png",Uzbekistan - United Arab Emirates
@@ -98,8 +96,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=spain-vs-albania-luc-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=excelsior-vs-helmond-sport-luc-00h45-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_2059.png",Qatar - Bulgaria
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=qatar-vs-bulgaria-luc-00h30-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_240.png",Gibraltar - Faroe Islands
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=gibraltar-vs-faroe-islands-luc-00h00-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",27/03 - 02:45 Netherlands - Denmark
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=netherlands-vs-denmark-luc-02h45-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
