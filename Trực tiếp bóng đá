@@ -84,6 +84,8 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_174.png",Iraq - Saudi Arabia
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=iraq-vs-saudi-arabia&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",Liverpool - Barcelona
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=liverpool-legends-vs-barcelona-legends&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_2060.png",Uzbekistan - United Arab Emirates
@@ -91,8 +93,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=uzbekistan-vs-united-
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_212.png",Croatia - Slovenia
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=croatia-vs-slovenia-luc-21h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_174.png",26/03 - 23:00 Iraq - Saudi Arabia
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=iraq-vs-saudi-arabia&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_200.png",27/03 - 00:00 Rep. Of Ireland - Belgium
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=rep-of-ireland-vs-belgium-luc-00h00-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_226.png",27/03 - 00:30 England - Switzerland
@@ -131,6 +131,8 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=bolivia-vs-brazil-luc
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=ecuador-vs-argentina-luc-06h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_260.png",30/03 - 06:30 Chile - Uruguay
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chile-vs-uruguay-luc-06h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1898.png",30/03 - 23:45 Barcelona W - Real Madrid W
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=barcelona-w-vs-real-madrid-w-luc-23h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 
 
 
