@@ -84,6 +84,8 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_179.png",China - Thailand
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=china-vs-thailand&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1384.png",Bhayangkara FC - Persija
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=bhayangkara-fc-vs-persija-luc-20h30-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 
