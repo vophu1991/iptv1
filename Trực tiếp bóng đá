@@ -84,6 +84,8 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1354.png",Melbourne Victory - Western Sydney Wanderers
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=melbourne-victory-vs-western-sydney-wanderers-luc-15h05-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1929.png",Busan I Park - Gimpo Citizen
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=busan-i-park-vs-gimpo-citizen-luc-15h00-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 
@@ -103,10 +105,10 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=united-arab-emirates-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=croatia-vs-bulgaria-luc-22h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_178.png",29/03 - 23:00 Syria - Iraq
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=syria-vs-iraq-luc-23h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1276.png",30/03 - 00:00 Senegal - Egypt
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=senegal-vs-egypt-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1286.png",30/03 - 00:00 Nigeria - Ghana
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=nigeria-vs-ghana-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1276.png",30/03 - 00:00 Senegal - Egypt
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=senegal-vs-egypt-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_209.png",30/03 - 02:45 Spain - Iceland
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=spain-vs-iceland-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",30/03 - 02:45 Netherlands - Germany
