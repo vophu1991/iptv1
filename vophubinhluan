@@ -1,17 +1,6 @@
 #EXTM3U url-tvg="http:gg.gg/epgviet" tvg-shift=0 m3uautoload=1
 #bình luận
 #========võ phú=========
-#EXTINF:-1 tvg-id="90" group-title="90📛" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQfftzQLMVF5-VFZretv-8Q, Vex900-ffj" 1
-http://127.0.0.1:6878/ace/getstream?id=fa149a0a37809ebfca5148041c3888498eaae429
-#EXTINF:-1 tvg-id="90" group-title="90📛" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQfftzQLMVF5-VFZretv-8Q, Vex900-ffj" 2
-http://127.0.0.1:6878/ace/getstream?id=12722d111be8a2e069af83d535d5fd0b39734712
-#EXTINF:-1 tvg-id="90" group-title="90📛" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQfftzQLMVF5-VFZretv-8Q, Vex900-ffj" 3
-http://127.0.0.1:6878/ace/getstream?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
-#EXTINF:-1 tvg-id="90" group-title="90📛" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQfftzQLMVF5-VFZretv-8Q, Vex900-ffj" 4
-http://127.0.0.1:6878/ace/getstream?id=27618f71bc2611dca58af879642e0b507d0f39a0
-#EXTINF:-1 tvg-id="90" group-title="90📛" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQfftzQLMVF5-VFZretv-8Q, Vex900-ffj" 5
-http://127.0.0.1:6878/ace/getstream?id=058a9ac982d6d29131f9bd277111f22de28400da
-
 
 #EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/5zirnDK.png",Arsenal vs Leiceste 13/03  NGOẠI HẠNG ANH
 https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/14/196_1968492c6fdc05442b69c974ec13b32d678_RELAY-20220313232148/playlist_720.m3u8
