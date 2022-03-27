@@ -81,8 +81,6 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài El Salvador - Costa Rica
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
@@ -192,23 +190,3 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-my-08
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",04h05 28/03: El Salvador - Costa Rica
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f1359402ec94255641ca3&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h00 28/03: USA - Panama
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f1361402ec94255641ca7&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h05 28/03: Honduras - Mexico
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f1368402ec94255641cab&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 28/03: Paradou AC - MC Alger
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6240a1ff1ce76f6047db16ed&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",17h35 29/03: Japan - Vietnam
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f1451402ec94255641cb7&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",18h30 29/03: Iran - Lebanon
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f1488402ec94255641cc7&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",20h45 29/03: Syria - Iraq
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f14f3402ec94255641cd3&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",23h00 29/03: Oman - China
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f15ee402ec94255641d33&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 30/03: Senegal - Egypt
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f1734402ec94255641d3b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 30/03: Nigeria - Ghana
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f1744402ec94255641d3f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
