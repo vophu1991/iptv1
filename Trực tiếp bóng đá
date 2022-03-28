@@ -87,6 +87,12 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1275.png",Cape Verde Islands - San Marino
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=cape-verde-islands-vs-san-marino-luc-23h00-ngay-28-03-2022&.m3u8|Origin=https://xembd.live
 
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Club_Toluca_Logo.svg/1200px-Club_Toluca_Logo.svg.png",29/03 - 05:00 Toluca W - Querétaro W
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=toluca-w-vs-queretaro-w-luc-05h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://sportcdns.live/team/7683726633d1d3f5bce400e7da2b8e0fc59df67306a232073afa041b3178c3c9.png",29/03 - 08:00 Pachuca W - Mazatlán W
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=pachuca-w-vs-mazatlan-w-luc-08h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Club_Le%C3%B3n_logo.svg/800px-Club_Le%C3%B3n_logo.svg.png",29/03 - 10:00 León W - Guadalajara W
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=leon-w-vs-guadalajara-w-luc-10h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_185.png",29/03 - 17:35 Japan - Vietnam
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=japan-vs-vietnam-luc-17h35-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_180.png",29/03 - 18:30 Iran - Lebanon
@@ -121,12 +127,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=barcelona-w-vs-real-m
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=paris-saint-germain-w-vs-bayern-munich-w-luc-02h00-ngay-31-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_192.png",31/03 - 08:05 Costa Rica - USA
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=costa-rica-vs-usa-luc-08h05-ngay-31-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1200px-Logo-VfL-Wolfsburg.svg.png",31/03 - 23:45 VfL Wolfsburg W - Arsenal W
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=vfl-wolfsburg-w-vs-arsenal-w-luc-23h45-ngay-31-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",01/04 - 02:00 Lyon W - Juventus W
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=lyon-w-vs-juventus-w-luc-02h00-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/CAND_FC.svg/220px-CAND_FC.svg.png",01/04 - 15:30 Công An Nhân Dân - Dak Lak
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=cong-an-nhan-dan-vs-dak-lak-luc-15h30-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
 
 
 
