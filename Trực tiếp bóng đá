@@ -81,8 +81,6 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 #EXTINF: -1 group-title = "TRỰC TIẾP TUYỂN VIỆT NAM" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/2560px-Flag_of_Vietnam.svg.png",Hôm nay - 17:35  Nhật BảN - Việt Nam
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Saudi Arabia U23 - Japan U23
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Qatar - Croatia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Senegal - Egypt
@@ -114,6 +112,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=senegal-vs-egypt-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Nigeria - Ghana
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=nigeria-vs-ghana-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Saudi Arabia - Australia
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=saudi-arabia-vs-australia-luc-01h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Norway - Armenia
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=norway-vs-armenia-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Malta - Kuwait
@@ -123,12 +123,12 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=qatar-vs-croatia&.m3u
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Saudi Arabia - Japan
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=saudi-arabia-vs-japan&.m3u8|Origin=https://xembd.live
 
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_207.png",30/03 - 01:45 Portugal - FYR Macedonia
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=portugal-vs-fyr-macedonia-luc-01h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",30/03 - 01:45 Netherlands - Germany
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=netherlands-vs-germany-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_226.png",30/03 - 01:45 England - Ivory Coast
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=england-vs-ivory-coast-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_207.png",30/03 - 01:45 Portugal - FYR Macedonia
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=portugal-vs-fyr-macedonia-luc-01h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_257.png",30/03 - 06:30 Bolivia - Brazil
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=bolivia-vs-brazil-luc-06h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_256.png",30/03 - 06:30 Ecuador - Argentina
@@ -204,8 +204,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-my-08
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",23h00 29/03: Saudi Arabia U23 - Japan U23
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=624348e15036e9026b1d32b4&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",23h00 29/03: Qatar - Croatia
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=624349025036e9026b1d32ba&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 30/03: Senegal - Egypt
