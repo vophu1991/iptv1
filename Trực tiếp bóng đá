@@ -86,6 +86,8 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Club_Le%C3%B3n_logo.svg/800px-Club_Le%C3%B3n_logo.svg.png",León W - Guadalajara W
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=leon-w-vs-guadalajara-w-luc-10h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/1200px-Club_Tijuana_logo.svg.png",Tijuana W - Necaxa W
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=tijuana-w-vs-necaxa-w-luc-10h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_185.png",29/03 - 17:35 Japan - Vietnam
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=japan-vs-vietnam-luc-17h35-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
