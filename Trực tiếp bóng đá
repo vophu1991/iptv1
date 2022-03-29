@@ -91,8 +91,6 @@ https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://live.rakhoi5
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Senegal - Egypt
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Nigeria - Ghana
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Saudi Arabia - Australia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Saudi Arabia - Australia
@@ -236,8 +234,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-my-08
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 30/03: Senegal - Egypt
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f1734402ec94255641d3b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 30/03: Nigeria - Ghana
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f1744402ec94255641d3f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",01h00 30/03: Saudi Arabia - Australia
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f17d3402ec94255641d53&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",01h45 30/03: Portugal - North Macedonia
