@@ -81,23 +81,11 @@ http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 #EXTINF: -1 group-title = "TRỰC TIẾP TUYỂN VIỆT NAM" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/2560px-Flag_of_Vietnam.svg.png",Hôm nay - 17:35  Nhật BảN - Việt Nam
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài UAE - South Korea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 UAE - South Korea
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 UAE - South Korea
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 UAE - South Korea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 UAE - South Korea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Syria - Iraq
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",United Arab Emirates - South Korea
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=united-arab-emirates-vs-south-korea-luc-20h45-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Croatia - Bulgaria
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=croatia-vs-bulgaria-luc-22h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Syria - Iraq
@@ -113,12 +101,12 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=netherlands-vs-german
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=england-vs-ivory-coast-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_207.png",30/03 - 01:45 Portugal - FYR Macedonia
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=portugal-vs-fyr-macedonia-luc-01h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_260.png",30/03 - 06:30 Chile - Uruguay
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chile-vs-uruguay-luc-06h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_257.png",30/03 - 06:30 Bolivia - Brazil
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=bolivia-vs-brazil-luc-06h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_256.png",30/03 - 06:30 Ecuador - Argentina
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=ecuador-vs-argentina-luc-06h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_260.png",30/03 - 06:30 Chile - Uruguay
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chile-vs-uruguay-luc-06h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1898.png",30/03 - 23:45 Barcelona W - Real Madrid W
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=barcelona-w-vs-real-madrid-w-luc-23h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/vi/thumb/a/a7/Paris_Saint-Germain_F.C..svg/800px-Paris_Saint-Germain_F.C..svg.png",31/03 - 02:00 Paris Saint Germain W - Bayern Munich W
@@ -147,10 +135,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-al
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 20:45  UAE - Hàn Quốc
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=uae-vs-han-quoc-2045-29-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 20:45  Syria - Iraq
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=syria-vs-iraq-2045-29-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 21:00  Kazakhstan - Moldova
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=kazakhstan-vs-moldova-2100-29-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 23:00  Oman - Trung Quốc
@@ -194,8 +178,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-my-08
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",20h45 29/03: UAE - South Korea
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=624011db1ce76f6047db15de&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",20h45 29/03: Syria - Iraq
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=623f14f3402ec94255641cd3&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",23h00 29/03: Oman - China
