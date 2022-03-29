@@ -83,14 +83,6 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Japan - Vietnam
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Japan - Vietnam
-https://bb5iqwas4fliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Japan - Vietnam
-https://bb5iqwas4fliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Japan - Vietnam
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Japan - Vietnam
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Iran - Lebanon
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Iran - Lebanon
@@ -124,6 +116,8 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=vietnam-vs-uzbekistan
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=persepam-madura-utd-vs-ps-tira-luc-19h30-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qjkMfeL.png",United Arab Emirates - China
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=united-arab-emirates-vs-china-2&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qjkMfeL.png",Iraq - Thailand
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=iraq-vs-thailand&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qjkMfeL.png",Iran - Lebanon
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=iran-vs-lebanon-luc-18h30-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qjkMfeL.png",Azerbaijan - Latvia
@@ -131,8 +125,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=azerbaijan-vs-latvia-
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_182.png",29/03 - 20:45 United Arab Emirates - South Korea
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=united-arab-emirates-vs-south-korea-luc-20h45-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_178.png",29/03 - 20:45 Syria - Iraq
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=syria-vs-iraq-luc-23h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1276.png",30/03 - 00:00 Senegal - Egypt
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=senegal-vs-egypt-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1286.png",30/03 - 00:00 Nigeria - Ghana
@@ -169,6 +161,8 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=phu-tho-vs-quang-nam-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=liverpool-vs-watford-luc-18h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",02/04 - 21:00 Burnley - Manchester City
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=burnley-vs-manchester-city-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_41.png",02/04 - 21:00 Chelsea - Brentford
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 
 
 
