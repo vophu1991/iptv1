@@ -100,6 +100,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Senegal - Egypt
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=senegal-vs-egypt-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Nigeria - Ghana
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=nigeria-vs-ghana-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Qatar - Croatia
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=qatar-vs-croatia&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Saudi Arabia - Japan
@@ -113,8 +115,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=denmark-vs-serbia-luc
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JZcevdc.png",Switzerland - Kosovo
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=switzerland-vs-kosovo-luc-23h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1286.png",30/03 - 00:00 Nigeria - Ghana
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=nigeria-vs-ghana-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",30/03 - 01:45 Netherlands - Germany
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=netherlands-vs-germany-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_226.png",30/03 - 01:45 England - Ivory Coast
@@ -153,6 +153,8 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-united-vs-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-alaves-luc-02h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_91.png",03/04 - 20:00 West Ham - Everton
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=west-ham-vs-everton-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_37.png",03/04 - 20:00 Atalanta - Napoli
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atalanta-vs-napoli-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 
 
 
