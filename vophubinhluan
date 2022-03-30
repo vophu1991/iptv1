@@ -2,8 +2,6 @@
 #bình luận
 #========võ phú=========
 
-#EXTINF:-1 tvg-id="LỊCH PHÁT SONG" group-title="LỊCH PHÁT SONG📛" tvg-logo="https://i.imgur.com/0zmlrZY.jpg", LỊCH BÓNG ĐÁ
-http://simg1zen.myclip.vn/video1/2022/03/30/1648615937489/9083380bc382.mp4
 
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI 
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
@@ -17,6 +15,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/chunklist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/Wv7oABe.png",BLV SAO HOẢ
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/6VGfTad.png",BLV SAO MỘC
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
 
 
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/jzzLBf3.png",BLV: Giàng A Phò 1
