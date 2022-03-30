@@ -74,6 +74,16 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Solomon Islands - New Zealand
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Solomon Islands - New Zealand
+https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Solomon Islands - New Zealand
+https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Solomon Islands - New Zealand
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Solomon Islands - New Zealand
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
@@ -153,3 +163,65 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=atletico-madrid-vs-
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 31/03: Solomon Islands - New Zealand
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62433c335036e9026b1d312e&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",08h05 31/03: Costa Rica - USA
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62433c3d5036e9026b1d3132&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",08h05 31/03: Jamaica - Honduras
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62433c415036e9026b1d3136&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",08h05 31/03: Mexico - El Salvador
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62433c455036e9026b1d3137&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",08h05 31/03: Panama - Canada
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62433c495036e9026b1d313b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 31/03: RC Relizane - HB Chelghoum Laid
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6243b7e25036e9026b1d348c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 31/03: Accra Lions - Bibiani Gold Stars
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6243b7ef5036e9026b1d349c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",01h00 01/04: Asante Kotoko SC - Karela United
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6241d6b95036e9026b1d2d0a&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 02/04: Union Berlin - Köln
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ace55036e9026b1d2f53&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",01h45 02/04: Hull - Huddersfield
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ad575036e9026b1d2f83&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",18h30 02/04: Liverpool - Watford
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ac9b5036e9026b1d2f23&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",18h30 02/04: Blackpool - Nottm Forest
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ad595036e9026b1d2f84&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",19h00 02/04: Getafe - Mallorca
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242acb75036e9026b1d2f3f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",20h00 02/04: Spezia - Venezia
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242accb5036e9026b1d2f4b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",20h30 02/04: Arminia Bielefeld - VfB Stuttgart
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ace75036e9026b1d2f54&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",20h30 02/04: Leverkusen - Hertha BSC
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ace85036e9026b1d2f55&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",20h30 02/04: Frankfurt - Greuther Fürth
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ace95036e9026b1d2f56&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",20h30 02/04: Freiburg - Bayern München
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242acea5036e9026b1d2f5a&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",20h30 02/04: Hoffenheim - Bochum
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242acec5036e9026b1d2f61&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",21h00 02/04: Brighton - Norwich
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ac9c5036e9026b1d2f24&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",21h00 02/04: Burnley - Man City
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ac9d5036e9026b1d2f25&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",21h00 02/04: Chelsea - Brentford
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ac9e5036e9026b1d2f26&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",21h00 02/04: Leeds - Southampton
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ac9f5036e9026b1d2f2a&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",21h00 02/04: Wolves - Aston Villa
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242aca15036e9026b1d2f2e&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",21h00 02/04: Coventry - Blackburn
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ad5a5036e9026b1d2f85&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",21h15 02/04: Levante - Villarreal
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242acb85036e9026b1d2f40&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",22h00 02/04: Nice - Rennes
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ad115036e9026b1d2f77&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",23h00 02/04: Lazio - Sassuolo
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242accd5036e9026b1d2f4c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",23h30 02/04: Man United - Leicester
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242aca25036e9026b1d2f35&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",23h30 02/04: Celta Vigo - Real Madrid
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242acb95036e9026b1d2f41&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 02/04: Dortmund - RB Leipzig
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242aced5036e9026b1d2f65&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
