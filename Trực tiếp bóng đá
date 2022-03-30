@@ -108,10 +108,10 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-united-vs-leicester-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",03/04 - 02:00 Atletico Madrid - Alaves
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-alaves-luc-02h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_37.png",03/04 - 20:00 Atalanta - Napoli
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atalanta-vs-napoli-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_91.png",03/04 - 20:00 West Ham - Everton
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=west-ham-vs-everton-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_37.png",03/04 - 20:00 Atalanta - Napoli
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atalanta-vs-napoli-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",03/04 - 22:30 Tottenham - Newcastle
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=tottenham-vs-newcastle-luc-22h30-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_120.png",04/04 - 01:45 Paris Saint Germain - Lorient
@@ -138,6 +138,8 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=mexico-vs-el-salvad
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-my-0805-31-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",02/04/2022 - 18:30  Liverpool - Watford
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=liverpool-vs-watford-1830-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",02/04/2022 - 20:30  SC Freiburg - Bayern Munich
+https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=sc-freiburg-vs-bayern-munich-2030-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
