@@ -77,9 +77,9 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1898.png",30/03 - 23:45 Barcelona W - Real Madrid W
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/nG9p9gb.png",Barcelona W - Real Madrid W
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=barcelona-w-vs-real-madrid-w-luc-23h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
+
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/vi/thumb/a/a7/Paris_Saint-Germain_F.C..svg/800px-Paris_Saint-Germain_F.C..svg.png",31/03 - 02:00 Paris Saint Germain W - Bayern Munich W
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=paris-saint-germain-w-vs-bayern-munich-w-luc-02h00-ngay-31-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_192.png",31/03 - 08:05 Costa Rica - USA
@@ -102,10 +102,10 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-united-vs-leicester-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",03/04 - 02:00 Atletico Madrid - Alaves
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-alaves-luc-02h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_91.png",03/04 - 20:00 West Ham - Everton
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=west-ham-vs-everton-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_37.png",03/04 - 20:00 Atalanta - Napoli
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atalanta-vs-napoli-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_91.png",03/04 - 20:00 West Ham - Everton
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=west-ham-vs-everton-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",03/04 - 22:30 Tottenham - Newcastle
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=tottenham-vs-newcastle-luc-22h30-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_120.png",04/04 - 01:45 Paris Saint Germain - Lorient
@@ -118,6 +118,8 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=barcelona-vs-sevilla-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=crystal-palace-vs-arsenal-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",06/04 - 02:00 Manchester City - Atletico Madrid
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-city-vs-atletico-madrid-luc-02h00-ngay-06-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_33.png",06/04 - 02:00 Benfica - Liverpool
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=benfica-vs-liverpool-luc-02h00-ngay-06-04-2022&.m3u8|Origin=https://xembd.live
 
 
 
@@ -163,10 +165,10 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62433c455036e9026b1d
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62433c495036e9026b1d313b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 31/03: RC Relizane - HB Chelghoum Laid
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6243b7e25036e9026b1d348c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 31/03: Asante Kotoko SC - Karela United
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6241d6b95036e9026b1d2d0a&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 31/03: Accra Lions - Bibiani Gold Stars
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6243b7ef5036e9026b1d349c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",01h00 01/04: Asante Kotoko SC - Karela United
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6241d6b95036e9026b1d2d0a&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 02/04: Union Berlin - Köln
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ace55036e9026b1d2f53&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",01h45 02/04: Hull - Huddersfield
