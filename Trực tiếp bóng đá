@@ -97,6 +97,8 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=salernitana-vs-tori
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",03/04/2022 - 02:00  Atletico Madrid - Dep. Alavés
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=atletico-madrid-vs-dep-alaves-0200-03-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Necaxa W - Atlético San Luis W
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=necaxa-w-vs-atletico-san-luis-w-luc-05h00-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/vi/thumb/e/e9/Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg/640px-Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg.png",01/04 - 16:00 Phú Thọ - Quang Nam
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=phu-tho-vs-quang-nam-luc-16h00-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
@@ -145,16 +147,8 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-v
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",20h00 01/04: Polisi Tanzania FC - Ruvu Shooting
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246308ebad1e41803b3c954&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 01/04: ASO Chlef - US Biskra
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246308fbad1e41803b3c958&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",23h00 01/04: BỐC THĂM - WORLD CUP 2022
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=624514bebad1e41803b3c6ac&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",23h00 01/04: Rubin - Khimki
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=62463082bad1e41803b3c946&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",23h00 01/04: FK Velez Mostar - Siroki Brijeg
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246309fbad1e41803b3c984&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 02/04: Union Berlin - Köln
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ace55036e9026b1d2f53&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",01h45 02/04: Hull - Huddersfield
