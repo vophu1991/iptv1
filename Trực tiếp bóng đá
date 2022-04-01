@@ -74,6 +74,8 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Union Berlin - Köln
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/sVs7mg9.png",Nhà đài Dynamo Dresden - Schalke 04
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -98,15 +100,27 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=roda-vs-jong-utrecht-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=leixoes-vs-penafiel-luc-00h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Viborg - Sonderjyske
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=viborg-vs-sonderjyske-luc-00h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Dynamo Dresden - FC Schalke 04
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=dynamo-dresden-vs-fc-schalke-04-luc-23h30-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",FC Ingolstadt 04 - Erzgebirge AUE
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=fc-ingolstadt-04-vs-erzgebirge-aue-luc-23h30-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
 
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Bốc Thăm Chia Bảng - World Cup 2022
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=boc-tham-chia-bang-vs-world-cup-2022-2300-01-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Union Berlin - FC Koln
+https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=union-berlin-vs-fc-koln-0130-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Union Berlin - FC Koln
+https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=union-berlin-vs-fc-koln-0130-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3GZro6J.png",HD 3 Union Berlin - FC Koln
+https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=union-berlin-vs-fc-koln-0130-02-04/?link=2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/hi8KEyl.png",HD 4 Union Berlin - FC Koln
+https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=union-berlin-vs-fc-koln-0130-02-04/?link=3&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",HD quốc tế Union Berlin - Köln
+https://2459955770.cloud.anycastapnic.com/pep/x3y2/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",SD quốc tế Union Berlin - Köln
+https://2459955770.cloud.anycastapnic.com/pep/x3y1/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Union Berlin - Köln
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Union Berlin - Köln
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 02/04: Union Berlin - Köln
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ace55036e9026b1d2f53&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
