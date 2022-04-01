@@ -119,9 +119,9 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-a
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/vi/thumb/e/e9/Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg/640px-Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg.png",01/04 - 16:00 Phú Thọ - Quang Nam
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Phú Thọ - Quang Nam
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=phu-tho-vs-quang-nam-luc-16h00-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
+
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/",01/04 - 23:00  - 
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=le-boc-tham-chia-bang-vck-world-cup-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",02/04 - 18:30 Liverpool - Watford
@@ -142,10 +142,10 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=west-ham-vs-everton-l
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atalanta-vs-napoli-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",03/04 - 22:30 Tottenham - Newcastle
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=tottenham-vs-newcastle-luc-22h30-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",04/04 - 01:45 Juventus - Inter
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=juventus-vs-inter-luc-01h45-ngay-04-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_120.png",04/04 - 01:45 Paris Saint Germain - Lorient
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-lorient-luc-01h45-ngay-04-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",04/04 - 01:45 Juventus - Inter
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=juventus-vs-inter-luc-01h45-ngay-04-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_43.png",04/04 - 02:00 Barcelona - Sevilla
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=barcelona-vs-sevilla-luc-02h00-ngay-04-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_147.png",05/04 - 02:00 Crystal Palace - Arsenal
@@ -160,6 +160,8 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-real-madri
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=villarreal-vs-bayern-munich-luc-02h00-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_122.png",07/04 - 23:45 RB Leipzig - Atalanta
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=rb-leipzig-vs-atalanta-luc-23h45-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_101.png",08/04 - 02:00 Eintracht Frankfurt - Barcelona
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-barcelona-luc-02h00-ngay-08-04-2022&.m3u8|Origin=https://xembd.live
 
 
 
