@@ -83,14 +83,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=avispa-fukuoka-vs-sag
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/KqsOjA8.png",HD Quốc Tế Phu Tho - Quang Nam
-https://2459955770.cloud.anycastapnic.com/pep/sk2/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Jeae58P.png",SD Quốc Tế Phu Tho - Quang Nam
-https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Phu Tho - Quang Nam
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Phu Tho - Quang Nam
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/KqsOjA8.png",HD Quốc Tế Avispa Fukuoka - Sagan Tosu
 https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Jeae58P.png",SD Quốc Tế Avispa Fukuoka - Sagan Tosu
@@ -315,8 +307,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-a
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",16h00 01/04: Phu Tho - Quang Nam
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623b8f17dc8d5156d694b743&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 01/04: Avispa Fukuoka - Sagan Tosu
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623b8e08dc8d5156d694b738&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 01/04: Mekelakeya - Arba Minch Kenema
