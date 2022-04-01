@@ -93,6 +93,14 @@ https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8|Referer=https://
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Phu Tho - Quang Nam
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/KqsOjA8.png",HD Quốc Tế Avispa Fukuoka - Sagan Tosu
+https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Jeae58P.png",SD Quốc Tế Avispa Fukuoka - Sagan Tosu
+https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Avispa Fukuoka - Sagan Tosu
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Avispa Fukuoka - Sagan Tosu
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",23h00 01/04: BỐC THĂM - WORLD CUP 2022
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=624514bebad1e41803b3c6ac&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -265,18 +273,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=rb-leipzig-vs-atalant
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_101.png",08/04 - 02:00 Eintracht Frankfurt - Barcelona
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-barcelona-luc-02h00-ngay-08-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/44/image",02/04/2022 - 18:30 Liverpool - Watford
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=liverpool-watford-39T1oHw&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/34/image",02/04/2022 - 21:00 Leeds United - Southampton
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=southampton-leeds-united-4xnN1vg&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/38/image",02/04/2022 - 21:00 Chelsea - Brentford
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=brentford-chelsea-92ODfJF&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/3/image",02/04/2022 - 21:00 Wolverhampton - Aston Villa
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=aston-villa-wolverhampton-GRMQBwV&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/30/image",02/04/2022 - 21:00 Brighton & Hove Albion - Norwich City
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=brighton-and-hove-albion-norwich-city-L2X8z5P&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/6/image",02/04/2022 - 21:00 Burnley - Manchester City
-https://bongdashopvophu.000webhostapp.com/playvebotv.php?id=burnley-manchester-city-zvkKtO4&.m3u8|Referer=https://vebotv.tv/
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:00  Bốc Thăm Chia Bảng - World Cup 2022
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=boc-tham-chia-bang-vs-world-cup-2022-2300-01-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
