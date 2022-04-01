@@ -75,8 +75,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/sVs7mg9.png",Nhà đài Braga - Benfica
-https://jq9sucdqmfliv.vcdn.cloud/may71/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
 
@@ -175,10 +173,6 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b395bad1e41803b3
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",02h00 04/04: Barcelona - Sevilla
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b39abad1e41803b3ca95&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.imgur.com/Japhczz.png",01h45 02/04: Hull City - Huddersfield Town
-https://bongdashopvophu.000webhostapp.com/play90p.php?id=6244a56628d9a539bbd2ac82&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://i.imgur.com/WRqB2oL.png",02h15 02/04: Braga - Benfica
-https://bongdashopvophu.000webhostapp.com/play90p.php?id=6244a5273679ef42e3971549&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://i.imgur.com/WRqB2oL.png",06h00 02/04: Charleston Battery - Las Vegas Lights FC
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=62470051e0d4672fc68e6f3a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://i.imgur.com/WRqB2oL.png",06h30 02/04: O'Higgins - Coquimbo Unido
