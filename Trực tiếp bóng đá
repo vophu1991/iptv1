@@ -75,8 +75,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/sVs7mg9.png",Nhà đài Avispa Fukuoka - Sagan Tosu
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
 
 
 
@@ -189,8 +187,6 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b395bad1e41803b3
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",02h00 04/04: Barcelona - Sevilla
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b39abad1e41803b3ca95&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://i.imgur.com/WRqB2oL.png",17h00 01/04: Avispa Fukuoka - Sagan Tosu
-https://bongdashopvophu.000webhostapp.com/play90p.php?id=6246c9a63679ef42e397154a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/wLDX7dx.png",23h00 01/04: Bốc thăm World Cup 2022
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=62447e78c6aff63667deb354&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://i.imgur.com/WRqB2oL.png",23h30 01/04: Dynamo Dresden - Schalke 04
@@ -219,6 +215,8 @@ https://bongdashopvophu.000webhostapp.com/play90p.php?id=6244a4dec6aff63667deb35
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=6244a4ba8bb98639dd59c8f6&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/wR36vcU.png",20h30 02/04: Freiburg - Bayern München
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=6244a4cde0d4672fc68e6f34&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/wR36vcU.png",20h30 02/04: Frankfurt - Greuther Fürth
+https://bongdashopvophu.000webhostapp.com/play90p.php?id=6244a4a38bb98639dd59c8f5&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/",01/04 - 23:00  - 
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=le-boc-tham-chia-bang-vck-world-cup-2022&.m3u8|Origin=https://xembd.live
