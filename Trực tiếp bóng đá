@@ -78,19 +78,9 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/sVs7mg9.png",Nhà đài Avispa Fukuoka - Sagan Tosu
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Avispa Fukuoka - Sagan Tosu
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=avispa-fukuoka-vs-sagan-tosu-luc-17h00-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/KqsOjA8.png",HD Quốc Tế Avispa Fukuoka - Sagan Tosu
-https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Jeae58P.png",SD Quốc Tế Avispa Fukuoka - Sagan Tosu
-https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Avispa Fukuoka - Sagan Tosu
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Avispa Fukuoka - Sagan Tosu
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/KqsOjA8.png",HD Quốc Tế Mekelakeya - Arba Minch Kenema
 https://2459955770.cloud.anycastapnic.com/pep/x5y2/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Jeae58P.png",SD Quốc Tế Mekelakeya - Arba Minch Kenema
@@ -234,10 +224,10 @@ https://bongdashopvophu.000webhostapp.com/play90p.php?id=6244a4cde0d4672fc68e6f3
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=le-boc-tham-chia-bang-vck-world-cup-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",02/04 - 18:30 Liverpool - Watford
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=liverpool-vs-watford-luc-18h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",02/04 - 21:00 Burnley - Manchester City
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=burnley-vs-manchester-city-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_41.png",02/04 - 21:00 Chelsea - Brentford
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",02/04 - 21:00 Burnley - Manchester City
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=burnley-vs-manchester-city-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",02/04 - 23:30 Manchester United - Leicester
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-united-vs-leicester-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",03/04 - 02:00 Atletico Madrid - Alaves
@@ -315,8 +305,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-a
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 01/04: Avispa Fukuoka - Sagan Tosu
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623b8e08dc8d5156d694b738&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 01/04: Mekelakeya - Arba Minch Kenema
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623b8e7fdc8d5156d694b73c&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 01/04: Pakhtakor - Navbahor
