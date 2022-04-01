@@ -94,6 +94,8 @@ https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b7
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png", - 
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=le-boc-tham-chia-bang-vck-world-cup-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Stal Mielec - Cracovia Krakow
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=stal-mielec-vs-cracovia-krakow-luc-23h00-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Rubin - Khimki
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=rubin-vs-khimki-luc-23h00-ngay-01-04-2022&.m3u8|Origin=https://xembd.live
 
@@ -101,10 +103,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=rubin-vs-khimki-luc-2
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Bốc Thăm Chia Bảng - World Cup 2022
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=boc-tham-chia-bang-vs-world-cup-2022-2300-01-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Pakhtakor - Navbahor
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Pakhtakor - Navbahor
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/KqsOjA8.png",HD Quốc Tế Rubin - Khimki
 https://2459955770.cloud.anycastapnic.com/pep/x4y2/playlist.m3u8|Origin=https://saokelive.site
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Jeae58P.png",SD Quốc Tế Rubin - Khimki
@@ -335,8 +333,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-a
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 01/04: Pakhtakor - Navbahor
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=6245ab1c93cb8a1d4e5c3efc&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h00 01/04: Rubin - Khimki
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623b8c78dc8d5156d694b6ee&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h00 01/04: Lễ bốc thăm chia bảng  - World Cup 2022
