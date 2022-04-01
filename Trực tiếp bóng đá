@@ -100,14 +100,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=union-berlin-vs-fc-ko
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=slask-wroclaw-vs-lech-poznan-luc-01h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Union Berlin - FC Koln
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=union-berlin-vs-fc-koln-0130-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Union Berlin - FC Koln
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=union-berlin-vs-fc-koln-0130-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3GZro6J.png",HD 3 Union Berlin - FC Koln
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=union-berlin-vs-fc-koln-0130-02-04/?link=2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/hi8KEyl.png",HD 4 Union Berlin - FC Koln
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=union-berlin-vs-fc-koln-0130-02-04/?link=3&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",HD quốc tế Union Berlin - Köln
 https://2459955770.cloud.anycastapnic.com/pep/x3y2/playlist.m3u8|Referer=https://saokelive.site/
@@ -294,8 +286,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=rb-leipzig-vs-atalant
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-barcelona-luc-02h00-ngay-08-04-2022&.m3u8|Origin=https://xembd.live
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 01:30  Union Berlin - FC Koln
-https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=union-berlin-vs-fc-koln-0130-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:30  Liverpool - Watford
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=liverpool-vs-watford-1830-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 20:30  SC Freiburg - Bayern Munich
