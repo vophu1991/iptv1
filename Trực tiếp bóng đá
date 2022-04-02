@@ -254,6 +254,8 @@ https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f86d6c96bfc12b53bc
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",08h00 03/04: Necaxa - América
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f86a3c96bfc12b53bc9a8&.m3u8|Referer=https://saokelive.site/
 
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_53.png",02/04 - 23:30 Celta Vigo - Real Madrid
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=celta-vigo-vs-real-madrid-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",02/04 - 23:30 Manchester United - Leicester
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-united-vs-leicester-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",03/04 - 02:00 Atletico Madrid - Alaves
