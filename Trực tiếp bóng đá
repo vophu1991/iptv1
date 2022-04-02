@@ -39,8 +39,8 @@ https://api.vthanhtivii.xyz/v1/getlink/sctvonline/btv5?t=a.m3u8|Referer=http://s
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Zmh2ycY/IMG-20210818-071456.png",VTV6  HD
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-
+#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+https://2459955770.cloud.anycastapnic.com/pep/x5y2/playlist.m3u8|Origin=https://saokelive.site/
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
