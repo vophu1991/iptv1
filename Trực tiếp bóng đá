@@ -130,8 +130,6 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242aced5036e9026b1d
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6245e8fbbad1e41803b3c89f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",01h45 03/04: Salernitana - Torino
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6245ea77bad1e41803b3c8b3&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",02h00 03/04: Saint-Etienne - Marseille
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6245ea9cbad1e41803b3c8b7&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",02h00 03/04: Atletico Madrid - Deportivo Alaves
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6245ea9ebad1e41803b3c8b8&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",17h30 03/04: Fiorentina - Empoli
@@ -140,6 +138,8 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b1d5bad1e41803b3
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b210bad1e41803b3ca2d&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",19h00 03/04: Athletic Club - Elche
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b21abad1e41803b3ca31&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",20h00 03/04: Saint-Etienne - Marseille
+https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6245ea9cbad1e41803b3c8b7&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",20h00 03/04: West Ham - Everton
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b24dbad1e41803b3ca3d&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",20h00 03/04: Clermont Foot - Nantes
@@ -204,10 +204,10 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=juventus-vs-inter-luc
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=barcelona-vs-sevilla-luc-02h00-ngay-04-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_147.png",05/04 - 02:00 Crystal Palace - Arsenal
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=crystal-palace-vs-arsenal-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",06/04 - 02:00 Manchester City - Atletico Madrid
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-city-vs-atletico-madrid-luc-02h00-ngay-06-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_33.png",06/04 - 02:00 Benfica - Liverpool
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=benfica-vs-liverpool-luc-02h00-ngay-06-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",06/04 - 02:00 Manchester City - Atletico Madrid
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-city-vs-atletico-madrid-luc-02h00-ngay-06-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_41.png",07/04 - 02:00 Chelsea - Real Madrid
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-real-madrid-luc-02h00-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_38.png",07/04 - 02:00 Villarreal - Bayern Munich
