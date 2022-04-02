@@ -110,16 +110,18 @@ https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi5.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/lWUuJDc.png",SD 1 Chelsea - Brentford
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Leeds - Southampton
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Freiburg - Bayern München
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Burnley - Man City
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Chelsea - Brentford
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Burnley - Manchester City
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=burnley-vs-manchester-city-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Getafe - Mallorca
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=getafe-vs-mallorca-luc-19h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Leeds - Southampton
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=leeds-vs-southampton-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Chelsea - Brentford
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Wolves - Aston Villa
@@ -246,8 +248,6 @@ https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f86d6c96bfc12b53bc
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",08h00 03/04: Necaxa - América
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f86a3c96bfc12b53bc9a8&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_90.png",02/04 - 21:00 Leeds - Southampton
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=leeds-vs-southampton-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",02/04 - 23:30 Manchester United - Leicester
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-united-vs-leicester-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",03/04 - 02:00 Atletico Madrid - Alaves
@@ -276,6 +276,10 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-real-madri
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=villarreal-vs-bayern-munich-luc-02h00-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_89.png",09/04 - 18:30 Everton - Manchester United
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=everton-vs-manchester-united-luc-18h30-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_60.png",09/04 - 21:00 Arsenal - Brighton
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=arsenal-vs-brighton-luc-21h00-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_149.png",09/04 - 21:00 Southampton - Chelsea
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=southampton-vs-chelsea-luc-21h00-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/uX8ZrwK.png",19h00 02/04: Getafe - Mallorca
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=6244a4188bb98639dd59c8f4&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
