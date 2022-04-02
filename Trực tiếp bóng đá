@@ -74,8 +74,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Spezia - Venezia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Arminia Bielefeld - VfB Stuttgart
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Leverkusen - Hertha BSC
@@ -136,12 +134,12 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=leeds-vs-southampton-
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Wolves - Aston Villa
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=wolves-vs-aston-villa-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Nice - Rennes
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=nice-vs-rennes-luc-22h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Levante - Villarreal
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=levante-vs-villarreal-luc-21h15-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Brighton - Norwich
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=brighton-vs-norwich-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Spezia - Venezia
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=spezia-vs-venezia-luc-20h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qwI2A9W.png",HD Freiburg - Bayern (Người Thỏ)
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -154,8 +152,6 @@ https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qwI2A9W.png",HD Chelsea - Brentford (Cáp)
 https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",20h00 02/04: Spezia - Venezia
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242accb5036e9026b1d2f4b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",20h30 02/04: Arminia Bielefeld - VfB Stuttgart
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ace75036e9026b1d2f54&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",20h30 02/04: Leverkusen - Hertha BSC
