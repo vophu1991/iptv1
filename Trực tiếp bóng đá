@@ -78,12 +78,22 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Salernitana - Torino
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Atletico Madrid - Deportivo Alaves
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/62hEqpy.png",HD 2 Atletico Madrid - Deportivo Alaves
+https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dJHCm7w.png",HD 1 Atletico Madrid - Deportivo Alaves
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/lWUuJDc.png",SD 1 Atletico Madrid - Deportivo Alaves
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Atletico Madrid - Deportivo Alaves
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Referer=https://saokelive.site/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Atletico Madrid - Alaves
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-alaves-luc-02h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Salernitana - Torino
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=salernitana-vs-torino-luc-01h45-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Lille - Bordeaux
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=lille-vs-bordeaux-luc-00h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qwI2A9W.png",HD Atletico Madrid - Alaves (Âu men)
 https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -172,8 +182,6 @@ https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=624207dea7e6a16aaf19e
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h30 04/04: Tigre - Rosario Central
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=624208c8a7e6a16aaf19e14f&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",03/04 - 02:00 Atletico Madrid - Alaves
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-alaves-luc-02h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_91.png",03/04 - 20:00 West Ham - Everton
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=west-ham-vs-everton-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_37.png",03/04 - 20:00 Atalanta - Napoli
@@ -217,13 +225,15 @@ https://bongdashopvophu.000webhostapp.com/play90p.php?id=6248291ec6aff63667deb35
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=62482bc8c6aff63667deb35e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/uX8ZrwK.png",19h00 03/04: Athletic Club - Elche
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=6248281a3679ef42e397154d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5MAG9lT.png",20h00 03/04: Montpellier - Brest
-https://bongdashopvophu.000webhostapp.com/play90p.php?id=62482c4bc6aff63667deb35f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",20h00 03/04: Atalanta - Napoli
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=62482949c6aff63667deb35c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",20h00 03/04: Udinese - Cagliari
-https://bongdashopvophu.000webhostapp.com/play90p.php?id=624829b3e0d4672fc68e6f3b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5MAG9lT.png",20h00 03/04: Troyes - Reims
+https://bongdashopvophu.000webhostapp.com/play90p.php?id=62482c7228d9a539bbd2ac8d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5MAG9lT.png",20h00 03/04: Metz - Monaco
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=62482c2228d9a539bbd2ac8c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",20h00 03/04: Udinese - Cagliari
+https://bongdashopvophu.000webhostapp.com/play90p.php?id=624829b3e0d4672fc68e6f3b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5MAG9lT.png",20h00 03/04: Montpellier - Brest
+https://bongdashopvophu.000webhostapp.com/play90p.php?id=62482c4bc6aff63667deb35f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/HDiqZ2R.png",20h00 03/04: West Ham - Everton
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=6248277e28d9a539bbd2ac86&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
