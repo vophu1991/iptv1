@@ -88,19 +88,9 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=shonan-bellmare-vs-sa
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=kawasaki-frontale-vs-cerezo-osaka-luc-13h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Wellington Phoenix - Melbourne City
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=wellington-phoenix-vs-melbourne-city-luc-12h05-ngay-06-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Gamba Osaka - Nagoya Grampus
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=gamba-osaka-vs-nagoya-grampus-luc-12h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",HD quốc tế Incheon United - Ulsan Hyundai
-https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",SD quốc tế Incheon United - Ulsan Hyundai
-https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Incheon United - Ulsan Hyundai
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Incheon United - Ulsan Hyundai
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",HD quốc tế Kashima Antlers - Shimizu S-Pulse
 https://2459955770.cloud.anycastapnic.com/pep/sk2/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",SD quốc tế Kashima Antlers - Shimizu S-Pulse
@@ -283,8 +273,6 @@ https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-a
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://bongdashopvophu.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",12h00 02/04: Incheon United - Ulsan Hyundai
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f84cac96bfc12b53bc915&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",14h00 02/04: Kashima Antlers - Shimizu S-Pulse
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f84c5c96bfc12b53bc906&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",15h45 02/04: Adelaide United - Melbourne Victory
