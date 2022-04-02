@@ -108,6 +108,14 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Refere
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=thailand-vs-brunei&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Liverpool - Watford
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=liverpool-vs-watford-luc-18h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Blackpool - Nottingham Forest
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=blackpool-vs-nottingham-forest-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Hamburger SV - SC Paderborn 07
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=hamburger-sv-vs-sc-paderborn-07-luc-18h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",SV Darmstadt 98 - Holstein Kiel
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=sv-darmstadt-98-vs-holstein-kiel-luc-18h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Hannover 96 - Jahn Regensburg
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=hannover-96-vs-jahn-regensburg-luc-18h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Bangkok Glass - Port FC
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=bangkok-glass-vs-port-fc-luc-18h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Khon Kaen United - Buriram United
@@ -243,12 +251,12 @@ https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f86d6c96bfc12b53bc
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",08h00 03/04: Necaxa - América
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f86a3c96bfc12b53bc9a8&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_90.png",02/04 - 21:00 Leeds - Southampton
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=leeds-vs-southampton-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",02/04 - 21:00 Burnley - Manchester City
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=burnley-vs-manchester-city-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_41.png",02/04 - 21:00 Chelsea - Brentford
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_90.png",02/04 - 21:00 Leeds - Southampton
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=leeds-vs-southampton-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",02/04 - 23:30 Manchester United - Leicester
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-united-vs-leicester-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",03/04 - 02:00 Atletico Madrid - Alaves
