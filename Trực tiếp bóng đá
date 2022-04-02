@@ -74,8 +74,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Nice - Rennes
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Lazio - Sassuolo
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Man United - Leicester
@@ -99,10 +97,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Lille - Bordeaux
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Man United - Leicester
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Celta Vigo - Real Madrid
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Manchester United - Leicester
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-united-vs-leicester-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live
@@ -120,8 +114,6 @@ https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qwI2A9W.png",HD Dortmund - RB Leipzig (Cáp)
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",22h00 02/04: Nice - Rennes
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242ad115036e9026b1d2f77&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",23h00 02/04: Lazio - Sassuolo
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6242accd5036e9026b1d2f4c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",23h30 02/04: Man United - Leicester
@@ -181,16 +173,6 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b395bad1e41803b3
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",02h00 04/04: Barcelona - Sevilla
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b39abad1e41803b3ca95&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 02/04: Man United - Leicester
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f839fc96bfc12b53bc88b&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 02/04: Celta Vigo - Real Madrid
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f83aec96bfc12b53bc8a0&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 03/04: Atletico Madrid - Deportivo Alaves
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f85d6c96bfc12b53bc93f&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",06h00 03/04: Cruz Azul - Atlas
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f86d6c96bfc12b53bc9b0&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",08h00 03/04: Necaxa - América
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f86a3c96bfc12b53bc9a8&.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",03/04 - 02:00 Atletico Madrid - Alaves
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-alaves-luc-02h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
