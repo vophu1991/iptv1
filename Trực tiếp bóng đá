@@ -88,8 +88,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/D5dS6eC.png",SD 1 Atalanta - Napoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Udinese - Cagliari
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Augsburg - Wolfsburg
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Real Betis - Osasuna
@@ -113,10 +111,6 @@ https://livestream-2.socialstreaming.tv/live/62498952a5ca1b001c5075fb/62498952a5
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=tottenham-vs-newcastle-luc-22h30-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Real Betis - Osasuna
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=real-betis-vs-osasuna-luc-21h15-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Clermont Foot - Nantes
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=clermont-foot-vs-nantes-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Saint Etienne - Marseille
-https://bongdashopvophu.000webhostapp.com/playxembd.php?id=saint-etienne-vs-marseille-luc-02h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Atalanta - Napoli
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atalanta-vs-napoli-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 
@@ -126,8 +120,6 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b24dbad1e41803b3
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b25ebad1e41803b3ca41&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",20h00 03/04: Atalanta - Napoli
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b27abad1e41803b3ca4e&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",20h00 03/04: Udinese - Cagliari
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b27cbad1e41803b3ca52&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",20h30 03/04: Augsburg - Wolfsburg
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b2acbad1e41803b3ca5d&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",21h15 03/04: Real Betis - Osasuna
