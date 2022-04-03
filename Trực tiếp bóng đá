@@ -80,6 +80,12 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Lyon - Angers
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Tottenham - Newcastle
+https://bb5iqwas4fliv.vcdn.cloud/m401nd/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/jsHutiE.png",HD 1 Tottenham - Newcastle
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/D5dS6eC.png",SD 1 Tottenham - Newcastle
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài M'gladbach - Mainz
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
@@ -162,8 +168,6 @@ https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=624207dea7e6a16aaf19e
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h30 04/04: Tigre - Rosario Central
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=624208c8a7e6a16aaf19e14f&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/wR36vcU.png",20h30 03/04: Augsburg - Wolfsburg
-https://bongdashopvophu.000webhostapp.com/play90p.php?id=62482a2c28d9a539bbd2ac89&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/uX8ZrwK.png",21h15 03/04: Real Betis - Osasuna
 https://bongdashopvophu.000webhostapp.com/play90p.php?id=6248286528d9a539bbd2ac87&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5MAG9lT.png",22h05 03/04: Lyon - Angers
@@ -221,3 +225,5 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=aston-villa-vs-totten
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=clermont-foot-vs-paris-saint-germain-luc-02h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojMjMzNzRkO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==",10/04 - 20:00 Norwich - Burnley
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojMjMzNzRkO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==",10/04 - 22:30 Manchester City - Liverpool
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-city-vs-liverpool-luc-22h30-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
