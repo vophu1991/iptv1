@@ -78,20 +78,20 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7gVG4KA.png",HD 2 Fiorentina - Empoli
 https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wEDHypD.png",SD 2 Fiorentina - Empoli
+https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/jsHutiE.png",HD 1 Fiorentina - Empoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/lWUuJDc.png",SD 1 Fiorentina - Empoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD CAND - Dak Lak
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD CAND - Dak Lak
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Fiorentina - Empoli
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Fiorentina - Empoli
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelive.site/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Fiorentina - Empoli
+https://bongdashopvophu.000webhostapp.com/playxembd.php?id=fiorentina-vs-empoli-luc-17h30-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",17h30 03/04: Fiorentina - Empoli
@@ -141,8 +141,6 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b39abad1e41803b3
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/qOCtXkQ.png",19h15 04/04: Viettel - Ha Noi FC
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6248acb7bad1e41803b3d1fc&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",15h30 03/04: CAND - Dak Lak
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=6248380793cb8a1d4e5c4784&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h30 03/04: Fiorentina - Empoli
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f85dec96bfc12b53bc954&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 03/04: Athletic Club - Elche
@@ -162,37 +160,37 @@ https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=624207dea7e6a16aaf19e
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h30 04/04: Tigre - Rosario Central
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=624208c8a7e6a16aaf19e14f&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_91.png",03/04 - 20:00 West Ham - Everton
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",03/04 - 20:00 West Ham - Everton
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=west-ham-vs-everton-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_37.png",03/04 - 20:00 Atalanta - Napoli
+#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",03/04 - 20:00 Atalanta - Napoli
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=atalanta-vs-napoli-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",03/04 - 22:30 Tottenham - Newcastle
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",03/04 - 22:30 Tottenham - Newcastle
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=tottenham-vs-newcastle-luc-22h30-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_120.png",04/04 - 01:45 Paris Saint Germain - Lorient
+#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",04/04 - 01:45 Paris Saint Germain - Lorient
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-lorient-luc-01h45-ngay-04-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",04/04 - 01:45 Juventus - Inter
+#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",04/04 - 01:45 Juventus - Inter
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=juventus-vs-inter-luc-01h45-ngay-04-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_43.png",04/04 - 02:00 Barcelona - Sevilla
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",04/04 - 02:00 Barcelona - Sevilla
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=barcelona-vs-sevilla-luc-02h00-ngay-04-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_147.png",05/04 - 02:00 Crystal Palace - Arsenal
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",05/04 - 02:00 Crystal Palace - Arsenal
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=crystal-palace-vs-arsenal-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",06/04 - 02:00 Manchester City - Atletico Madrid
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",06/04 - 02:00 Manchester City - Atletico Madrid
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=manchester-city-vs-atletico-madrid-luc-02h00-ngay-06-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_33.png",06/04 - 02:00 Benfica - Liverpool
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",06/04 - 02:00 Benfica - Liverpool
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=benfica-vs-liverpool-luc-02h00-ngay-06-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_41.png",07/04 - 02:00 Chelsea - Real Madrid
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",07/04 - 02:00 Chelsea - Real Madrid
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=chelsea-vs-real-madrid-luc-02h00-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_38.png",07/04 - 02:00 Villarreal - Bayern Munich
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",07/04 - 02:00 Villarreal - Bayern Munich
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=villarreal-vs-bayern-munich-luc-02h00-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_89.png",09/04 - 18:30 Everton - Manchester United
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",09/04 - 18:30 Everton - Manchester United
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=everton-vs-manchester-united-luc-18h30-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_60.png",09/04 - 21:00 Arsenal - Brighton
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",09/04 - 21:00 Arsenal - Brighton
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=arsenal-vs-brighton-luc-21h00-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_149.png",09/04 - 21:00 Southampton - Chelsea
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",09/04 - 21:00 Southampton - Chelsea
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=southampton-vs-chelsea-luc-21h00-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_143.png",09/04 - 23:30 Aston Villa - Tottenham
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",09/04 - 23:30 Aston Villa - Tottenham
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=aston-villa-vs-tottenham-luc-23h30-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_86.png",10/04 - 02:00 Clermont Foot - Paris Saint Germain
+#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",10/04 - 02:00 Clermont Foot - Paris Saint Germain
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=clermont-foot-vs-paris-saint-germain-luc-02h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",17h30 03/04: Fiorentina - Empoli
