@@ -88,8 +88,6 @@ https://bb5iqwas4fliv.vcdn.cloud/m401nd/index.m3u8|Referer=https://live.rakhoi5.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/D5dS6eC.png",SD 1 West Ham - Everton
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Saint-Etienne - Marseille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Clermont Foot - Nantes
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Metz - Monaco
@@ -148,8 +146,6 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b210bad1e41803b3
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b21abad1e41803b3ca31&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",20h00 03/04: West Ham - Everton
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b24dbad1e41803b3ca3d&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",20h00 03/04: Saint-Etienne - Marseille
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6245ea9cbad1e41803b3c8b7&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",20h00 03/04: Clermont Foot - Nantes
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b25ebad1e41803b3ca41&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",20h00 03/04: Metz - Monaco
