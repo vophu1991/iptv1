@@ -75,10 +75,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Brisbane Roar FC - Newcastle Jets
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Brisbane Roar FC - Newcastle Jets
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
 
@@ -129,8 +125,6 @@ https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b39abad1e41803b3
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/qOCtXkQ.png",19h15 04/04: Viettel - Ha Noi FC
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6248acb7bad1e41803b3d1fc&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",13h05 03/04: Brisbane Roar FC - Newcastle Jets
-https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=623f8789c96bfc12b53bc9e8&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",15h30 03/04: CAND - Dak Lak
 https://bongdashopvophu.000webhostapp.com/playsaoke.php?id=6248380793cb8a1d4e5c4784&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h30 03/04: Fiorentina - Empoli
