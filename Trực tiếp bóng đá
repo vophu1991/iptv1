@@ -74,8 +74,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Sampdoria - Roma
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Granada - Rayo Vallecano
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Valencia - Cadiz
@@ -96,8 +94,6 @@ https://bongdashopvophu.000webhostapp.com/playxembd.php?id=granada-cf-vs-rayo-va
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Valencia - Cadiz
 https://bongdashopvophu.000webhostapp.com/playxembd.php?id=valencia-vs-cadiz-luc-23h30-ngay-03-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",23h00 03/04: Sampdoria - Roma
-https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b339bad1e41803b3ca7d&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 03/04: Granada - Rayo Vallecano
 https://bongdashopvophu.000webhostapp.com/playcakhia.php?id=6246b34abad1e41803b3ca81&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 03/04: Valencia - Cadiz
