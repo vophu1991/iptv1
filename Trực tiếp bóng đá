@@ -93,6 +93,8 @@ https://livestream-2.socialstreaming.tv/live/624b32969aaf60001c9949f5/624b32969a
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Real Sociedad - Espanyol
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-espanyol-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",AC Milan - Bologna
+https://tuongbongda.000webhostapp.com/playxembd.php?id=ac-milan-vs-bologna-luc-01h45-ngay-05-04-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 05/04: Milan - Bologna
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ab87bad1e41803b3d4dc&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
