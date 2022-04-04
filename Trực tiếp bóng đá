@@ -74,28 +74,12 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Crystal Palace - Arsenal
-https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/jsHutiE.png",HD 1 Crystal Palace - Arsenal
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/D5dS6eC.png",SD 1 Crystal Palace - Arsenal
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Real Sociedad - Espanyol
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Crystal Palace - Arsenal
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Crystal Palace - Arsenal
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Cortulua - Deportivo Pasto
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Cortulua - Deportivo Pasto
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qwI2A9W.png",HD Milan - Bologna (BLV Người Thỏ)
-https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/23tFuty.png",FHD Milan - Bologna (BLV Người Thỏ)
-https://livestream-2.socialstreaming.tv/live/624b32969aaf60001c9949f5/624b32969aaf60001c9949f5.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qwI2A9W.png",HD Crystal Palace - Arsenal
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/23tFuty.png",FHD Crystal Palace - Arsenal
-https://livestream.socialstreaming.tv/live/624b34b0793b03001c8297f5/624b34b0793b03001c8297f5.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Crystal Palace - Arsenal
 https://tuongbongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-arsenal-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live
@@ -104,10 +88,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-espanyol
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",AC Milan - Bologna
 https://tuongbongda.000webhostapp.com/playxembd.php?id=ac-milan-vs-bologna-luc-01h45-ngay-05-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",02h00 05/04: Crystal Palace - Arsenal
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ab89bad1e41803b3d4dd&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",02h00 05/04: Real Sociedad - Espanyol
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ab8bbad1e41803b3d4e1&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 06/04: Man City - Atletico Madrid
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac03bad1e41803b3d4ec&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 06/04: Benfica - Liverpool
@@ -123,8 +103,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca3bad1e41803b3d500
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 07/04: Villarreal - Bayern München
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca6bad1e41803b3d501&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 05/04: Crystal Palace - Arsenal
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624209a6a7e6a16aaf19e191&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",04h00 05/04: Cortulua - Deportivo Pasto
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=62420a84a7e6a16aaf19e1d9&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",08h00 05/04: Once Caldas - Bucaramanga
@@ -150,12 +128,6 @@ https://tuongbongda.000webhostapp.com/playsaoke.php?id=6246086293cb8a1d4e5c4101&
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h30 06/04: Always Ready - Corinthians
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=62460b8893cb8a1d4e5c4198&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",01h45 05/04: Milan - Bologna (BLV Người Thỏ)
-https://tuongbongda.000webhostapp.com/play90p.php?id=62482fef92893b39d1704b96&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/HDiqZ2R.png",02h00 05/04: Crystal Palace - Arsenal
-https://tuongbongda.000webhostapp.com/play90p.php?id=62482f9d92893b39d1704b95&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/uX8ZrwK.png",02h00 05/04: Real Sociedad - Espanyol
-https://tuongbongda.000webhostapp.com/play90p.php?id=62482fc528d9a539bbd2ac90&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",02h00 06/04: Man City - Atletico Madrid
 https://tuongbongda.000webhostapp.com/play90p.php?id=624aff2a28d9a539bbd2ac94&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",02h00 06/04: Benfica - Liverpool
