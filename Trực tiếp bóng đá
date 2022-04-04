@@ -77,10 +77,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/r1au3CY.png",Nhà đài Tobol Kostanay - FC Turan
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Viettel - Ha Noi FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Viettel - Ha Noi FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Vozdovac - FK Radnik Surdulica
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Vozdovac - FK Radnik Surdulica
@@ -113,8 +109,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca3bad1e41803b3d500
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 07/04: Villarreal - Bayern München
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca6bad1e41803b3d501&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h15 04/04: Viettel - Ha Noi FC
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624207dda7e6a16aaf19e11c&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h15 04/04: Vozdovac - FK Radnik Surdulica
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624208d2a7e6a16aaf19e161&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 04/04: Hellas Verona - Genoa
