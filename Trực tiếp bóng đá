@@ -100,6 +100,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b75bad1e41803b3dd45
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/qOCtXkQ.png",19h00 07/04: Ha Noi FC - Cong An Nhan Dan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b98bad1e41803b3dd49&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",16h00 06/04: Huế - Sai Gon
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624bdb3ebad1e41803b3dbca&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",17h00 06/04: Long An - Khánh Hòa
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624bdb60bad1e41803b3dbce&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",23h00 06/04: Rostov - Krylya Sovetov
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c17c1bad1e41803b3dc95&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/bfPmRKD.png",23h30 06/04: Augsburg - Mainz
@@ -117,6 +121,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b75bad1e41803b3dd45
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/V8gupfP.png",19h00 07/04: Ha Noi FC - Cong An Nhan Dan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b98bad1e41803b3dd49&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",16h00 06/04: Huế - Sai Gon
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624bdb3ebad1e41803b3dbca&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",17h00 06/04: Long An - Khánh Hòa
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624bdb60bad1e41803b3dbce&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",23h00 06/04: Rostov - Krylya Sovetov
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c17c1bad1e41803b3dc95&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/HM5t4KB.png",23h30 06/04: Augsburg - Mainz
