@@ -83,8 +83,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",18h00 05/04: Hong Linh Ha Tinh - Nam Dinh
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b8e19bad1e41803b3db8f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",19h30 05/04: Balestier Khalsa - Hougang United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1335bad1e41803b3dc50&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",19h30 05/04: Geylang FC - Albirex Niigata S
@@ -174,8 +172,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",23h45 07/04: Feyenoord - Slavia Prague
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bc0bad1e41803b3dd52&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",18h00 05/04: Hong Linh Ha Tinh - Nam Dinh
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b8e19bad1e41803b3db8f&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",19h30 05/04: Balestier Khalsa - Hougang United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1335bad1e41803b3dc50&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",19h30 05/04: Geylang FC - Albirex Niigata S
@@ -265,8 +261,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",23h45 07/04: Feyenoord - Slavia Prague
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bc0bad1e41803b3dd52&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",18h00 05/04: Hong Linh Ha Tinh - Nam Dinh
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b8e19bad1e41803b3db8f&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",19h30 05/04: Balestier Khalsa - Hougang United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1335bad1e41803b3dc50&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",19h30 05/04: Geylang FC - Albirex Niigata S
