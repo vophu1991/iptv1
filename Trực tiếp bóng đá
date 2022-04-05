@@ -81,6 +81,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlis
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Sarawak United - Penang FC
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Sarawak United - Penang FC
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",19h30 05/04: Balestier Khalsa - Hougang United
@@ -139,8 +143,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1821bad1e41803b3dca5
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1823bad1e41803b3dca9&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h30 06/04: FK Varnsdorf - FC Zbrojovka Brno
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1927bad1e41803b3dccc&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h30 06/04: FK Varnsdorf - FC Zbrojovka Brno
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1963bad1e41803b3dcd0&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",22h00 06/04: Partizan Beograd - Loznica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c181dbad1e41803b3dc9f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",23h00 06/04: Rostov - Krylya Sovetov
@@ -226,8 +228,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1821bad1e41803b3dca5
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1823bad1e41803b3dca9&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h30 06/04: FK Varnsdorf - FC Zbrojovka Brno
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1927bad1e41803b3dccc&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h30 06/04: FK Varnsdorf - FC Zbrojovka Brno
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1963bad1e41803b3dcd0&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",22h00 06/04: Partizan Beograd - Loznica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c181dbad1e41803b3dc9f&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",23h00 06/04: Rostov - Krylya Sovetov
@@ -313,8 +313,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1821bad1e41803b3dca5
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1823bad1e41803b3dca9&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h30 06/04: FK Varnsdorf - FC Zbrojovka Brno
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1927bad1e41803b3dccc&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h30 06/04: FK Varnsdorf - FC Zbrojovka Brno
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1963bad1e41803b3dcd0&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",22h00 06/04: Partizan Beograd - Loznica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c181dbad1e41803b3dc9f&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",23h00 06/04: Rostov - Krylya Sovetov
