@@ -77,10 +77,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Quang Nam - Binh Duong
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Quang Nam - Binh Duong
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Hong Linh Ha Tinh - Nam Dinh
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Hong Linh Ha Tinh - Nam Dinh
@@ -336,8 +332,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca3bad1e41803b3d500
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 07/04: Villarreal - Bayern München
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca6bad1e41803b3d501&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 05/04: Quang Nam - Binh Duong
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624ac6f893cb8a1d4e5c5490&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h00 05/04: Hong Linh Ha Tinh - Nam Dinh
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b428f93cb8a1d4e5c570e&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",20h15 05/04: Sarawak United - Penang FC
