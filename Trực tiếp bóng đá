@@ -83,10 +83,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h00 05/04: Melaka United - Sabah FA
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b7011bad1e41803b3db5c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h00 05/04: Negeri Sembilan - Selangor
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b7012bad1e41803b3db60&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h30 05/04: FK MAS Taborsko - Sparta Prague B
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b7014bad1e41803b3db64&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h30 05/04: SK Prostejov - Vyskov
@@ -162,10 +158,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",23h45 07/04: Feyenoord - Slavia Prague
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bc0bad1e41803b3dd52&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h00 05/04: Melaka United - Sabah FA
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b7011bad1e41803b3db5c&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h00 05/04: Negeri Sembilan - Selangor
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b7012bad1e41803b3db60&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h30 05/04: FK MAS Taborsko - Sparta Prague B
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b7014bad1e41803b3db64&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h30 05/04: SK Prostejov - Vyskov
@@ -241,10 +233,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",23h45 07/04: Feyenoord - Slavia Prague
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bc0bad1e41803b3dd52&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h00 05/04: Melaka United - Sabah FA
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b7011bad1e41803b3db5c&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h00 05/04: Negeri Sembilan - Selangor
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b7012bad1e41803b3db60&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h30 05/04: FK MAS Taborsko - Sparta Prague B
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b7014bad1e41803b3db64&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h30 05/04: SK Prostejov - Vyskov
