@@ -81,10 +81,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Aizawl - TRAU
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Aizawl - TRAU
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",22h30 05/04: SuperSport United - Chippa United
@@ -300,8 +296,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",23h45 07/04: Feyenoord - Slavia Prague
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bc0bad1e41803b3dd52&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h35 05/04: Aizawl - TRAU
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b449793cb8a1d4e5c5718&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h00 06/04: Reggina - Benevento
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b453693cb8a1d4e5c571c&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 06/04: Man City - Atletico Madrid
