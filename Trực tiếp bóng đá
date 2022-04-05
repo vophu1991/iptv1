@@ -74,28 +74,16 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Man City - Atletico Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Man City - Atletico Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Benfica - Liverpool
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Benfica - Liverpool
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Man City - Atletico Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Man City - Atletico Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Benfica - Liverpool
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Benfica - Liverpool
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquasd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Man City - Atletico Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Man City - Atletico Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxaysd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Benfica - Liverpool
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Benfica - Liverpool
@@ -115,8 +103,6 @@ https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qwI2A9W.png",HD Benfica - Liverpool (Cáp + Thỏ)
 https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 06/04: Man City - Atletico Madrid
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac03bad1e41803b3d4ec&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 06/04: Benfica - Liverpool
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac08bad1e41803b3d4f0&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",07h00 06/04: Santos de Guapiles - Deportiva San Carlos
@@ -190,8 +176,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",23h45 07/04: Feyenoord - Slavia Prague
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bc0bad1e41803b3dd52&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 06/04: Man City - Atletico Madrid
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac03bad1e41803b3d4ec&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 06/04: Benfica - Liverpool
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac08bad1e41803b3d4f0&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",07h00 06/04: Santos de Guapiles - Deportiva San Carlos
@@ -265,8 +249,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",23h45 07/04: Feyenoord - Slavia Prague
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bc0bad1e41803b3dd52&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 06/04: Man City - Atletico Madrid
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac03bad1e41803b3d4ec&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 06/04: Benfica - Liverpool
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac08bad1e41803b3d4f0&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",07h00 06/04: Santos de Guapiles - Deportiva San Carlos
