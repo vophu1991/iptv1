@@ -83,10 +83,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",17h30 05/04: Daegu FC - Incheon United
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b700cbad1e41803b3db50&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",17h30 05/04: Jeju United - Ulsan Hyundai
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b700dbad1e41803b3db54&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",18h00 05/04: Hong Linh Ha Tinh - Nam Dinh
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b8e19bad1e41803b3db8f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",19h30 05/04: Balestier Khalsa - Hougang United
@@ -166,10 +162,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca3bad1e41803b3d500
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 07/04: Villarreal - Bayern München
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca6bad1e41803b3d501&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",17h30 05/04: Daegu FC - Incheon United
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b700cbad1e41803b3db50&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",17h30 05/04: Jeju United - Ulsan Hyundai
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b700dbad1e41803b3db54&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",18h00 05/04: Hong Linh Ha Tinh - Nam Dinh
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b8e19bad1e41803b3db8f&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",19h30 05/04: Balestier Khalsa - Hougang United
@@ -249,10 +241,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca3bad1e41803b3d500
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 07/04: Villarreal - Bayern München
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249aca6bad1e41803b3d501&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",17h30 05/04: Daegu FC - Incheon United
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b700cbad1e41803b3db50&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",17h30 05/04: Jeju United - Ulsan Hyundai
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b700dbad1e41803b3db54&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",18h00 05/04: Hong Linh Ha Tinh - Nam Dinh
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b8e19bad1e41803b3db8f&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",19h30 05/04: Balestier Khalsa - Hougang United
