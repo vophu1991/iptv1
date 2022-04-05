@@ -74,18 +74,10 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YEj8OwU.png",Nhà đài Central Coast Mariners - Wellington Phoenix
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD Central Coast Mariners - Wellington Phoenix
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD Central Coast Mariners - Wellington Phoenix
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YEj8OwU.png",Nhà đài Cerezo Osaka - Kashiwa Reysol
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YEj8OwU.png",Nhà đài Suwon Bluewings - Jeonbuk FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YEj8OwU.png",Nhà đài Quang Nam - Binh Duong
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
@@ -159,6 +151,12 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c16eabad1e41803b3dc7c
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c178fbad1e41803b3dc8d&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h00 06/04: Novi Pazar - FK Metalac
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c181ebad1e41803b3dca0&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h00 06/04: Petaling Jaya City FC - Terengganu
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1820bad1e41803b3dca1&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h00 06/04: Kuala Lumpur City - Johor Darul Ta'zim FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1821bad1e41803b3dca5&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h00 06/04: Kedah Darul Aman FC - Sri Pahang FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1823bad1e41803b3dca9&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",22h00 06/04: Partizan Beograd - Loznica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c181dbad1e41803b3dc9f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",23h00 06/04: Rostov - Krylya Sovetov
@@ -238,6 +236,12 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c16eabad1e41803b3dc7c
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c178fbad1e41803b3dc8d&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h00 06/04: Novi Pazar - FK Metalac
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c181ebad1e41803b3dca0&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h00 06/04: Petaling Jaya City FC - Terengganu
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1820bad1e41803b3dca1&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h00 06/04: Kuala Lumpur City - Johor Darul Ta'zim FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1821bad1e41803b3dca5&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h00 06/04: Kedah Darul Aman FC - Sri Pahang FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1823bad1e41803b3dca9&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",22h00 06/04: Partizan Beograd - Loznica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c181dbad1e41803b3dc9f&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",23h00 06/04: Rostov - Krylya Sovetov
@@ -317,6 +321,12 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c16eabad1e41803b3dc7c
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c178fbad1e41803b3dc8d&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h00 06/04: Novi Pazar - FK Metalac
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c181ebad1e41803b3dca0&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h00 06/04: Petaling Jaya City FC - Terengganu
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1820bad1e41803b3dca1&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h00 06/04: Kuala Lumpur City - Johor Darul Ta'zim FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1821bad1e41803b3dca5&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h00 06/04: Kedah Darul Aman FC - Sri Pahang FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c1823bad1e41803b3dca9&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",22h00 06/04: Partizan Beograd - Loznica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c181dbad1e41803b3dc9f&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",23h00 06/04: Rostov - Krylya Sovetov
