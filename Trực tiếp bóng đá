@@ -88,6 +88,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624b710abad1e41803b3db82
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac03bad1e41803b3d4ec&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 06/04: Benfica - Liverpool
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac08bad1e41803b3d4f0&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/qOCtXkQ.png",16h00 06/04: Huế - Sai Gon
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624bdb3ebad1e41803b3dbca&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/qOCtXkQ.png",17h00 06/04: Long An - Khánh Hòa
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624bdb60bad1e41803b3dbce&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",23h30 06/04: Augsburg - Mainz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac63bad1e41803b3d4f4&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",01h30 07/04: Burnley - Everton
@@ -145,10 +149,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-real-madrid-lu
 https://tuongbongda.000webhostapp.com/playxembd.php?id=villarreal-vs-bayern-munich-luc-02h00-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_89.png",09/04 - 18:30 Everton - Manchester United
 https://tuongbongda.000webhostapp.com/playxembd.php?id=everton-vs-manchester-united-luc-18h30-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_149.png",09/04 - 21:00 Southampton - Chelsea
-https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-chelsea-luc-21h00-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_60.png",09/04 - 21:00 Arsenal - Brighton
 https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brighton-luc-21h00-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_149.png",09/04 - 21:00 Southampton - Chelsea
+https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-chelsea-luc-21h00-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_143.png",09/04 - 23:30 Aston Villa - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-tottenham-luc-23h30-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_86.png",10/04 - 02:00 Clermont Foot - Paris Saint Germain
