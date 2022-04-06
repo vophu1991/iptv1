@@ -89,10 +89,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phuhohd1/playli
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Long An - Khánh Hòa
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phuhosd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD CLB Hue - Saigon FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD CLB Hue - Saigon FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Dong Tam Long An - Sanna Khánh Hòa
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Dong Tam Long An - Sanna Khánh Hòa
@@ -156,8 +152,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b75bad1e41803b3dd45
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/66eHrae.png",19h00 07/04: Ha Noi FC - Cong An Nhan Dan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b98bad1e41803b3dd49&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",16h00 06/04: CLB Hue - Saigon FC
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=6246089493cb8a1d4e5c4110&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 06/04: Dong Tam Long An - Sanna Khánh Hòa
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624608aa93cb8a1d4e5c4113&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 06/04: Parma - Como
