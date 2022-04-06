@@ -1,0 +1,84 @@
+#EXTM3U url-tvg="http:gg.gg/epgviet" tvg-shift=0 m3uautoload=1
+#bình luận
+#========võ phú=========
+
+
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI 
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/oMoFmdT.png",BLV: Thần Chổi 
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/w7O1dbk.png",BLV : SAO KÊ 
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/Okyk2rw.png",BLV KEN
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/9MWBIDQ.png",BLV SAO KIM
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/chunklist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/Wv7oABe.png",BLV SAO HOẢ
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/6VGfTad.png",BLV SAO MỘC
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
+
+
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/jzzLBf3.png",BLV: Giàng A Phò 1
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/P285ALk.png",BLV: Giàng A Lữ 1
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/5oCLZVV.png",BLV: Giàng A CAY 
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/XEslVMq.png",BLV: Giàng A Lếch
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+
+
+
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/EBsqUi2.png",BLV: PHỤ HỒ
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phuhohd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/OnYnuM3.png",BLV: THỢ XÂY
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/v2MRw7d.png",BLV: ĐỐNG GẠCH
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/59d2cdc.png",BLV:LOKI
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@quihd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/ucrEy25.png",BLV: Cá Mập
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/LqcFrnh.png",BLV: Cá Chuối
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/7QdBNub.png",BLV: Cá Nóc
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/VcpECr1.png",BLV: Cá Quả
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+
+
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/rcTQ6ct.png",Benfica - Liverpool 06/04 cúp c1
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220406/5bde467099fe63f419d79961915b0ff7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/rcTQ6ct.png",Manchester City - Atletico Madrid 06/04 cúp c1
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220406/f0d979bd2422d0e0d99d6533236b311f.mp4/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/5zirnDK.png",Arsenal vs Leiceste 13/03  NGOẠI HẠNG ANH
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/14/196_1968492c6fdc05442b69c974ec13b32d678_RELAY-20220313232148/playlist_720.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/5zirnDK.png",Chelsea vs Newcastle 13/03  NGOẠI HẠNG ANH
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/13/196_196b8f59fa5965d4f7bbd2f05d6dddcd847_RELAY-20220313204622/playlist_720.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/5zirnDK.png", ManUtd vs Tottenham 12/03 NGOẠI HẠNG ANH
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/13/196_196cdb606e44bc84deb83b3b3361b5423d5_1080p-20220313001916/playlist_720.m3u8
+
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/JGckZHp.png",Southampton - Manchester City/21/3 CÚP FA
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220321/220320-2200-southampton-mancity-fa-clean-57-fm-fn-1647797935/093905576ee30d572824d9a0cc2ee6c0.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/JGckZHp.png",Nottingham Forest - Liverpool 21/3 CÚP FA
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220321/220321-0100-nottingham-forest-liverpool-fa-fm-fn-1647815615/fada3a7d7192beec39c4345eb59df52e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/JGckZHp.png",Crystal Palace - Everton 21/3 CÚP FA
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220320/220320-1930-crystal-palace-everton-fa-clean-48-fm-fn-1647788765/f96caffd8c99f06772e2bc782ec9ad2e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/ifmNEth.png",U23 Thái Lan - U23 Việt Nam CHUNG KẾT 
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/220226-1930-thailan-vietnam-u23aff-clean-48-fm-fn-1645887019/54a7441f02e3935b279e74a98c9c3e53.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Barcelona - Galatasaray 11/03 cúp c2
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220311/ff8b0e705c21547f65fed0235ff96794.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Leicester City - Stade Rennais 11/03 cúp c2
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220311/220311-0300-leicester-city-stade-rennais-uecl-clean-58-fm-fn-1646952632/577047e7f5afd3f260ea2f9ff45a274b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Sevilla FC - West Ham United |11/03cúp c2
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220311/220311-0045-sevilla-west-ham-uel-clean-49-fm-fn-1646943972/bfbb1389f385e85c2311180a1212b301.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Real Betis - Eintracht Frankfurt 10/03 cúp c2
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/9a4b9d780c8eb0355e7e759639785255.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Porto FC - Olympique Lyonnais 10/03 cúp c2
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e26097b022544290019e81.mp4/playlist.m3u8
