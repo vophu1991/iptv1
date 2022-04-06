@@ -95,8 +95,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",23h00 06/04: Rostov - Krylya Sovetov
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c17c1bad1e41803b3dc95&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",23h30 06/04: Augsburg - Mainz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac63bad1e41803b3d4f4&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",01h30 07/04: Burnley - Everton
@@ -214,8 +212,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",23h00 06/04: Rostov - Krylya Sovetov
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c17c1bad1e41803b3dc95&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/bfPmRKD.png",23h30 06/04: Augsburg - Mainz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac63bad1e41803b3d4f4&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",01h30 07/04: Burnley - Everton
@@ -333,8 +329,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",23h00 06/04: Rostov - Krylya Sovetov
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c17c1bad1e41803b3dc95&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/HM5t4KB.png",23h30 06/04: Augsburg - Mainz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6249ac63bad1e41803b3d4f4&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",01h30 07/04: Burnley - Everton
