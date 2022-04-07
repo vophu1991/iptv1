@@ -79,6 +79,8 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",RB Leipzig - Atalanta
+https://tuongbongda.000webhostapp.com/playxembd.php?id=rb-leipzig-vs-atalanta-luc-23h45-ngay-07-04-2022&.m3u8|Origin=https://xembd.live/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/bCufm0C.png",23h45 07/04: RB Leipzig - Atalanta
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -407,8 +409,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=624cac4c92893b39d1704b9f&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa Conference League" tvg-logo="https://i.imgur.com/Wr7Djyu.png",02h00 08/04: Marseille - PAOK
 https://tuongbongda.000webhostapp.com/play90p.php?id=624cac773679ef42e3971556&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_122.png",07/04 - 23:45 RB Leipzig - Atalanta
-https://tuongbongda.000webhostapp.com/playxembd.php?id=rb-leipzig-vs-atalanta-luc-23h45-ngay-07-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_101.png",08/04 - 02:00 Eintracht Frankfurt - Barcelona
 https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-barcelona-luc-02h00-ngay-08-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_89.png",09/04 - 18:30 Everton - Manchester United
