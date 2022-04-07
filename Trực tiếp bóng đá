@@ -77,10 +77,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Frankfurt - Barcelona
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Frankfurt - Barcelona
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD West Ham - Lyon
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD West Ham - Lyon
@@ -92,8 +88,6 @@ https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a
 https://livestream.socialstreaming.tv/live/624f2b0b9d19fb001d1b8fc2/624f2b0b9d19fb001d1b8fc2.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/bCufm0C.png",02h00 08/04: West Ham - Lyon
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93435c6de3760c50387b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",01h30 09/04: VfB Stuttgart - Dortmund
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d941c5c6de3760c5038d2&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",02h00 09/04: Newcastle - Wolves
@@ -181,8 +175,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/TrErZsl.png",02h00 08/04: West Ham - Lyon
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93435c6de3760c50387b&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/bfPmRKD.png",01h30 09/04: VfB Stuttgart - Dortmund
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d941c5c6de3760c5038d2&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",02h00 09/04: Newcastle - Wolves
@@ -270,8 +262,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/59GZw9N.png",02h00 08/04: West Ham - Lyon
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93435c6de3760c50387b&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/HM5t4KB.png",01h30 09/04: VfB Stuttgart - Dortmund
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d941c5c6de3760c5038d2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",02h00 09/04: Newcastle - Wolves
@@ -359,8 +349,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 08/04: Frankfurt - Barcelona
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=6248988293cb8a1d4e5c4c60&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 08/04: West Ham - Lyon
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=6248988493cb8a1d4e5c4c62&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h00 08/04: Pachuca - Tigres
