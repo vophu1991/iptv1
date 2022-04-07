@@ -114,6 +114,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93a35c6de3760c5038a2
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93d85c6de3760c5038ba&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",02h00 09/04: Lorient - Saint-Etienne
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94505c6de3760c5038f2&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/qOCtXkQ.png",17h00 09/04: Hoang Anh Gia Lai - Hong Linh Ha Tinh
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624f220a5c6de3760c503e87&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",18h30 09/04: Everton - Man United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93aa5c6de3760c5038a6&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",19h00 09/04: Cadiz - Real Betis
@@ -215,6 +217,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93a35c6de3760c5038a2
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93d85c6de3760c5038ba&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",02h00 09/04: Lorient - Saint-Etienne
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94505c6de3760c5038f2&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/V8gupfP.png",17h00 09/04: Hoang Anh Gia Lai - Hong Linh Ha Tinh
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624f220a5c6de3760c503e87&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",18h30 09/04: Everton - Man United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93aa5c6de3760c5038a6&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",19h00 09/04: Cadiz - Real Betis
@@ -316,6 +320,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93a35c6de3760c5038a2
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93d85c6de3760c5038ba&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",02h00 09/04: Lorient - Saint-Etienne
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94505c6de3760c5038f2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/66eHrae.png",17h00 09/04: Hoang Anh Gia Lai - Hong Linh Ha Tinh
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624f220a5c6de3760c503e87&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",18h30 09/04: Everton - Man United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93aa5c6de3760c5038a6&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",19h00 09/04: Cadiz - Real Betis
