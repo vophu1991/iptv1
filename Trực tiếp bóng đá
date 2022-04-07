@@ -75,10 +75,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 TTBD Phù Đổng - Hai Phong
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 TTBD Phù Đổng - Hai Phong
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camapsd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Binh Phuoc - Song Lam Nghe An
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Binh Phuoc - Song Lam Nghe An
@@ -91,8 +87,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",15h30 07/04: TTBD Phù Đổng - Hai Phong
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b51bad1e41803b3dd41&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",17h00 07/04: Binh Phuoc - Song Lam Nghe An
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b75bad1e41803b3dd45&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",18h00 07/04: FC Noah - Van
@@ -204,8 +198,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",15h30 07/04: TTBD Phù Đổng - Hai Phong
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b51bad1e41803b3dd41&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",17h00 07/04: Binh Phuoc - Song Lam Nghe An
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b75bad1e41803b3dd45&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",18h00 07/04: FC Noah - Van
@@ -317,8 +309,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",15h30 07/04: TTBD Phù Đổng - Hai Phong
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b51bad1e41803b3dd41&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",17h00 07/04: Binh Phuoc - Song Lam Nghe An
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b75bad1e41803b3dd45&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",18h00 07/04: FC Noah - Van
