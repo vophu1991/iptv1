@@ -50,7 +50,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/VcpECr1.png",BLV: Cá Quả
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/rcTQ6ct.png",Villarreal CF - Bayern Munich 7/04 cúp c1
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220407/220407-0200-villarreal-bayern-munich-ucl-fm-fn-1649280917/7697cec4663bf08803a1a7c902ec0220.smil/playlist.m3u8
+7#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/rcTQ6ct.png",Chelsea FC - Real Madrid 7/04 cúp c1
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220407/220407-0200-chelsea-real-madrid-ucl-fm-fn-1649280807/7caa71e93f8341cc6847fbb85a31745a.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/rcTQ6ct.png",Benfica - Liverpool 06/04 cúp c1
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220406/5bde467099fe63f419d79961915b0ff7.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/rcTQ6ct.png",Manchester City - Atletico Madrid 06/04 cúp c1
