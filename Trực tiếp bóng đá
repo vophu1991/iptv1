@@ -87,6 +87,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Refer
 https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-barcelona-luc-02h00-ngay-08-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",West Ham - Lyon
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-lyon-luc-02h00-ngay-08-04-2022&.m3u8|Origin=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",SC Braga - Rangers
+https://tuongbongda.000webhostapp.com/playxembd.php?id=sc-braga-vs-rangers-luc-02h00-ngay-08-04-2022&.m3u8|Origin=https://xembd.live/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/bCufm0C.png",02h00 08/04: Frankfurt - Barcelona
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93425c6de3760c50387a&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
