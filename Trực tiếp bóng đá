@@ -92,8 +92,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Refere
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",18h00 07/04: Can Tho - Dak Lak
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624e50c05c6de3760c503c99&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",19h00 07/04: Ha Noi FC - Cong An Nhan Dan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b98bad1e41803b3dd49&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/bCufm0C.png",23h45 07/04: RB Leipzig - Atalanta
@@ -197,8 +195,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",18h00 07/04: Can Tho - Dak Lak
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624e50c05c6de3760c503c99&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",19h00 07/04: Ha Noi FC - Cong An Nhan Dan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b98bad1e41803b3dd49&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/TrErZsl.png",23h45 07/04: RB Leipzig - Atalanta
@@ -302,8 +298,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",18h00 07/04: Can Tho - Dak Lak
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624e50c05c6de3760c503c99&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",19h00 07/04: Ha Noi FC - Cong An Nhan Dan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624c3b98bad1e41803b3dd49&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/59GZw9N.png",23h45 07/04: RB Leipzig - Atalanta
