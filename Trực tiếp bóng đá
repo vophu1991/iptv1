@@ -346,11 +346,11 @@ https://tuongbongda.000webhostapp.com/playsaoke.php?id=62489bec93cb8a1d4e5c4d37&
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",01h30 09/04: VfB Stuttgart - Dortmund (Thỏ)
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f35e78bb98639dd59c909&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",02h00 09/04: Lorient - Saint-Etienne
-https://tuongbongda.000webhostapp.com/play90p.php?id=624f3714baf5f939c69dfa76&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",02h00 09/04: Sevilla - Granada
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f3500c6aff63667deb372&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",02h00 09/04: Newcastle - Wolves
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",02h00 09/04: Lorient - Saint-Etienne
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f3714baf5f939c69dfa76&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",02h00 09/04: Newcastle - Wolves (Cáp)
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f34198bb98639dd59c908&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",18h30 09/04: Everton - Man United
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f3447c6aff63667deb370&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -360,6 +360,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=624f352528d9a539bbd2aca2&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f3595c6aff63667deb373&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h30 09/04: Greuther Fürth - M'gladbach
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f36848bb98639dd59c90a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h30 09/04: Köln - Mainz
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f365f74dd7b31c399b3ee&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_89.png",09/04 - 18:30 Everton - Manchester United
 https://tuongbongda.000webhostapp.com/playxembd.php?id=everton-vs-manchester-united-luc-18h30-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
