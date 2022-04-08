@@ -84,6 +84,7 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Refer
 
 
 
+
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",21h00 08/04: Ararat Armenia - Urartu FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624fdfdc5c6de3760c503fd1&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",01h30 09/04: VfB Stuttgart - Dortmund
@@ -405,3 +406,108 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-
 https://tuongbongda.000webhostapp.com/playxembd.php?id=atalanta-vs-rb-leipzig-luc-23h45-ngay-14-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_43.png",15/04 - 02:00 Barcelona - Eintracht Frankfurt
 https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-eintracht-frankfurt-luc-02h00-ngay-15-04-2022&.m3u8|Referer=https://xembd.live/
+
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 16:45  Adelaide United - Macarthur
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=adelaide-united-vs-macarthur-1645-08-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:30  Fortuna Düsseldorf - Hansa Rostock
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=fortuna-dusseldorf-vs-hansa-rostock-2330-08-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:30  Jahn Regensburg - Ingolstadt
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=jahn-regensburg-vs-ingolstadt-2330-08-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:15  Mumbai City - Al Shabab
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=mumbai-city-vs-al-shabab-0015-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:15  Istiqlol Dushanbe - Al Rayyan
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=istiqlol-dushanbe-vs-al-rayyan-0015-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:15  Al Sadd - Nasaf
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=al-sadd-vs-nasaf-0015-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 01:30  Stuttgart - B. Dortmund
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=stuttgart-vs-b-dortmund-0130-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 02:00  Newcastle Utd - Wolverhampton
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=newcastle-utd-vs-wolverhampton-0200-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 02:00  Lorient - Saint-Étienne
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=lorient-vs-saint-etienne-0200-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 02:00  Sevilla - Granada
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=sevilla-vs-granada-0200-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 03:15  Al-Jazira - Al Quwa Al Jawiya
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=al-jazira-vs-al-quwa-al-jawiya-0315-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 03:15  Al Hilal - Al Sharjah
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=al-hilal-vs-al-sharjah-0315-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 03:15  Al Wihdat - Al Faisaly
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=al-wihdat-vs-al-faisaly-0315-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 07:00  Puebla - Pumas UNAM
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=puebla-vs-pumas-unam-0700-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 09:00  Mazatlán - Cruz Azul
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=mazatlan-vs-cruz-azul-0900-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 11:00  Grulla Morioka - ThespaKusatsu
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=grulla-morioka-vs-thespakusatsu-1100-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 11:05  Western United - Wellington Phoenix
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=western-united-vs-wellington-phoenix-1105-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 12:00  Seongnam - Jeonbuk Motors
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=seongnam-vs-jeonbuk-motors-1200-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 12:00  Omiya Ardija - Ventforet Kofu
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=omiya-ardija-vs-ventforet-kofu-1200-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 12:00  V-Varen Nagasaki - Machida Zelvia
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=v-varen-nagasaki-vs-machida-zelvia-1200-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 13:00  Tokyo Verdy - Roasso Kumamoto
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tokyo-verdy-vs-roasso-kumamoto-1300-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 14:00  Daejeon Citizen - Seoul E.
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=daejeon-citizen-vs-seoul-e-1400-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 14:05  Western Sydney - Brisbane Roar
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=western-sydney-vs-brisbane-roar-1405-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 14:30  Ulsan - Daegu
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=ulsan-vs-daegu-1430-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 16:45  Melbourne Victory - Melbourne City
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=melbourne-victory-vs-melbourne-city-1645-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 16:45  C. Coast Mariners - Sydney
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=c-coast-mariners-vs-sydney-1645-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 17:00  Kawasaki Frontale - Kashiwa Reysol
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=kawasaki-frontale-vs-kashiwa-reysol-1700-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 18:00  Nizjni Novgorod - Dinamo Moskva
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=nizjni-novgorod-vs-dinamo-moskva-1800-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 18:00  Khimki - CSKA Moskva
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=khimki-vs-cska-moskva-1800-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 18:30  Everton - Man Utd
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=everton-vs-man-utd-1830-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 19:00  Cádiz - Real Betis
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cadiz-vs-real-betis-1900-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 20:00  Empoli - Spezia
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=empoli-vs-spezia-2000-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 20:30  Bayern Munich - Augsburg
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=bayern-munich-vs-augsburg-2030-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 20:30  Wolfsburg - Arminia Bielefeld
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=wolfsburg-vs-arminia-bielefeld-2030-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 20:30  FC Koln - Mainz 05
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=fc-koln-vs-mainz-05-2030-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 21:00  Arsenal - Brighton Hove
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=arsenal-vs-brighton-hove-2100-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 21:00  Southampton - Chelsea
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=southampton-vs-chelsea-2100-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 21:00  Watford - Leeds United
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=watford-vs-leeds-united-2100-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 21:15  Mallorca - Atletico Madrid
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=mallorca-vs-atletico-madrid-2115-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 22:00  Reims - Rennes
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=reims-vs-rennes-2200-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 23:00  Inter - Hellas Verona
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=inter-vs-hellas-verona-2300-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 23:30  Aston Villa - Tottenham
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=aston-villa-vs-tottenham-2330-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 23:30  Hertha BSC - Union Berlin
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=hertha-bsc-vs-union-berlin-2330-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 23:30  Villarreal - Athletic Club
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=villarreal-vs-athletic-club-2330-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 23:30  Akhmat Grozny - Zenit
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=akhmat-grozny-vs-zenit-2330-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 01:45  Cagliari - Juventus
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cagliari-vs-juventus-0145-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 02:00  Clermont - PSG
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=clermont-vs-psg-0200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 02:00  Real Madrid - Getafe
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=real-madrid-vs-getafe-0200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 05:00  Atlético San Luis - León
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=atletico-san-luis-vs-leon-0500-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 09:00  América - Juárez
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=america-vs-juarez-0900-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 11:00  Shimizu S-Pulse - Gamba Osaka
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=shimizu-s-pulse-vs-gamba-osaka-1100-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 11:30  Bucheon 1995 - Anyang
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=bucheon-1995-vs-anyang-1130-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
