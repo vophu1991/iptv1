@@ -77,10 +77,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Moldova (W) - Croatia (W)
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Moldova (W) - Croatia (W)
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",HD 2 Italy (W) - Lithuania (W)
 https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",SD 2 Italy (W) - Lithuania (W)
@@ -341,8 +337,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95785c6de3760c503940
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",23h00 10/04: Roma - Salernitana
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",22h00 08/04: Moldova (W) - Croatia (W)
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=6248993393cb8a1d4e5c4cd8&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h00 09/04: Italy (W) - Lithuania (W)
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=62489bf293cb8a1d4e5c4d45&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h30 09/04: VfB Stuttgart - Dortmund
