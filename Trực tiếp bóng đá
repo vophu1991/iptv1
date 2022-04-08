@@ -77,14 +77,8 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Thái Lan - Việt Nam
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Thái Lan - Việt Nam
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Vietnam - Thailand
-https://tuongbongda.000webhostapp.com/playxembd.php?id=vietnam-vs-thailand-3&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",21h00 08/04: Ararat Armenia - Urartu FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624fdfdc5c6de3760c503fd1&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -353,8 +347,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 08/04: Thái Lan - Việt Nam
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624e4f3c6b646d14c6cd7875&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 08/04: Kazakhstan (W) - Slovenia (W)
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=6248991a93cb8a1d4e5c4c9f&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",22h00 08/04: Moldova (W) - Croatia (W)
