@@ -98,6 +98,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Refere
 https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Everton - Man United (Bát man + Thỏ)
 https://livestream-2.socialstreaming.tv/live/62517b6b894663001c58d326/62517b6b894663001c58d326.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Bayern - Augsburg (Liu men)
+https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Bayern - Augsburg (Liu men)
+https://livestream-2.socialstreaming.tv/live/62518110e0abd4001c42c43a/62518110e0abd4001c42c43a.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Everton - Manchester United
 https://tuongbongda.000webhostapp.com/playxembd.php?id=everton-vs-manchester-united-luc-18h30-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
@@ -120,10 +124,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d941e5c6de3760c5038d4
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d941f5c6de3760c5038d5&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",20h30 09/04: Wolfsburg - Arminia Bielefeld
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94215c6de3760c5038dc&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",21h00 09/04: Arsenal - Brighton
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93b25c6de3760c5038aa&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",21h00 09/04: Southampton - Chelsea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93bc5c6de3760c5038ae&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",21h00 09/04: Arsenal - Brighton
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93b25c6de3760c5038aa&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",21h00 09/04: Watford - Leeds
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93c45c6de3760c5038b2&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",21h15 09/04: Mallorca - Atletico Madrid
@@ -213,10 +217,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d941e5c6de3760c5038d4
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d941f5c6de3760c5038d5&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/bfPmRKD.png",20h30 09/04: Wolfsburg - Arminia Bielefeld
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94215c6de3760c5038dc&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",21h00 09/04: Arsenal - Brighton
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93b25c6de3760c5038aa&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",21h00 09/04: Southampton - Chelsea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93bc5c6de3760c5038ae&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",21h00 09/04: Arsenal - Brighton
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93b25c6de3760c5038aa&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",21h00 09/04: Watford - Leeds
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93c45c6de3760c5038b2&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",21h15 09/04: Mallorca - Atletico Madrid
@@ -306,10 +310,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d941e5c6de3760c5038d4
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d941f5c6de3760c5038d5&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/HM5t4KB.png",20h30 09/04: Wolfsburg - Arminia Bielefeld
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94215c6de3760c5038dc&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",21h00 09/04: Arsenal - Brighton
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93b25c6de3760c5038aa&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",21h00 09/04: Southampton - Chelsea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93bc5c6de3760c5038ae&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",21h00 09/04: Arsenal - Brighton
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93b25c6de3760c5038aa&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",21h00 09/04: Watford - Leeds
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93c45c6de3760c5038b2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",21h15 09/04: Mallorca - Atletico Madrid
