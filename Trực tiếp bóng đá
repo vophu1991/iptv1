@@ -192,6 +192,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181315c6de3760c5045e7
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181355c6de3760c5045e8&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",02h00 11/04: Marseille - Montpellier
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181375c6de3760c5045ec&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 13/04: Real Madrid - Chelsea
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 13/04: Bayern München - Villarreal
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",18h30 09/04: Everton - Man United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93aa5c6de3760c5038a6&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
@@ -281,6 +285,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181315c6de3760c5045e7
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181355c6de3760c5045e8&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",02h00 11/04: Marseille - Montpellier
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181375c6de3760c5045ec&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 13/04: Real Madrid - Chelsea
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 13/04: Bayern München - Villarreal
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",18h30 09/04: Everton - Man United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93aa5c6de3760c5038a6&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
@@ -370,6 +378,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181315c6de3760c5045e7
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181355c6de3760c5045e8&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",02h00 11/04: Marseille - Montpellier
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181375c6de3760c5045ec&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 13/04: Real Madrid - Chelsea
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 13/04: Bayern München - Villarreal
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h30 09/04: Everton - Man United
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=62489a9d93cb8a1d4e5c4d12&.m3u8|Referer=https://saokelive.site/
@@ -427,10 +439,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brighton-luc-2
 https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-chelsea-luc-21h00-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_143.png",09/04 - 23:30 Aston Villa - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-tottenham-luc-23h30-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_86.png",10/04 - 02:00 Clermont Foot - Paris Saint Germain
-https://tuongbongda.000webhostapp.com/playxembd.php?id=clermont-foot-vs-paris-saint-germain-luc-02h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",10/04 - 02:00 Real Madrid - Getafe
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-getafe-luc-02h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_86.png",10/04 - 02:00 Clermont Foot - Paris Saint Germain
+https://tuongbongda.000webhostapp.com/playxembd.php?id=clermont-foot-vs-paris-saint-germain-luc-02h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_148.png",10/04 - 20:00 Norwich - Burnley
 https://tuongbongda.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",10/04 - 22:30 Manchester City - Liverpool
