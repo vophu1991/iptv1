@@ -118,14 +118,14 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Refer
 https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Cagliari - Juventus (Âu men)
 https://livestream-2.socialstreaming.tv/live/6251cdb5faf141001c9e4045/6251cdb5faf141001c9e4045.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Clermont Foot - PSG (Cáp Tần)
-https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Clermont Foot - PSG (Cáp Tần)
-https://livestream.socialstreaming.tv/live/6251cf421ad400001d4cd5bc/6251cf421ad400001d4cd5bc.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Real Madrid - Getafe (Liu men)
 https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Real Madrid - Getafe (Liu men)
 https://livestream-2.socialstreaming.tv/live/6251d10b894663001c58d362/6251d10b894663001c58d362.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Clermont Foot - PSG (Cáp Tần)
+https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Clermont Foot - PSG (Cáp Tần)
+https://livestream.socialstreaming.tv/live/6251cf421ad400001d4cd5bc/6251cf421ad400001d4cd5bc.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 10/04: Cagliari - Juventus
@@ -348,22 +348,28 @@ https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493393cb8a1d4e5c57e4&
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",01h45 10/04: Cagliari - Juventus (Âu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5cece0d4672fc68e6f4b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 10/04: Clermont Foot - PSG (Cáp Tần)
-https://tuongbongda.000webhostapp.com/play90p.php?id=624f634828d9a539bbd2acac&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 10/04: Real Madrid - Getafe (Liu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5c23baf5f939c69dfa79&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 10/04: Clermont Foot - PSG (Cáp Tần)
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f634828d9a539bbd2acac&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5cff28d9a539bbd2aca5&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",18h00 10/04: Bordeaux - Metz
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f65d43679ef42e3971566&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",19h00 10/04: Osasuna - Deportivo Alavés
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5c363679ef42e3971563&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Brentford - West Ham
-https://tuongbongda.000webhostapp.com/play90p.php?id=624f5bd03679ef42e3971561&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Leicester City - Crystal Palace
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5be03679ef42e3971562&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Napoli - Fiorentina
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5f5a3679ef42e3971564&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Norwich City - Burnley
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f5bf1e0d4672fc68e6f49&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Sassuolo - Atalanta
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f5f8e28d9a539bbd2aca9&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Venezia - Udinese
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f5fa274dd7b31c399b3f4&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Brest - Nantes
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f66028bb98639dd59c910&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_148.png",10/04 - 20:00 Norwich - Burnley
 https://tuongbongda.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
