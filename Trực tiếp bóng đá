@@ -74,28 +74,16 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Inter - Hellas Verona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Inter - Hellas Verona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Aston Villa - Tottenham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Aston Villa - Tottenham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Inter - Hellas Verona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Inter - Hellas Verona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Aston Villa - Tottenham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Aston Villa - Tottenham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquasd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Inter - Hellas Verona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betonghd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Inter - Hellas Verona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betongsd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Aston Villa - Tottenham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Aston Villa - Tottenham
@@ -110,10 +98,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Aston Villa - Tottenham
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Inter - Hellas Verona (Nện)
-https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Inter - Hellas Verona (Nện)
-https://livestream-2.socialstreaming.tv/live/62519e5822a238001dd1e66b/62519e5822a238001dd1e66b.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Aston Villa - Tottenham (Người Thỏ)
 https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Aston Villa - Tottenham (Người Thỏ)
@@ -122,8 +106,6 @@ https://livestream.socialstreaming.tv/live/6251af2e1ad400001d4cd5b5/6251af2e1ad4
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Aston Villa - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-tottenham-luc-23h30-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",23h00 09/04: Inter - Hellas Verona
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94025c6de3760c5038ce&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",23h30 09/04: Aston Villa - Tottenham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93cd5c6de3760c5038b6&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 09/04: Villarreal - Athletic Club
@@ -132,10 +114,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93f15c6de3760c5038c6
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62509ae55c6de3760c504363&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 10/04: Cagliari - Juventus
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d952d5c6de3760c503923&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",02h00 10/04: Real Madrid - Getafe
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e35c6de3760c503912&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",02h00 10/04: Clermont Foot - PSG
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ed5c6de3760c503964&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",02h00 10/04: Real Madrid - Getafe
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e35c6de3760c503912&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",18h00 10/04: Bordeaux - Metz
@@ -193,8 +175,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",23h00 09/04: Inter - Hellas Verona
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94025c6de3760c5038ce&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",23h30 09/04: Aston Villa - Tottenham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93cd5c6de3760c5038b6&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",23h30 09/04: Villarreal - Athletic Club
@@ -203,10 +183,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93f15c6de3760c5038c6
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62509ae55c6de3760c504363&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",01h45 10/04: Cagliari - Juventus
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d952d5c6de3760c503923&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",02h00 10/04: Real Madrid - Getafe
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e35c6de3760c503912&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",02h00 10/04: Clermont Foot - PSG
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ed5c6de3760c503964&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",02h00 10/04: Real Madrid - Getafe
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e35c6de3760c503912&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",18h00 10/04: Bordeaux - Metz
@@ -264,8 +244,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",23h00 09/04: Inter - Hellas Verona
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94025c6de3760c5038ce&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",23h30 09/04: Aston Villa - Tottenham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93cd5c6de3760c5038b6&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",23h30 09/04: Villarreal - Athletic Club
@@ -274,10 +252,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93f15c6de3760c5038c6
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62509ae55c6de3760c504363&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",01h45 10/04: Cagliari - Juventus
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d952d5c6de3760c503923&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",02h00 10/04: Real Madrid - Getafe
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e35c6de3760c503912&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",02h00 10/04: Clermont Foot - PSG
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ed5c6de3760c503964&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",02h00 10/04: Real Madrid - Getafe
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e35c6de3760c503912&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",18h00 10/04: Bordeaux - Metz
@@ -368,8 +346,6 @@ https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493493cb8a1d4e5c57e6&
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 11/04: Levante - Barcelona
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493393cb8a1d4e5c57e4&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",23h00 09/04: Inter - Hellas Verona (Nện)
-https://tuongbongda.000webhostapp.com/play90p.php?id=624f35bce0d4672fc68e6f47&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",23h30 09/04: Aston Villa - Tottenham (Người Thỏ)
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f34d7c6aff63667deb371&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",23h30 09/04: Villarreal - Athletic Club
