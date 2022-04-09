@@ -77,10 +77,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Seongnam FC - Jeonbuk FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Seongnam FC - Jeonbuk FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
 
@@ -321,8 +317,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95785c6de3760c503940
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",23h00 10/04: Roma - Salernitana
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",12h00 09/04: Seongnam FC - Jeonbuk FC
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=62489c0593cb8a1d4e5c4d6a&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",14h30 09/04: South Korea - Việt Nam
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=62507ef26b646d14c6cd7de5&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 09/04: Hoang Anh Gia Lai - Hong Linh Ha Tinh
