@@ -77,10 +77,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Aston Villa - Tottenham
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Aston Villa - Tottenham
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Aston Villa - Tottenham (Người Thỏ)
 https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -277,8 +273,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 09/04: Aston Villa - Tottenham
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=62489aa293cb8a1d4e5c4d1f&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 10/04: Real Madrid - Getafe
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b475d93cb8a1d4e5c5734&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 10/04: Clermont Foot - PSG
