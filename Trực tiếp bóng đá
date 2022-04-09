@@ -89,10 +89,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Everton - Man United
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Hoang Anh Gia Lai - Hong Linh Ha Tinh
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Hoang Anh Gia Lai - Hong Linh Ha Tinh
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Everton - Man United
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Everton - Man United
@@ -333,8 +329,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95785c6de3760c503940
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",23h00 10/04: Roma - Salernitana
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 09/04: Hoang Anh Gia Lai - Hong Linh Ha Tinh
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b435a93cb8a1d4e5c5713&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h30 09/04: Everton - Man United
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=62489a9d93cb8a1d4e5c4d12&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",20h30 09/04: Bayern München - Augsburg
@@ -385,10 +379,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=624f34d7c6aff63667deb371&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",23h30 09/04: Villarreal - Athletic Club
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f357474dd7b31c399b3ed&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_60.png",09/04 - 21:00 Arsenal - Brighton
-https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brighton-luc-21h00-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_149.png",09/04 - 21:00 Southampton - Chelsea
 https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-chelsea-luc-21h00-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_60.png",09/04 - 21:00 Arsenal - Brighton
+https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brighton-luc-21h00-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_143.png",09/04 - 23:30 Aston Villa - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-tottenham-luc-23h30-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",10/04 - 02:00 Real Madrid - Getafe
