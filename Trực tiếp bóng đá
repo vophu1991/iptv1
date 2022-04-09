@@ -142,6 +142,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d952d5c6de3760c503923
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e35c6de3760c503912&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",02h00 10/04: Clermont Foot - PSG
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ed5c6de3760c503964&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",05h00 10/04: Atletico GO - Flamengo
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=62517caa5c6de3760c5045c7&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",18h00 10/04: Bordeaux - Metz
@@ -217,6 +219,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d952d5c6de3760c503923
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e35c6de3760c503912&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",02h00 10/04: Clermont Foot - PSG
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ed5c6de3760c503964&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",05h00 10/04: Atletico GO - Flamengo
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=62517caa5c6de3760c5045c7&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",18h00 10/04: Bordeaux - Metz
@@ -292,6 +296,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d952d5c6de3760c503923
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e35c6de3760c503912&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",02h00 10/04: Clermont Foot - PSG
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ed5c6de3760c503964&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",05h00 10/04: Atletico GO - Flamengo
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=62517caa5c6de3760c5045c7&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",18h00 10/04: Bordeaux - Metz
@@ -385,10 +391,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brighton-luc-2
 https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-chelsea-luc-21h00-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_143.png",09/04 - 23:30 Aston Villa - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-tottenham-luc-23h30-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_86.png",10/04 - 02:00 Clermont Foot - Paris Saint Germain
-https://tuongbongda.000webhostapp.com/playxembd.php?id=clermont-foot-vs-paris-saint-germain-luc-02h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",10/04 - 02:00 Real Madrid - Getafe
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-getafe-luc-02h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_86.png",10/04 - 02:00 Clermont Foot - Paris Saint Germain
+https://tuongbongda.000webhostapp.com/playxembd.php?id=clermont-foot-vs-paris-saint-germain-luc-02h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_148.png",10/04 - 20:00 Norwich - Burnley
 https://tuongbongda.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",10/04 - 22:30 Manchester City - Liverpool
