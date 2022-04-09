@@ -142,8 +142,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brighton-luc-2
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Watford - Leeds
 https://tuongbongda.000webhostapp.com/playxembd.php?id=watford-vs-leeds-luc-21h00-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",19h00 09/04: Cadiz - Real Betis
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93e15c6de3760c5038be&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",20h00 09/04: Empoli - Spezia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93fa5c6de3760c5038ca&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",20h30 09/04: Bayern München - Augsburg
@@ -233,8 +231,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",19h00 09/04: Cadiz - Real Betis
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93e15c6de3760c5038be&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",20h00 09/04: Empoli - Spezia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93fa5c6de3760c5038ca&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/bfPmRKD.png",20h30 09/04: Bayern München - Augsburg
@@ -324,8 +320,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",19h00 09/04: Cadiz - Real Betis
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93e15c6de3760c5038be&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",20h00 09/04: Empoli - Spezia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d93fa5c6de3760c5038ca&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/HM5t4KB.png",20h30 09/04: Bayern München - Augsburg
@@ -483,3 +477,5 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=atalanta-vs-rb-leipzig-lu
 https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-eintracht-frankfurt-luc-02h00-ngay-15-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",16/04 - 18:30 Tottenham - Brighton
 https://tuongbongda.000webhostapp.com/playxembd.php?id=tottenham-vs-brighton-luc-18h30-ngay-16-04-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",16/04 - 21:00 Manchester United - Norwich
+https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-norwich-luc-21h00-ngay-16-04-2022&.m3u8|Referer=https://xembd.live/
