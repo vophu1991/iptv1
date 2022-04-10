@@ -102,8 +102,6 @@ https://livestream.socialstreaming.tv/live/6252f4816b7e20001c523cc3/6252f4816b7e
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Manchester City - Liverpool
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-liverpool-luc-22h30-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",21h15 10/04: Espanyol - Celta Vigo
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e65c6de3760c503914&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",22h05 10/04: Lens - Nice
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95f45c6de3760c50396f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",22h30 10/04: Man City - Liverpool
@@ -155,8 +153,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",23h45 14/04: PSV Eindhoven - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",21h15 10/04: Espanyol - Celta Vigo
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e65c6de3760c503914&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",22h05 10/04: Lens - Nice
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95f45c6de3760c50396f&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",22h30 10/04: Man City - Liverpool
@@ -208,8 +204,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/a6BBQhL.png",23h45 14/04: PSV Eindhoven - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",21h15 10/04: Espanyol - Celta Vigo
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e65c6de3760c503914&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",22h05 10/04: Lens - Nice
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95f45c6de3760c50396f&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",22h30 10/04: Man City - Liverpool
