@@ -164,6 +164,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6251e49f5c6de3760c504925
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 14/04: Atletico Madrid - Man City
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6505c6de3760c504ace&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 14/04: Liverpool - Benfica
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6555c6de3760c504ad2&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
@@ -237,6 +241,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6251e49f5c6de3760c504925
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 14/04: Atletico Madrid - Man City
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6505c6de3760c504ace&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 14/04: Liverpool - Benfica
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6555c6de3760c504ad2&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
@@ -310,6 +318,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6251e49f5c6de3760c504925
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 14/04: Atletico Madrid - Man City
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6505c6de3760c504ace&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 14/04: Liverpool - Benfica
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6555c6de3760c504ad2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h15 10/04: TP.HCM - Saigon FC
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=62506ed56b646d14c6cd7c7d&.m3u8|Referer=https://saokelives.site/
