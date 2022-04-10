@@ -300,6 +300,12 @@ https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493493cb8a1d4e5c57e6&
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 11/04: Levante - Barcelona
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493393cb8a1d4e5c57e4&.m3u8|Referer=https://saokelive.site/
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",17h30 10/04: Genoa - Lazio
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f5cff28d9a539bbd2aca5&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",18h00 10/04: Bordeaux - Metz
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f65d43679ef42e3971566&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",19h00 10/04: Osasuna - Deportivo Alavés
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f5c363679ef42e3971563&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_148.png",10/04 - 20:00 Norwich - Burnley
 https://tuongbongda.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
@@ -309,10 +315,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-liverp
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",13/04 - 02:00 Bayern Munich - Villarreal
 https://tuongbongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-villarreal-luc-02h00-ngay-13-04-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
-https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",14/04 - 02:00 Atletico Madrid - Manchester City
 https://tuongbongda.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
+https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_37.png",14/04 - 23:45 Atalanta - RB Leipzig
 https://tuongbongda.000webhostapp.com/playxembd.php?id=atalanta-vs-rb-leipzig-luc-23h45-ngay-14-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_43.png",15/04 - 02:00 Barcelona - Eintracht Frankfurt
