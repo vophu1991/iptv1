@@ -77,10 +77,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Shimizu S-Pulse - Gamba Osaka
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Shimizu S-Pulse - Gamba Osaka
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Newcastle Jets - Perth Glory
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Newcastle Jets - Perth Glory
@@ -283,8 +279,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",11h00 10/04: Shimizu S-Pulse - Gamba Osaka
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b48e093cb8a1d4e5c57c0&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",13h05 10/04: Newcastle Jets - Perth Glory
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b48d693cb8a1d4e5c57ad&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",14h30 10/04: Việt Nam - Myanmar
@@ -310,6 +304,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=624f5cff28d9a539bbd2aca5&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f65d43679ef42e3971566&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",19h00 10/04: Osasuna - Deportivo Alavés
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5c363679ef42e3971563&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Leicester City - Crystal Palace
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f5be03679ef42e3971562&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Napoli - Fiorentina
+https://tuongbongda.000webhostapp.com/play90p.php?id=624f5f5a3679ef42e3971564&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_148.png",10/04 - 20:00 Norwich - Burnley
 https://tuongbongda.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
