@@ -82,10 +82,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD RB Leipzig - Hoffenheim
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Roma - Salernitana (Người Nện)
-https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FHD Roma - Salernitana (Người Nện)
-https://livestream.socialstreaming.tv/live/6252f4816b7e20001c523cc3/6252f4816b7e20001c523cc3.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 10/04: Elche - Real Sociedad
@@ -224,8 +220,6 @@ https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493493cb8a1d4e5c57e6&
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 11/04: Levante - Barcelona
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493393cb8a1d4e5c57e4&.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",23h00 10/04: Roma - Salernitana (Người Nện)
-https://tuongbongda.000webhostapp.com/play90p.php?id=624f5fb53679ef42e3971565&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",23h30 10/04: Elche - Real Sociedad
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5cb992893b39d1704ba8&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",00h00 11/04: Strasbourg - Lyon
@@ -238,6 +232,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6252a006e0d4672fc68e6f54&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6252a0a092893b39d1704bac&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 11/04: Levante - Barcelona (Cáp)
 https://tuongbongda.000webhostapp.com/play90p.php?id=62529fe93679ef42e3971569&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",01h45 12/04: Bologna - Sampdoria
+https://tuongbongda.000webhostapp.com/play90p.php?id=62530f6cc6aff63667deb385&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
