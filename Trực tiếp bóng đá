@@ -97,7 +97,7 @@ https://2459955770.cloud.anycastapnic.com/pep/sk2/playlist.m3u8|Referer=https://
 https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Dong A Thanh Hoa - Dong Tam Long An
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Dong A Thanh Hoa - Dong Tam Long An
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Dong A Thanh Hoa - Dong Tam Long An
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
 
 
