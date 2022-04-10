@@ -87,10 +87,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Norwich - Burnley
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Leicester - Crystal Palace
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Leicester - Crystal Palace
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquasd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Brentford - West Ham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Brentford - West Ham
@@ -146,8 +142,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=brentford-vs-west-ham-luc
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Leicester - Crystal Palace
 https://tuongbongda.000webhostapp.com/playxembd.php?id=leicester-vs-crystal-palace-luc-21h00-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",19h15 10/04: TP Hồ Chí Minh - Sai Gon
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=625248225c6de3760c5049bd&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",20h00 10/04: Leicester - Crystal Palace
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94c55c6de3760c503903&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",20h00 10/04: Brentford - West Ham
@@ -221,8 +215,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",23h45 14/04: PSV Eindhoven - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",19h15 10/04: TP Hồ Chí Minh - Sai Gon
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=625248225c6de3760c5049bd&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",20h00 10/04: Leicester - Crystal Palace
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94c55c6de3760c503903&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",20h00 10/04: Brentford - West Ham
@@ -296,8 +288,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/a6BBQhL.png",23h45 14/04: PSV Eindhoven - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",19h15 10/04: TP Hồ Chí Minh - Sai Gon
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=625248225c6de3760c5049bd&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",20h00 10/04: Leicester - Crystal Palace
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94c55c6de3760c503903&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",20h00 10/04: Brentford - West Ham
@@ -384,8 +374,6 @@ https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493493cb8a1d4e5c57e6&
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 11/04: Levante - Barcelona
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493393cb8a1d4e5c57e4&.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",19h00 10/04: Osasuna - Deportivo Alavés
-https://tuongbongda.000webhostapp.com/play90p.php?id=624f5c363679ef42e3971563&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Brentford - West Ham (Thỏ)
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5bd03679ef42e3971561&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 10/04: Leicester City - Crystal Palace (Nện)
@@ -422,6 +410,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=624f5cb992893b39d1704ba8&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6252a083baf5f939c69dfa82&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/5mvoglV.png",00h30 11/04: RB Leipzig - Hoffenheim
 https://tuongbongda.000webhostapp.com/play90p.php?id=6252a02074dd7b31c399b401&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",01h45 11/04: Torino - Milan
+https://tuongbongda.000webhostapp.com/play90p.php?id=6252a006e0d4672fc68e6f54&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",10/04 - 22:30 Manchester City - Liverpool
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-liverpool-luc-22h30-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
