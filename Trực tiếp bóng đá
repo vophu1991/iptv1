@@ -89,16 +89,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/playl
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Genoa - Lazio
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxaysd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Nhà đài Dong A Thanh Hoa - Dong Tam Long An
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Dong A Thanh Hoa - Dong Tam Long An
-https://2459955770.cloud.anycastapnic.com/pep/sk2/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Dong A Thanh Hoa - Dong Tam Long An
-https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Dong A Thanh Hoa - Dong Tam Long An
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Dong A Thanh Hoa - Dong Tam Long An
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
 
 
 
@@ -327,20 +317,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 10/04: Dong A Thanh Hoa - Dong Tam Long An
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=62506ead6b646d14c6cd7c7a&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h15 10/04: TP.HCM - Saigon FC
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=62506ed56b646d14c6cd7c7d&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",20h00 10/04: Brentford - West Ham
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b475793cb8a1d4e5c572c&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",22h30 10/04: Man City - Liverpool
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b475b93cb8a1d4e5c5731&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h30 11/04: RB Leipzig - Hoffenheim
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493593cb8a1d4e5c57e7&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h45 11/04: Torino - Milan
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493493cb8a1d4e5c57e6&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 11/04: Levante - Barcelona
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b493393cb8a1d4e5c57e4&.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5cff28d9a539bbd2aca5&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
