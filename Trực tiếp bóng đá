@@ -84,12 +84,16 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Refer
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",17h00 10/04: FLC Thanh Hoa - Long An
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625248045c6de3760c5049b9&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",18h00 10/04: Bordeaux - Metz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ef5c6de3760c503965&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",19h00 10/04: Osasuna - Deportivo Alaves
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e45c6de3760c503913&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",19h15 10/04: TP Hồ Chí Minh - Sai Gon
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625248225c6de3760c5049bd&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",20h00 10/04: Brentford - West Ham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94c35c6de3760c503902&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",20h00 10/04: Leicester - Crystal Palace
@@ -145,12 +149,16 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",17h00 10/04: FLC Thanh Hoa - Long An
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625248045c6de3760c5049b9&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",18h00 10/04: Bordeaux - Metz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ef5c6de3760c503965&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",19h00 10/04: Osasuna - Deportivo Alaves
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e45c6de3760c503913&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",19h15 10/04: TP Hồ Chí Minh - Sai Gon
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625248225c6de3760c5049bd&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",20h00 10/04: Brentford - West Ham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94c35c6de3760c503902&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",20h00 10/04: Leicester - Crystal Palace
@@ -206,12 +214,16 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 13/04: Bayern München - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",17h00 10/04: FLC Thanh Hoa - Long An
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625248045c6de3760c5049b9&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",17h30 10/04: Genoa - Lazio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",18h00 10/04: Bordeaux - Metz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ef5c6de3760c503965&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",19h00 10/04: Osasuna - Deportivo Alaves
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94e45c6de3760c503913&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",19h15 10/04: TP Hồ Chí Minh - Sai Gon
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=625248225c6de3760c5049bd&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",20h00 10/04: Brentford - West Ham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d94c35c6de3760c503902&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",20h00 10/04: Leicester - Crystal Palace
