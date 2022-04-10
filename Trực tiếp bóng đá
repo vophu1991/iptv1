@@ -83,6 +83,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelives.site/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Norwich - Burnley
+https://tuongbongda.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",18h00 10/04: Bordeaux - Metz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ef5c6de3760c503965&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -363,8 +365,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=624f5fcf28d9a539bbd2acaa&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",21h15 10/04: Espanyol - Celta de Vigo
 https://tuongbongda.000webhostapp.com/play90p.php?id=624f5c4b8bb98639dd59c90c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_148.png",10/04 - 20:00 Norwich - Burnley
-https://tuongbongda.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",10/04 - 22:30 Manchester City - Liverpool
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-liverpool-luc-22h30-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
