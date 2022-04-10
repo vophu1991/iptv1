@@ -82,6 +82,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD RB Leipzig - Hoffenheim
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelives.site/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Torino - Milan (Thỏ)
+https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FHD Torino - Milan (Thỏ)
+https://livestream-2.socialstreaming.tv/live/6253174bba6625001d2982b3/6253174bba6625001d2982b3.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",00h00 11/04: Strasbourg - Lyon
@@ -219,6 +223,10 @@ https://tuongbongda.000webhostapp.com/playsaoke.php?id=62506f546b646d14c6cd7c83&
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=62506f886b646d14c6cd7c89&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h15 11/04: Viettel - Can Tho
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=62506fa26b646d14c6cd7c8c&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h30 12/04: Antalyaspor - Hatayspor
+https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b4b0893cb8a1d4e5c5897&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 12/04: Rayo Vallecano - Valencia
+https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b4a4b93cb8a1d4e5c5852&.m3u8|Referer=https://saokelives.site/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",00h00 11/04: Strasbourg - Lyon
 https://tuongbongda.000webhostapp.com/play90p.php?id=6252a083baf5f939c69dfa82&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
