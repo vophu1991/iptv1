@@ -85,6 +85,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Refere
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Norwich - Burnley
 https://tuongbongda.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Brentford - West Ham
+https://tuongbongda.000webhostapp.com/playxembd.php?id=brentford-vs-west-ham-luc-21h00-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",18h00 10/04: Bordeaux - Metz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624d95ef5c6de3760c503965&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
