@@ -76,6 +76,10 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Bologna - Sampdoria
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betonghd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Bologna - Sampdoria
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betongsd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Antalyaspor - Hatayspor
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x4/playlist.m3u8|Referer=https://saokelives.site/
@@ -167,6 +171,12 @@ https://tuongbongda.000webhostapp.com/playsaoke.php?id=62547500c24c80501454e55c&
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b4af593cb8a1d4e5c5865&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 12/04: Serbia (W) - Germany (W)
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b4af293cb8a1d4e5c5861&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",22h45 12/04: Switzerland (W) - Italy (W)
+https://tuongbongda.000webhostapp.com/playsaoke.php?id=624b4af093cb8a1d4e5c5860&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 13/04: Real Madrid - Chelsea
+https://tuongbongda.000webhostapp.com/playsaoke.php?id=625099a76b646d14c6cd7e64&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 13/04: Bayern München - Villarreal
+https://tuongbongda.000webhostapp.com/playsaoke.php?id=625099a86b646d14c6cd7e65&.m3u8|Referer=https://saokelives.site/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",01h45 12/04: Bologna - Sampdoria
 https://tuongbongda.000webhostapp.com/play90p.php?id=62530f6cc6aff63667deb385&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
