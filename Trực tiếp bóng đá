@@ -84,8 +84,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",21h30 11/04: Belshina Bobruisk - Gomel
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6251a9b25c6de3760c504705&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 12/04: Bologna - Sampdoria
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6251e4875c6de3760c504921&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",02h00 12/04: Rayo Vallecano - Valencia
@@ -107,8 +105,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",23h45 14/04: PSV Eindhoven - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",21h30 11/04: Belshina Bobruisk - Gomel
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6251a9b25c6de3760c504705&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",01h45 12/04: Bologna - Sampdoria
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6251e4875c6de3760c504921&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",02h00 12/04: Rayo Vallecano - Valencia
@@ -130,8 +126,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/a6BBQhL.png",23h45 14/04: PSV Eindhoven - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",21h30 11/04: Belshina Bobruisk - Gomel
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6251a9b25c6de3760c504705&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",01h45 12/04: Bologna - Sampdoria
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6251e4875c6de3760c504921&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",02h00 12/04: Rayo Vallecano - Valencia
