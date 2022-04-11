@@ -88,8 +88,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Refere
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",18h00 11/04: Binh Dinh - Hai Phong
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=625299405c6de3760c504a84&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",18h00 11/04: Ba Ria Vung Tau - Pho Hien
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625299645c6de3760c504a88&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/m7w6vka.png",19h15 11/04: Viettel - Can Tho
@@ -115,8 +113,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",23h45 14/04: PSV Eindhoven - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",18h00 11/04: Binh Dinh - Hai Phong
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=625299405c6de3760c504a84&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",18h00 11/04: Ba Ria Vung Tau - Pho Hien
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625299645c6de3760c504a88&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/kOmBae3.png",19h15 11/04: Viettel - Can Tho
@@ -142,8 +138,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/a6BBQhL.png",23h45 14/04: PSV Eindhoven - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",18h00 11/04: Binh Dinh - Hai Phong
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=625299405c6de3760c504a84&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",18h00 11/04: Ba Ria Vung Tau - Pho Hien
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=625299645c6de3760c504a88&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Cúp Quốc Gia 2022" tvg-logo="https://i.imgur.com/9jU0Y5y.png",19h15 11/04: Viettel - Can Tho
