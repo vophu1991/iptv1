@@ -93,10 +93,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Real Madrid - Chelsea
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Bayern München - Villarreal
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Bayern München - Villarreal
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelives.site/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Cáp Real Madrid - Chelsea (Cáp + Liu)
 https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -177,8 +173,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6255937c5c6de3760c50538f&.m3u
 
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 13/04: Real Madrid - Chelsea
 https://hdsd77.000webhostapp.com/playsaoke.php?id=625099a76b646d14c6cd7e64&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 13/04: Bayern München - Villarreal
-https://hdsd77.000webhostapp.com/playsaoke.php?id=625099a86b646d14c6cd7e65&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",05h15 13/04: Boca Juniors - Always Ready
 https://hdsd77.000webhostapp.com/playsaoke.php?id=62509b4b6b646d14c6cd7ea7&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h30 13/04: Palmeiras - Independiente Petrolero
@@ -211,10 +205,10 @@ https://hdsd77.000webhostapp.com/play90p.php?id=6253190e8bb98639dd59c91b&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa Conference League" tvg-logo="https://i.imgur.com/5mvoglV.png",23h45 14/04: PSV - Leicester City
 https://hdsd77.000webhostapp.com/play90p.php?id=6253192374dd7b31c399b405&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_33.png",14/04 - 02:00 Liverpool - Benfica
-https://hdsd77.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",14/04 - 02:00 Atletico Madrid - Manchester City
 https://hdsd77.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_33.png",14/04 - 02:00 Liverpool - Benfica
+https://hdsd77.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_122.png",14/04 - 23:45 Atalanta - RB Leipzig
 https://hdsd77.000webhostapp.com/playxembd.php?id=atalanta-vs-rb-leipzig-luc-23h45-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_101.png",15/04 - 02:00 Barcelona - Eintracht Frankfurt
