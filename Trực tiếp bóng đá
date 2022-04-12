@@ -82,10 +82,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Real Madrid - Chelsea
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Cáp Real Madrid - Chelsea (Cáp + Liu)
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FHD Cáp Real Madrid - Chelsea (Cáp + Liu)
-https://livestream-2.socialstreaming.tv/live/6255c1966b7e20001c523db4/6255c1966b7e20001c523db4.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 14/04: Atletico Madrid - Man City
@@ -174,8 +170,6 @@ https://hdsd77.000webhostapp.com/playsaoke.php?id=62509b846b646d14c6cd7eca&.m3u8
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 14/04: Liverpool - Benfica
 https://hdsd77.000webhostapp.com/playsaoke.php?id=62509b856b646d14c6cd7ecb&.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 13/04: Real Madrid - Chelsea (Cáp + Liu)
-https://hdsd77.000webhostapp.com/play90p.php?id=625311ef92893b39d1704bb0&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 14/04: Liverpool - Benfica
 https://hdsd77.000webhostapp.com/play90p.php?id=625318f774dd7b31c399b404&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 14/04: Atlético Madrid -  Manchester City
