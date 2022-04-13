@@ -77,10 +77,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Palmeiras - Independiente Petrolero
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Palmeiras - Independiente Petrolero
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Cruz Azul - Pumas
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Cruz Azul - Pumas
@@ -151,8 +147,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=625593795c6de3760c50538e&.m3u
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Qg7LJB1.png",02h00 15/04: PAOK Thessaloniki FC - Marseille
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6255937c5c6de3760c50538f&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h30 13/04: Palmeiras - Independiente Petrolero
-https://hdsd77.000webhostapp.com/playsaoke.php?id=6255a908c24c80501454e727&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 13/04: Cruz Azul - Pumas
 https://hdsd77.000webhostapp.com/playsaoke.php?id=625099a96b646d14c6cd7e66&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",16h05 13/04: Western Sydney Wanderers FC - Central Coast Mariners
