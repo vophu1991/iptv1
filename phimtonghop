@@ -11,7 +11,6 @@ https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/johnwick_
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/johnwick2_2017_us_1080p_sub_logofptplay/f2deb070f27be0d9985f5c84adada8b0.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/mjJI26I.jpg", Cơn Thịnh Nộ Chết Người
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220223/wrathofman_2021_us_1080p_logofptplay_sub/9fb48812a17389304227e2b3afbcabdf.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/E3ZHxfB.jpg",Thanh Tra Ma cà Rồng
 http://vod-zlr2.tv360.vn/video1/2021/10/27/16/1d5a4d63/1d5a4d63-5fc2-4c7f-a8ec-9509d39a1d20_2_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/EwxwVLp.jpg",Hồi Sinh 
@@ -32,12 +31,7 @@ http://s1zen.myclip.vn/video1/2020/02/25/18/f4b1e55c/f4b1e55c-9a9d-4a9a-aacd-fe2
 http://s1zen.myclip.vn/video1/2021/03/16/15/6b6f1b46/6b6f1b46-44ef-43cd-a03a-9b3875e9f18b_3_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/tgKBSXR.jpg",Tứ Đại Danh Bổ 3 PHẦN 1
 http://s1zen.myclip.vn/video1/2019/03/28/10/8a3a85ae/8a3a85ae-4e61-4a7c-b0f8-15e6a8998ff9_3_.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/gLjVpAp.jpg",ĐIỆP VẤN 1
-https://hlss.xyz/cdn/hls/3959ad8450c0f1742bd7d224c105bea2/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/3Ig3YMM.jpg",ĐIỆP VẤN 2
-https://hlss.xyz/cdn/hls/cd76c8576ce137eaa713c394b435c732/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/20054/poster.jpg",Thám Trưởng Lôi Lạc 1
-https://hlss.xyz/cdn/hls/ced4d1f9c4cd144b230b6d18af0fc8be/master.m3u8
+
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/h1UKG4u.jpg",Chuyến Bay Sinh Tử
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220214/thecaptain_2019_cn_1080p_sub_logofptplay_tm/9fcdef154e5b34b2b20a4cf8891ff696_1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/OYGLr8x.jpg",Cặp Đôi Huyền Thoại
