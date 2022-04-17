@@ -1,6 +1,100 @@
 #EXTM3U url-tvg="http://gg.gg/vietanhepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
+
+
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo01_2fc6f668168e21cf/9e34681a/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo02_69a1525894f57d3b/bc0d1e29/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo03_d86ed2f2f8a7f97f/15f445af/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo04_1a4e4177ba60fbf6/8c38abd4/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo05_5a7775c78c85b552/23b6641d/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo06_67ec76a35d3e86db/c309f861/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo07_f679acf0a0b8a9d1/d0c03d6a/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo08_990b930ad8359d9b/3646c382/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo09_ad9e48e3de5f3e03/0f962c4a/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo10_02f892e82254b03c/0fa960f4/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo11_2bd9d6a6d107a116/b58d4acb/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo12_03eb50dbdd5fdc00/822aac74/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo13_c587b63556f3e088/29a38bd7/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo14_9cfa5bb9ec587209/ada07536/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo15_adbd227d14205709/ab129feb/hls/mapper-mhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo16_584f4af25c987420/4f9982b3/hls/mapper-mhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo17_818c4a865c20163d/f615e65e/hls/mapper-mhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo18_83133fdd1270a3e8/fe7aeb56/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo19_3fc9ffc034b5cd6d/f396339a/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo20_d356c2e6ccdbbbf7/719f47ce/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo21_6be7eac46a65f790/c7385e58/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo22_a327592b94f176af/950ae7e0/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo23_0659ba11011669b7/99f2a00d/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo24_b4d8f693cc3803b2/5486bb20/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo25_d0468bde7e95310c/717d0554/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo26_dec15620f54cd228/88b6e8fd/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo27_456a86319b83573a/348e1e4d/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo28_40a6ffedde1643d2/76ae8649/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo29_ccbc767382fb8148/5ba8444c/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo30_005045cc015a5ef4/a21d26b8/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo31_151bf2ca564bbbf8/fe644ce5/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo32_665eff71dffa59a8/24c1aea6/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo33_b410df1860518449/0dfd441b/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo34_29336037a72e9838/2f7669f0/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo35_91f62bceed093809/1358da1f/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo36_4698e7d85b5550b3/5107f4cf/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo37_73032df936711668/c91e4494/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo38_6e337c657e32e664/e06841ad/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo39_f53559acbf733e61/7a7cfecc/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo40_f638f2aa3fd4c3eb/ca389730/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo41_2c954f0cc923ebb8/42a1e557/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo42_b21f44e83436938c/07408030/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo43_f4d29fd6764b6603/04578eef/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo44_a6959a8ce765b406/8f768f60/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo45_a3544ce640ea9850/ff31eee6/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
+
+
 #EXTINF:-1 group-title="KHÔNG XEM THÌ XÓA" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Vô Ảnh 
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191210/shadow-1080p-sub-logofptplay-v3/9f208119b225d60903c4660d449dcb9d.smil/chunklist_b3992000.m3u8
 #EXTINF:-1 group-title="KHÔNG XEM THÌ XÓA" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Thảm Họa Động Đất 
