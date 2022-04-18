@@ -3,6 +3,14 @@
 #EXTINF:vo phu 
 
 
+
+#EXTINF:-1 group-title="PHIM LẺ VÕ PHÚ" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2022/van_than_hinh_xam_invisible_tattoo.jpg",Văn Thân 
+https://cdn2ii.coiphim123.xyz/bigst3hls/2021/mp4/2022/03/18/623370268acfba00136abd44/62342cbd8acfba001371118c.mp4/playlist.m3u8
+#EXTINF:-1 group-title="PHIM LẺ VÕ PHÚ" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2022/con_bao_vo_tan_infinite_storm.jpg",Cơn Bão Vô Tận 
+https://cdn2ii.coiphim123.xyz/bigst3hls/2021/mp4/2022/04/14/6257c8237bcbe40012c484d5/6257c8497bcbe40012c48616.mp4/playlist.m3u8
+#EXTINF:-1 group-title="PHIM LẺ VÕ PHÚ" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2013/ninja_bao_thu_ninja_shadow_of_a_tear.jpg",Ninja Báo Thù 
+https://cdn2ii.coiphim123.xyz/bigst3hls/2021/mp4/2022/04/08/624fd9b57bcbe400125f8d37/624fd9e77bcbe400125f8e28.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",THÊN LONG BÁC BỘ TẬP 1
 https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo01_2fc6f668168e21cf/9e34681a/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="PHIM BỘ" group-title="👉 PHIM BỘ  🎥" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",THÊN LONG BÁC BỘ TẬP 2
