@@ -3,6 +3,13 @@
 #EXTINF:vo phu 
 
 
+Liverpool - Villarreal CF
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220428/d3867cad423bf1d416b05763a5112c58.jpg",XEM LẠI:  Liverpool - Villarreal CF 28/04
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220428/e4fc655b05a0417fb7c75f296878ed58.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220427/25017f91ee4343e66a38c9b948beeccd.jpg",XEM LẠIt:  Manchester City vs Real Madrid 26/04
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220427/220427-0200-manchester-city-real-madrid-ucl-clean-fn-1651008845/3357128b39cd3e6a1b3f62f95121a217.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/oMoFmdT.png",BLV: Thần Chổi ⚽
@@ -134,13 +141,6 @@ https://livecdn.fptplay.net/hdevent/fa09_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/tk7rd4P.png",BÌNH LUẬN FPT CÚP FA 10
 https://livecdn.fptplay.net/hdevent/fa10_4000.stream/chunklist.m3u8
 
-
-
-Liverpool - Villarreal CF
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220428/d3867cad423bf1d416b05763a5112c58.jpg",XEM LẠI:  Liverpool - Villarreal CF 28/04
-https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220428/e4fc655b05a0417fb7c75f296878ed58.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220427/25017f91ee4343e66a38c9b948beeccd.jpg",XEM LẠIt:  Manchester City vs Real Madrid 26/04
-https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220427/220427-0200-manchester-city-real-madrid-ucl-clean-fn-1651008845/3357128b39cd3e6a1b3f62f95121a217.smil/playlist.m3u8
 
 
 
