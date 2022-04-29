@@ -3,11 +3,17 @@
 #EXTINF:vo phu 
 
 
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/FlstAOw.png",West Ham - Eintracht Frankfurt XEM LẠI: 29/4
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220429/220429-0200-west-ham-eintracht-frankfurt-uel-clean-fm-fn-1651190542/b56885d28a8b04672e1f50c5ee3ffa9a.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://cdn.bongdaplus.vn/Assets/Media/2022/04/26/42/RB%20Leipzig-vs-Rangers-nhan-dinh.jpg",RB Leipzig - Rangers FC XEM LẠI: 29/4
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220429/220429-0200-rb-leipzig-rangers-uel-clean-fm-fn-1651190551/eb182156650f162ccba275fd4740b1ea.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/haK87JP.jpg",Leicester City - AS Roma XEM LẠI: 29/4
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220429/220429-0200-leicester-city-as-roma-uecl-amb-fm-fn-1651191546/dbcc476140b28754cd66653b6e05f9f6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220429/a265e7d9d353e4abf57f7d04c3cfb759.jpg",XEM LẠI: Manchester United vs Chelsea FC 29/04
 https://pullalilive.livnvess.com/live/stream-148290.m3u8?auth_key=1651215204-0-0-40877f1f3671dd44fa8f48a79f5091ce
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220428/d3867cad423bf1d416b05763a5112c58.jpg",XEM LẠI:  Liverpool - Villarreal CF 28/04
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220428/e4fc655b05a0417fb7c75f296878ed58.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220427/25017f91ee4343e66a38c9b948beeccd.jpg",XEM LẠIt:  Manchester City vs Real Madrid 26/04
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220427/25017f91ee4343e66a38c9b948beeccd.jpg",XEM LẠI:  Manchester City vs Real Madrid 26/04
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220427/220427-0200-manchester-city-real-madrid-ucl-clean-fn-1651008845/3357128b39cd3e6a1b3f62f95121a217.smil/playlist.m3u8
 
 
