@@ -249,7 +249,18 @@ https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongba
 https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo45_a3544ce640ea9850/ff31eee6/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn//
 
 
-
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7CIgUAXjOFb3zM8F_HswKLiVQrmjb0dRKQ&usqp=CAU",Vụ Trộm Thế Kỷ
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220426/theheistofthecentury_2020_ar_1080p_sub_logofptplay/7f00befb9396da22b5f926156f39799e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZvgO31Go3LRrBVZ1roxdSKGMJgunakVqmew&usqp=CAU",Quái Vật
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220425/beast_2017_gb_1080p_sub_logofptplay/58fc4c841edf64361a282d5f209edf90.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://i.imgur.com/8GI8NIa.jpg",Đấu Trường Sinh Tử
+https://vod06-cdn.fptplay.net/encoded/20200624/the_hunger_games_1080p_sub_logofptplay_v2/720p/index.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://i.imgur.com/60VJv5S.jpg",Kẻ Rình Mồi
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220421/alone_2020_us_1080p_sub_logofptplay/fe6166595a209d74f88fd35d60b02441.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://i.imgur.com/Yulv5Mc.jpg",Thủ Đoạn Đàn Bà
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220405/ladymacbeth_2016_gb_1080p_sub_logofptplay/473ccca61c4fc196ed4464f7ac3816d5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://i.imgur.com/4eNI1EU.jpg",Ác Quỷ Lúc Nửa Đêm
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220401/themidnightman_2016_ca_1080p_sub_logofptplay/bee18ecfccfa2c32ca2b11ccda851be3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Vô Ảnh 
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191210/shadow-1080p-sub-logofptplay-v3/9f208119b225d60903c4660d449dcb9d.smil/chunklist_b3992000.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Thảm Họa Động Đất 
