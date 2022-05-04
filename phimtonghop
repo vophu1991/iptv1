@@ -3,6 +3,11 @@
 #EXTINF:vo phu 
 
 
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 TRỰC TIẾP U23 VIỆT NAM ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-1_165163014727.png?w=282&mode=scale&fmt=webp",Việt Nam U23 VS Indonesia U23 19:00 06/05
+https://livecdn.fptplay.net/tvc/fsport01_2000.stream/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220504/cc2524a26c40e8a4cee9d2be04855852.jpg",XEM LẠI: Liverpool - Villarreal CF FC 04/05
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220504/3dbcee9c4f66f71104aa86ae3bce26ca.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/FlstAOw.png",West Ham - Eintracht Frankfurt XEM LẠI: 29/4
