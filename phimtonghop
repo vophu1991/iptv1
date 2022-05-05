@@ -6,6 +6,14 @@
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 TRỰC TIẾP U23 VIỆT NAM ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-1_165163014727.png",Việt Nam U23 VS Indonesia U23 19:00 06/05
 https://livecdn.fptplay.net/tvc/fsport01_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/06/eintracht-frankfurt-v-west-ham-united-fm06-05-2022_04g22-28.jpg",06/05 Eintracht Frankfurt - West Ham
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220506/5d7276cddb6a9b1806d3619f7405f4ae.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/06/marseille-feyenoord-fm06-05-2022_05g08-09.jpg",06/05 Olympique Marseille - Feyenoord 
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220506/9af36056f00d169a3ea62e0b15d8c890.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/06/roma_leicester_fm06-05-2022_04g31-15.jpg",06/05 AS Roma - Leicester City
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220506/eb58f100ff8aaeb398c92e27be3ff336.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/06/rangers-rb-leipzig-fm06-05-2022_04g14-20.jpg",06/05 Rangers FC - RB Leipzig
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220506/592f334da7c48933c565f80ed69df99c.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/05/real_mc_fm05-05-2022_04g42-38.jpg",XEM LẠI Real Madrid - Manchester City 05/05
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220505/d19303a812b467a0057d699b71063807.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/04/villarreal_liverpool_fm04-05-2022_04g19-34.jpg",XEM LẠI: Liverpool - Villarreal CF FC 04/05
