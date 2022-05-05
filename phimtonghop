@@ -277,8 +277,8 @@ https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongba
 
 
 
-
-
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/22_01_2020/tieu-thu-ngoc22-01-2020_23g35-29.jpg",Tiểu Thư Ngốc Xuống Núi
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200118/mcv_tieuthungocxuongnui_2020_1080p_logofptplay/ff7ec2c1183990d72d6623dcacb6f137.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/26_10_2021/nszivhkmmtr0df0l60nfkk6mxla26-10-2021_03g02-41.jpg",🇺🇸| Ma Trận 3: Cuộc Cách Mạng
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211025/thematrixrevolutions_2003_us_1080p_sub_logofptplay/ecc64275036217932d5ad363ae71ed54.smil/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/25_10_2021/sdxcd4nt3er4qocw1god0rabqtq25-10-2021_01g58-11.jpg",🇺🇸| Ma Trận 2: Tái Lập
