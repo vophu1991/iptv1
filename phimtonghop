@@ -276,7 +276,8 @@ https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongba
 https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo45_a3544ce640ea9850/ff31eee6/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn//
 
 
-
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/04/28/vlad-va-tan-the-nang-luong-fpt-play-1651116495440_Portrait_origin.jpg",Vlad Và Tận Thế Năng Lượng
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220504/thebobot_2018_ua_1080p_sub_logofptplay/999c4120b46b8157e11b97b2767e6469.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/22_01_2020/tieu-thu-ngoc22-01-2020_23g35-29.jpg",Tiểu Thư Ngốc Xuống Núi
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200118/mcv_tieuthungocxuongnui_2020_1080p_logofptplay/ff7ec2c1183990d72d6623dcacb6f137.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/26_10_2021/nszivhkmmtr0df0l60nfkk6mxla26-10-2021_03g02-41.jpg",🇺🇸| Ma Trận 3: Cuộc Cách Mạng
