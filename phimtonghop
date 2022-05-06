@@ -6,6 +6,11 @@
 
 #EXTINF:-1 tvg-id="👉 TRỰC TIẾP SEA GAMES ⚽" group-title="👉 TRỰC TIẾP SEA GAMES ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-1_165180092463.jpg",19h00 06/05:Việt Nam U23 - Indonesia U23
 https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="👉 TRỰC TIẾP SEA GAMES ⚽" group-title="👉 TRỰC TIẾP SEA GAMES ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-3_165180095019.jpg",09/05 - 16:00:Laos U23 - Cambodia U23
+https://web-livecdn.fptplay.net/hdevent/fsport03_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="👉 TRỰC TIẾP SEA GAMES ⚽" group-title="👉 TRỰC TIẾP SEA GAMES ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-4_165180098467.jpg",07/05 - 19:00:Thailand U23 - Malaysia U23 
+https://web-livecdn.fptplay.net/hdevent/fsport04_4000.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/06/eintracht-frankfurt-v-west-ham-united-fm06-05-2022_04g22-28.jpg",06/05 Eintracht Frankfurt - West Ham
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220506/5d7276cddb6a9b1806d3619f7405f4ae.mp4/chunklist.m3u8
