@@ -285,20 +285,7 @@ https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongba
 
 
 
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/27/17/1627381732718/a6f8e7a31718_360_540.jpg",Ma Tốc Độ 2
-http://vod-zlr2.tv360.vn/video1/2019/11/01/14/295fa317/295fa317-30ca-4917-bf14-5fb6bcb6b52d_2_.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/07/23/07/9a86f567/9a86f567-3fa9-47ed-bb3d-dd1146c61031_360_540.jpg",Quái Vật Nguyên Sinh - Primal
-http://vod-zlr2.tv360.vn/video1/2020/07/23/14/c45d2c6f/c45d2c6f-7453-47c8-b1fc-a82df2dfad03_1_.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/09/09/07/bdf49dae/bdf49dae-d449-4575-9dd1-e794f176968d_360_540.jpg",Biển Sâu và Dị Chủng
-http://vod-zlr2.tv360.vn/video1/2020/09/09/15/b9ddf414/b9ddf414-aaa3-48b7-a9b7-09ad49068bf6_2_.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/09/28/09/ad21101d/ad21101d-7902-489c-aeab-8586e3430c93_360_540.jpg",Thục Sơn Hàng Ma Truyện 2
-http://vod-zlr2.tv360.vn/video1/2020/09/28/16/819dc311/819dc311-15a2-4b08-a7bb-6d1dfbd4297b_1_.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/s2-image3/2020_08_27/1598522977964/2ec5f54cb89a_360_540.jpg",Bảo Tháp Trấn Hà Yêu 2
-http://vod-zlr2.tv360.vn/video1/2020/08/26/18/7c50ab4c/7c50ab4c-a4f8-4792-bc87-77d0c88e98aa_1_.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/s2-image3/2020_08_27/1598522850378/ea2fc951f67e_360_540.jpg",Khai Phong Giáng Ma Ký 
-http://vod-zlr2.tv360.vn/video1/2020/08/26/16/a54068cd/a54068cd-7543-49d4-bfc7-0dfa351365f2_1_.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/25/17/6b26fdc9/6b26fdc9-3282-4027-89f1-5a33b0bd631d_360_540.jpg",Không Lối Thoát
-http://vod-zlr2.tv360.vn/video1/2022/04/25/17/c8f33556/c8f33556-a65e-41d7-b3d3-64c6f315c632_1_.m3u8
+
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/04/18/signalthemovie_2021_jp_lg18-04-2022_16g56-27.jpg",Tín Hiệu
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220419/signalthemovie_2021_jp_1080p_sub_logofptplay/e57f55402a84343ec71d11cd9eb0cf41.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/04/28/vlad-va-tan-the-nang-luong-fpt-play-1651116495440_Portrait_origin.jpg",Vlad Và Tận Thế Năng Lượng
