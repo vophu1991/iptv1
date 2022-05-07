@@ -3,8 +3,10 @@
 #EXTINF:vo phu 
 
 
-#EXTINF:-1 tvg-id="👉 TRỰC TIẾP SEA GAMES ⚽" group-title="👉 TRỰC TIẾP SEA GAMES ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-4_165180098467.jpg",07/05 - 19:00:Thailand U23 - Malaysia U23 
-https://web-livecdn.fptplay.net/hdevent/fsport04_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="👉 TRỰC TIẾP SEA GAMES ⚽" group-title="👉 TRỰC TIẾP SEA GAMES ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-2_165194478016.jpg",16h00 08/05:Đông Timor U23 - Myanmar U23
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="👉 TRỰC TIẾP SEA GAMES ⚽" group-title="👉 TRỰC TIẾP SEA GAMES ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-1_165194474164.jpg",19h00 08/05:Việt Nam U23 - Philippines U23 
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
