@@ -283,7 +283,8 @@ https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongba
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM BỘ VÕ PHÚ📻" tvg-logo="https://i.imgur.com/W7t4EVZ.jpg",THÊN LONG BÁC BỘ TẬP 45
 https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo45_a3544ce640ea9850/ff31eee6/hls/mapper-hd/playlist.m3u8|Referer=http://sctvonline.vn//
 
-
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/04/18/signalthemovie_2021_jp_lg18-04-2022_16g56-27.jpg",Tín Hiệu
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220419/signalthemovie_2021_jp_1080p_sub_logofptplay/e57f55402a84343ec71d11cd9eb0cf41.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/04/28/vlad-va-tan-the-nang-luong-fpt-play-1651116495440_Portrait_origin.jpg",Vlad Và Tận Thế Năng Lượng
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220504/thebobot_2018_ua_1080p_sub_logofptplay/999c4120b46b8157e11b97b2767e6469.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/22_01_2020/tieu-thu-ngoc22-01-2020_23g35-29.jpg",Tiểu Thư Ngốc Xuống Núi
