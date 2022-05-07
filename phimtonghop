@@ -2,8 +2,10 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-
-
+#EXTINF:-1 tvg-id="🇻🇳 K+ 🇻🇳" group-title="🇻🇳 K+ 🇻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" , K + Sports 1 HD🇻🇳
+http://tv.trialsonserver.com/KSports1/index.m3u8
+#EXTINF:-1 tvg-id="🇻🇳 K+ 🇻🇳" group-title="🇻🇳 K+ 🇻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" , K + Sports 2 HD🇻🇳
+http://tv.trialsonserver.com/KSports2/index.m3u8
 
 #EXTINF:-1 tvg-id="👉 TRỰC TIẾP SEA GAMES ⚽" group-title="👉 TRỰC TIẾP SEA GAMES ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-3_165180095019.jpg",09/05 - 16:00:Laos U23 - Cambodia U23
 https://web-livecdn.fptplay.net/hdevent/fsport03_4000.stream/playlist.m3u8
