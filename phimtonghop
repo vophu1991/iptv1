@@ -2,7 +2,8 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-
+#EXTINF:-1 tvg-id="👉 TRỰC TIẾP SEA GAMES ⚽" group-title="👉 TRỰC TIẾP SEA GAMES ⚽" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-4_165215548779.jpg",19h00 10/05:Indonesia - Đông Timor
+https://web-livecdn.fptplay.net/hdevent/fsport04_4000.stream/playlist.m3u8
 
 
 
