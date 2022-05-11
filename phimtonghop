@@ -102,16 +102,7 @@ https://web-livecdn.fptplay.net/hdevent/fsport06_4000.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://logodix.com/logo/2100182.jpg",THỂ THAO NƯỚC NGOÀI 1
-http://tv.trialsonserver.com/tienmedia-FEED/index.m3u8
-#EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/220px-Tennis_Channel_logo.svg.png" ,THỂ THAO NƯỚC NGOÀI 2
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/220px-Tennis_Channel_logo.svg.png" ,THỂ THAO NƯỚC NGOÀI 3
-http://donglao.duckdns.org/vn360sport/Mac/Laohac/iproblock.php?id=10941
-#EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://www.wwe.com/f/wwe_blackbg_whitered.jpg" ,THỂ THAO NƯỚC NGOÀI 4
-http://donglao.duckdns.org/vn360sport/Mac/Laohac/iproblock.php?id=226636
-#EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://cdn.unwire.hk/wp-content/uploads/2018/07/EPL_NowTV.jpg",THỂ THAO NƯỚC NGOÀI 5
-http://donglao.duckdns.org/vn360sport/Mac/Laohac/iproblock.php?id=200230
+
 #EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://i.ibb.co/m6MfB2J/cc-Bein1-Prem.jpg",THỂ THAO NƯỚC NGOÀI 6
 #EXTVLCOPT:http-user-agent=ExoPlayer
 https://dl.dropboxusercontent.com/s/xpncigsmjh93xvv/																						 ㅤ
