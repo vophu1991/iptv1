@@ -1,6 +1,8 @@
-#EXTM3U url-tvg="http://gg.gg/vietanhepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#EXTM3U luôn cập nhật ổn định trên mọi mặt trận
-#EXTINF:vo phu 
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1 refresh="300" cache=500 deinterlace=1 tvg-shift=0
+#UPDATE 20:05⏱13/05 BY ĐTPRO#          
+
+#EXTINF:-1 group-title="UPDATE 20:05⏱13/05" tvg-logo="https://www.dropbox.com/s/kyd4ihatua66jln/update.jpg?dl=1",UPDATE By ĐTPRO
+https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
