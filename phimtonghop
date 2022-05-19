@@ -1,12 +1,10 @@
 #EXTM3U url-tvg="http://gg.gg/vietanhepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
-
-
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/19/frankfurt_rangers_fm19-05-2022_07g08-06.jpg",Eintracht Frankfurt - Rangers 19/5
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220519/18658274f1acdd825f3e03d593072a9c.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/15/chelsea-liverpool-fm15-05-2022_01g51-44.png",Chelsea - Liverpool 14/5
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220515/709e05e0ebee0f4b946f9d7f789a8779.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/13/u23vn_u23myanmar_hls13-05-2022_20g56-23.jpg",U23 Myanmar - U23 Việt Nam
-https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220513/u23myanmar-u23vietnam-hls-logo-1652451329/a0f402630dd3d0366f327f937a24cf6a.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/06/eintracht-frankfurt-v-west-ham-united-fm06-05-2022_04g22-28.jpg",06/05 Eintracht Frankfurt - West Ham
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220506/5d7276cddb6a9b1806d3619f7405f4ae.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/06/marseille-feyenoord-fm06-05-2022_05g08-09.jpg",06/05 Olympique Marseille - Feyenoord 
