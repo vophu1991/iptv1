@@ -3,13 +3,9 @@
 #EXTINF:vo phu 
 
 
-#EXTINF: -1 group-title = "👉 SHOP VÕ PHÚ 🏀" tvg-logo = "https://i.imgur.com/2h4lA2N.png", SHOP VÕ PHÚ
-http://simg1zen.myclip.vn/video1/2022/04/30/1651311012820/5baea2a1fa41.mp4
-#EXTINF:-1 tvg-id="CHUNG KẾT CÚP C1" group-title="👉CHUNG KẾT CÚP C1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-4_16537396848.jpg",BÌNH LUẬN CHUNG KÊT CÚP C1
-https://web-livecdn.fptplay.net/hdevent/fsport04_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CHUNG KẾT CÚP C1" group-title="👉CHUNG KẾT CÚP C1" tvg-logo="https://i.imgur.com/ILv7EbS.jpg",02h00 29/05: Liverpool - Real Madrid 1
-http://gg.gg/Live1hd
+http://t-tien.duckdns.org/FPTPlay/mpegts
 #EXTINF:-1 tvg-id="CHUNG KẾT CÚP C1" group-title="👉CHUNG KẾT CÚP C1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-1_165344295599.png",02h00 29/05: Liverpool - Real Madrid 2 
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.caheo2.tv/truc-tiep/
 
