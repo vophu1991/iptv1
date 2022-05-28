@@ -11,6 +11,12 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 
 
 
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/29/liv_real_fm29-05-2022_04g44-15.jpg",XEM LẠI CHUNG KẾT CUP C1 HIỆP 1
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220529/80978e5d71f2bc09546cddcbd3b8fbf6.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/29/liv_real_fm29-05-2022_04g44-15.jpg",XEM LẠI CHUNG KẾT CUP C1  HIỆP 2
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220529/052671a708fa9aecd1c8319ffd812b07.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/29/liv_real_fm29-05-2022_04g44-15.jpg",XEM LẠI CHUNG KẾT CUP C1  TRAO GIẢI 
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220529/ae442c4db8d4f8a2410d4ecdefeb8889.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/22/u23-viet-nam-u23-thai-lan-chung-ket_xem-lai-tran-dau22-05-2022_21g34-54.jpg",CHUNG KẾT VIỆT NAM THÁI LAN
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220522/cccaeb3cd8efa61a68fdc10b9bd9761d.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220523/847969d314323387735cb41e47f2efe3.png",Manchester - Villa 22/5
