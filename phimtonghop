@@ -11,18 +11,13 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/29/liv_real_fm29-05-2022_04g44-15.jpg",XEM LẠI CHUNG KẾT CUP C1 HIỆP 1
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220529/80978e5d71f2bc09546cddcbd3b8fbf6.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/29/liv_real_fm29-05-2022_04g44-15.jpg",XEM LẠI CHUNG KẾT CUP C1  HIỆP 2
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220529/052671a708fa9aecd1c8319ffd812b07.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/29/liv_real_fm29-05-2022_04g44-15.jpg",XEM LẠI CHUNG KẾT CUP C1  TRAO GIẢI 
-https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220529/ae442c4db8d4f8a2410d4ecdefeb8889.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/22/u23-viet-nam-u23-thai-lan-chung-ket_xem-lai-tran-dau22-05-2022_21g34-54.jpg",CHUNG KẾT VIỆT NAM THÁI LAN
-https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220522/cccaeb3cd8efa61a68fdc10b9bd9761d.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220523/847969d314323387735cb41e47f2efe3.png",Manchester - Villa 22/5
-https://sports.livnvess.com/live/stream-119676.m3u8?txSecret=feeaa5ecc50a028fa114870a8fb38667&txTime=628b7f8f
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220523/f1a71808d28558d4e36829e1aebcf5c2.jpg", Liverpool vs Wolverhampton Wanderers 22/5
-https://pullalilive.livnvess.com/live/stream-109077.m3u8?auth_key=1653309207-0-0-9eec1e4f665b68a5ecc6084429d3c2cd
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/02/u23-uzbekiastan-u23-turkmenistan-fm02-06-2022_00g39-31.jpg",U23 Uzbekiastan - U23 Turkmenistan
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220602/220601-2230-u23-uzbekiastan-u23-turkmenistan-afc-clean-fm-fn-1654106855/895766db3c53f7a4fd94b2c48a1662d4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/01/australia_kuwait_fm01-06-2022_23g18-42.jpg",U23 Australia - U23 Kuwait 
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220601/220601-2000-u23-australia-u23-kuwait-afc-clean-fm-fn-1654098346/4a5226507685b0599ed6a377bc3dca06.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/01/iran_qatar_fm01-06-2022_23g19-34.jpg",U23 Iran - U23 Qatar 
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220601/220601-2000-u23-iran-u23-qatar-afc-clean-fm-fn-1654098350/02f6a5e8b4f9bab818e2fdacbf24e146.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/15/chelsea-liverpool-fm15-05-2022_01g51-44.png",Chelsea - Liverpool 14/5
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220515/709e05e0ebee0f4b946f9d7f789a8779.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/06/eintracht-frankfurt-v-west-ham-united-fm06-05-2022_04g22-28.jpg",06/05 Eintracht Frankfurt - West Ham
