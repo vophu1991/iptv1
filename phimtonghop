@@ -6,16 +6,11 @@
 #EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/RA2Z3On.png",20h00 05/06:Việt Nam🇻🇳 - Hàn Quốc🇰🇷
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/RA2Z3On.png",20h00 05/06:Việt Nam🇻🇳 - Hàn Quốc🇰🇷
-https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/RA2Z3On.png",22h00 05/06:Malaysia🇲🇾 - Thái Lan🇹🇭
-https://web-livecdn.fptplay.net/hdevent/fsport02_4000.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/02/u23thailan-u23vietnam_fm02-06-2022_23g28-45.jpg",Thái Lan - Việt Nam
-https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220603/16ad3bbda6457438365b05e70be4d916.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/03/han-quoc-malaysia-fm03-06-2022_00g47-09.jpg",South Korea  - Malaysia
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/06/u23vn-xemlai06-06-2022_00g11-25.jpg",Việt Nam🇻🇳 - Hàn Quốc🇰🇷
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220605/b72b82a4e064934a84ec91abfb3c0e55.mp4/chunklist.m3u8#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/03/han-quoc-malaysia-fm03-06-2022_00g47-09.jpg",South Korea  - Malaysia
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220602/u23hanquocu23malaysia-02062135-1654184336/ebd5c3cfd31af5dbf8f71fec6d6ffb4e.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/15/chelsea-liverpool-fm15-05-2022_01g51-44.png",Chelsea - Liverpool 14/5
