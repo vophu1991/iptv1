@@ -3,10 +3,15 @@
 #EXTINF:vo phu 
 
 
-#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/RA2Z3On.png",20h00 06/06:Japan - Saudi Arabia
+#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/RA2Z3On.png",,20h00 07/06:Australia  -Jordan
 https://web-livecdn.fptplay.net/hdevent/fsport02_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/RA2Z3On.png",22h00 06/06:Tajikistan  - Qatar 
+#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/RA2Z3On.png",20h00 07/06: Iraq - Kuwait 
 https://web-livecdn.fptplay.net/hdevent/fsport03_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/RA2Z3On.png",00h00 08/06:Uzbekistan -Iran 
+https://web-livecdn.fptplay.net/hdevent/fsport04_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/RA2Z3On.png",00h00 08/06: Qatar - Turkmenistan 
+https://web-livecdn.fptplay.net/hdevent/fsport05_4000.stream/playlist.m3u8
+
 
 
 
