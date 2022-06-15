@@ -3,12 +3,11 @@
 #EXTINF:vo phu 
 
 
-#EXTINF:-1 tvg-id="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" group-title="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" tvg-logo="https://i.imgur.com/RA2Z3On.png",12/06 - 23:00 VIỆT NAM🇻🇳 - Ả RẬP XÊ ÚT🇸🇦
-https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" group-title="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" tvg-logo="https://i.imgur.com/RA2Z3On.png",12/06 - 23:00 VIỆT NAM🇻🇳 - Ả RẬP XÊ ÚT🇸🇦
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" group-title="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" tvg-logo="https://i.imgur.com/RA2Z3On.png",20h00 12/06:South Korea🇰🇷  - Japan🇯🇵
+#EXTINF:-1 tvg-id="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" group-title="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" tvg-logo="https://i.imgur.com/HPK7PQ7.jpg",20h00 15/06:Australia  - Saudi Arabia
 https://web-livecdn.fptplay.net/hdevent/fsport02_4000.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" group-title="🏆 TRỰC TIÊP U23 CHÂU Á 🏆" tvg-logo="https://i.imgur.com/vfArW0e.jpg",,23h00 15/06:U23 Uzbekistan - Japan
+https://web-livecdn.fptplay.net/hdevent/fsport03_4000.stream/playlist.m3u8
 
 
 
