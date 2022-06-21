@@ -36,6 +36,20 @@ https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220429/220429-02
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220428/e4fc655b05a0417fb7c75f296878ed58.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/04/27/manchester-city-real-madrid-xem-lai-tran-dau_ucl_sld27-04-2022_05g34-08.jpg",XEM LẠI:  Manchester City vs Real Madrid 26/04
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220427/220427-0200-manchester-city-real-madrid-ucl-clean-fn-1651008845/3357128b39cd3e6a1b3f62f95121a217.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/15/chelsea-liverpool-fm15-05-2022_01g51-44.png",chelsea-liverpool
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220515/220514-2245-chelsea-liverpool-fa-clean-fm-1652558969/ed459db4d1ba04cdab0de1c69c87bbb4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/07_04_2022/villarreal_munich_fm07-04-2022_04g24-10.jpg",villarreal_munich_
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220407/220407-0200-villarreal-bayern-munich-ucl-fm-fn-1649280917/7697cec4663bf08803a1a7c902ec0220.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/08_04_2022/west-ham-olympique-lyonnais-fm08-04-2022_05g59-06.jpg",west-ham-olympique
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220408/220408-0200-west-ham-olympique-lyonnais-uel-clean-58-fm-final-1649417717/63be4f51a862c50c5df600967d4d2979.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/24_02_2022/atmadrid_mu_fm24-02-2022_05g18-29.jpg",Atletico Madrid - Manchester City
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220414/220414-0200-atletico-madrid-manchester-city-ucl-clean-fm-final-1649886746/77eeacaa2a86ce2255dd43621eafeed1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/07_04_2022/villarreal_munich_fm07-04-2022_04g24-10.jpg",Villarreal CF - Bayern Munich
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220407/220407-0200-villarreal-bayern-munich-ucl-fm-fn-1649280917/7697cec4663bf08803a1a7c902ec0220-1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/08_12_2021/dortmund_besiktas_fm_ucl08-12-2021_06g32-03.jpg",Borussia Dortmund - Besiktas JK
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211208/borussia_dortmund_besiktas_jk_ucl_amb_fm_fn/8f747f843f1b30d929769b0ce4c2380b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/25_11_2021/sporting_dortmund_fm_ucl25-11-2021_06g31-40.jpg",Sporting CP - Borussia Dortmund
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211125/211125_0300_sporting_cp_borussia_dortmund_ucl_fm_fn/8ab90b321707fae2d674b6620df24bb7.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI ⚽
