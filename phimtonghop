@@ -137,6 +137,12 @@ http://gg.gg/Ziggo5
 http://gg.gg/Rmcsp1
 #EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndAfwFmfYp751Z5yaDpsnXa73vKBmSMnrAw&usqp=CAU",RMC Sports 2
 http://gg.gg/Rmcsp2
+
+
+
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/14/17/7b2f855c/7b2f855c-9821-423b-86bb-6bdd891e1133_360_540.jpg",Cậu Bé Người Gỗ Pinocchio 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vod-zlr2.tv360.vn/video1/2022/06/15/10/0c09cfb9/0c09cfb9-eac0-429e-9b39-c8f5c6a7b907_2_.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/04/28/dai-duong-huyen-trang-fpt-play-1651118038687_Portrait_origin.jpg",Đại Đường Huyền Trang
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220504/xuanzang_2016_cn_1080p_sub_logofptplay/be4ab2a697eb0a2f59903d661cd96379.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f17443e-96eb-4321-a245-6ccdbb139966/deagd7k-30bd027f-c318-410b-bc3f-99c5f55fb26e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJmMTc0NDNlLTk2ZWItNDMyMS1hMjQ1LTZjY2RiYjEzOTk2NlwvZGVhZ2Q3ay0zMGJkMDI3Zi1jMzE4LTQxMGItYmMzZi05OWM1ZjU1ZmIyNmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4-OGZLVKa9HB0-AaeSkJJBuhyox_2Ft5gPv9524YNIE",Đội Bóng Thiếu Lâm (2001)
