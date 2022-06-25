@@ -139,8 +139,16 @@ http://gg.gg/Rmcsp1
 http://gg.gg/Rmcsp2
 
 
-
-
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/29/ME_CHONG/Thumbnail/30012022110742/110742_Phim_Me_chong_ngang_320_180.jpg",MẸ CHỒNG
+https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/29/ME_CHONG/224845_ME_CHONG.mp4
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/09/KUNG_FU_PHO/Thumbnail/11022021104517/104519_KUNGFU_PHO_320_180.jpg",KUNGFU PHỞ
+https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/09/kung_fu_pho/hls/1080p/1080p.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/09/LONG_QUYEN_TIEU_TU/Thumbnail/11022021104449/104451_LONG_QUYEN_TIEU_TU_320_180.jpg",LONG QUYỀN TIỂU TỬ
+https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/09/long_quyen_tieu_tu/hls/720p/720p.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/10/PHIMTET_DAOTACDAICHIEN/Thumbnail/11022021104322/104324_DAO_TAC_DAI_CHIEN_320_180.jpg",ĐẠO TẶC ĐẠI CHIẾN
+https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/10/phimtet_daotacdaichien/hls/1080p/1080p.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/09/VE_QUE_AN_TET/Thumbnail/11022021104114/104115_VE_QUE_AN_TET_320_180.jpg",VỀ QUÊ ĂN TẾT
+https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/09/ve_que_an_tet/hls/1080p/1080p.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/30/GANG_TAY_DO/Thumbnail/30012022111826/111826_Phim_Gang_tay_do_320_180.jpg",Găng tay đỏ
 https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/30/GANG_TAY_DO/111345_GANG_TAY_DO.mp4
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/30/VUOT_NGUC/Thumbnail/30012022123100/123100_Phim_Vuot_nguc_320_180.jpg",VƯỢT NGỤC
