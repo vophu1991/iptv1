@@ -4,6 +4,8 @@
 
 
 
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/02/vn-indo-fm02-07-2022_23g38-49.jpg",U19 Việt Nam - U19 Indonesia 
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220702/310bbc67904cc01601678ff6d87e8581.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/08/u23vietnam_u23malaysia_fm08-06-2022_22g01-42.jpg",Việt Nam🇻🇳 - Malaysia🇲🇾
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220607/220519_0200_shabab_al_khalil_dhofar_club_acc_ffq/0b3c1db1eb64e2d5bc7f9e35c7fd01e5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/15/chelsea-liverpool-fm15-05-2022_01g51-44.png",Chelsea - Liverpool 14/5
@@ -104,8 +106,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:0 group-title="🎲TRỰC TIẾP GIẢI U19 🎲" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-1_165673483792.png",20h30 02/07:Việt Nam🇻🇳  - Indonesia🇲🇾
-https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
 
 
 #EXTINF:0 group-title="🎲TRỰC TIẾP SỰ KIỆN FPT🎲" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_f-event_165663597093.jpg",SỰ KIỆN 1
