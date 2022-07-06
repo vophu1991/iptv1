@@ -109,14 +109,14 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🍭| K+ THỬ NGHIỆM 🍭" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://live.vthanh.net/CINE06072022/mpegts
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🍭| K+ THỬ NGHIỆM 🍭" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://live.vthanh.net/LIFEE06072022/mpegts
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🍭| K+ THỬ NGHIỆM 🍭" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://live.vthanh.net/SP106072022/mpegts
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🍭| K+ THỬ NGHIỆM 🍭" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://live.vthanh.net/SP206072022/mpegts
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+http://live.vthanh.net/CINE07072022/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+http://live.vthanh.net/LIFEE07072022/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+http://live.vthanh.net/SP107072022/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+http://live.vthanh.net/SP207072022/mpegts
 
 
 
