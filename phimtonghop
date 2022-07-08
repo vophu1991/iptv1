@@ -2,8 +2,10 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/06/u19-brunei-u19-vietnam_fm06-07-2022_18g52-03.jpg",U19 Việt Nam - U19 Brunei
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220706/87ec087c59cb2d9ea6a89afcf2d218c1.mp4/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/08/u19vietnam_u19myanmar_fm08-07-2022_17g00-32.jpg",U19 Việt Nam - U19 Myanmar
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220708/5acd9aec838e4b3afcd59a3bd95e8761.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/02/vn-indo-fm02-07-2022_23g38-49.jpg",U19 Việt Nam - U19 Indonesia 
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220702/310bbc67904cc01601678ff6d87e8581.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/08/u23vietnam_u23malaysia_fm08-06-2022_22g01-42.jpg",Việt Nam🇻🇳 - Malaysia🇲🇾
