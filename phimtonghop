@@ -2,6 +2,10 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-2_165751149578.jpg",20h00 12/07:Liverpool - Man United 
+https://web-livecdn.fptplay.net/hdevent/fsport02_4000.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/10/u19vietnam_u19thailan_fm10-07-2022_21g57-27.jpg",U19 Việt Nam - U19 Thái Lan
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220710/220710_2000_u19_viet_nam_u19_thailand_affu19_clean_fm/c0aefd6d93e10fe7ccc68ecc07f31b5b.smil/playlist.m3u8
