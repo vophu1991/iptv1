@@ -3,7 +3,8 @@
 #EXTINF:vo phu 
 
 
-
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/10/u19vietnam_u19thailan_fm10-07-2022_21g57-27.jpg",U19 Việt Nam - U19 Thái Lan
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220710/220710_2000_u19_viet_nam_u19_thailand_affu19_clean_fm/c0aefd6d93e10fe7ccc68ecc07f31b5b.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/08/u19vietnam_u19myanmar_fm08-07-2022_17g00-32.jpg",U19 Việt Nam - U19 Myanmar
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220708/5acd9aec838e4b3afcd59a3bd95e8761.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/02/vn-indo-fm02-07-2022_23g38-49.jpg",U19 Việt Nam - U19 Indonesia 
