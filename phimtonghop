@@ -148,26 +148,6 @@ http://live-kr.television4you.xyz/spotvon2/mpegts
 
 
 
-#EXTINF:0 group-title="🤭 K+ 🤭" tvg-logo="https://i.imgur.com/5vYRotW.png", K+CINE 
-http://209.97.171.71:9981/stream/channelid/1911980824?auth=P4heiA7ReKyKGfOBrPwmSjDrWq6Q&profile=pass
-
-#EXTINF:0 group-title="🤭 K+ 🤭" tvg-logo="https://i.imgur.com/qLaxcKI.png", K+LIFE 
-http://209.97.171.71:9981/stream/channelid/80220618?auth=P4heiA7ReKyKGfOBrPwmSjDrWq6Q&profile=pass
-
-#EXTINF:0 group-title="🤭 K+ 🤭" tvg-logo="https://i.imgur.com/3jsT576.png", K+SPORT1 
-http://209.97.171.71:9981/stream/channelid/602405607?auth=P4heiA7ReKyKGfOBrPwmSjDrWq6Q&profile=pass
-
-#EXTINF:0 group-title="🤭 K+ 🤭" tvg-logo="https://i.imgur.com/HFHO7Kf.png", K+SPORT2 
-http://209.97.171.71:9981/stream/channelid/1868050896?auth=P4heiA7ReKyKGfOBrPwmSjDrWq6Q&profile=pass
-
-
-
-
-
-
-
-
-
 
 
 
