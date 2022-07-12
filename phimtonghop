@@ -9,6 +9,9 @@ https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/12/liverpool_manchesterunited_fm12-07-2022_22g22-13.jpg",Liverpool - Manchester United 
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220712/a20ce80d925906a72bbda27322d2da89.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/10/u19vietnam_u19thailan_fm10-07-2022_21g57-27.jpg",U19 Việt Nam - U19 Thái Lan
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220710/220710_2000_u19_viet_nam_u19_thailand_affu19_clean_fm/c0aefd6d93e10fe7ccc68ecc07f31b5b.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/15/chelsea-liverpool-fm15-05-2022_01g51-44.png",Chelsea - Liverpool 14/5
