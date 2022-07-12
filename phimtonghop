@@ -2,8 +2,8 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-2_165755465475.jpg",20h00 12/07:Liverpool - Man United 
-https://web-livecdn.fptplay.net/hdevent/fsport02_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SPL1200x600GHQTnewTOTTENHAMHOTSPURVSK-LEAGUEALLSTARS1.jpg",18h00 13/07: All Stars🎈 - Tottenham🎈
+http://live.television4you.xyz:8080/vtvcab16
 #EXTINF:0 group-title="TRỰC TIẾP U19 VIỆT NAM " tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/12/15/1657613082429/7bb59890d32c_640_360.jpg",15h30 13/07:Việt Nam🇻🇳  - Malaysia🇲🇾
 https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
 
