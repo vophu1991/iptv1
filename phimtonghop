@@ -4,12 +4,13 @@
 
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_the-thao-2_165751149578.jpg",20h00 12/07:Liverpool - Man United 
 https://web-livecdn.fptplay.net/hdevent/fsport02_4000.stream/playlist.m3u8
+#EXTINF:0 group-title="TRỰC TIẾP U19 VIỆT NAM " tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/12/15/1657613082429/7bb59890d32c_640_360.jpg",15h30 13/07:Việt Nam🇻🇳  - Malaysia🇲🇾
+https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/10/u19vietnam_u19thailan_fm10-07-2022_21g57-27.jpg",U19 Việt Nam - U19 Thái Lan
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220710/220710_2000_u19_viet_nam_u19_thailand_affu19_clean_fm/c0aefd6d93e10fe7ccc68ecc07f31b5b.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/15/chelsea-liverpool-fm15-05-2022_01g51-44.png",Chelsea - Liverpool 14/5
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220515/709e05e0ebee0f4b946f9d7f789a8779.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/06/eintracht-frankfurt-v-west-ham-united-fm06-05-2022_04g22-28.jpg",06/05 Eintracht Frankfurt - West Ham
@@ -108,16 +109,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:0 group-title="TRỰC TIẾP BÓNG CHUYỀN " tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/06/17/1654511734431/adaceea5ed1e_640_360.jpg",10h40 HÔM NAY BÓNG CHUYỀN
-https://sugustvno1.tk/get/ott/tv36O.php?channels=1
-#EXTINF:0 group-title="TRỰC TIẾP BÓNG CHUYỀN " tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/05/17/165701651072/d1fe24a84c16_640_360.jpg",13h00 HÔM NAY BÓNG CHUYỀN
-https://sugustvno1.tk/get/ott/tv36O.php?channels=183
-#EXTINF:0 group-title="TRỰC TIẾP BÓNG CHUYỀN " tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/05/17/165701651072/d1fe24a84c16_640_360.jpg",14h00 HÔM NAY BÓNG CHUYỀN
-https://sugustvno1.tk/get/ott/tv36O.php?channels=173
 
 
-#EXTINF:0 group-title="TRỰC TIẾP U19 VIỆT NAM " tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/12/15/1657613082429/7bb59890d32c_640_360.jpg",15h30 13/07:Việt Nam🇻🇳  - Malaysia🇲🇾
-https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
 
 
 
@@ -150,7 +143,14 @@ http://live-kr.television4you.xyz/spotvon2/mpegts
 
 
 
-
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/14/17/0adc634d/0adc634d-51b1-4ab8-ab8a-986f278c850f_360_540.jpg",Bộ Ba Vệ Sĩ
+http://vod-zlr2.tv360.vn/video1/2022/06/15/09/964fb5a7/964fb5a7-52c3-4ed1-84e9-463f428cd95f_5_.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/14/17/3e24c76c/3e24c76c-9a33-4de2-997b-e9e8c3122422_360_540.jpg",Cuộc Săn Tử Thần 
+https://vod07-http://vod-zlr2.tv360.vn/video1/2022/06/15/10/bb0beeec/bb0beeec-80e9-4596-b14b-74df2d7ddbd1_5_.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/05/31/02/31fdbf30/31fdbf30-5429-4c1f-b7b4-0ea2fe5402f1_360_540.jpg",Hellboy - Hellboy
+http://vod-zlr2.tv360.vn/video1/2022/05/31/02/2054f6af/2054f6af-4182-4850-81e8-8bf8bc25f485_5_.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/01/14/63add87a/63add87a-3bc2-48e2-826f-bb43fb66bc4e_360_540.jpg",Nữ Sinh Bắt Ma
+http://vod-zlr2.tv360.vn/video1/2022/07/01/14/7d4e66fd/7d4e66fd-235b-43e3-85e4-7c0328ace6c3_5_.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/02_02_2021/poster-gxxk-doc02-02-2021_09g01-30.jpg",Gái Xấu 'Xiên' Không
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210202/gaixauxienkhong/45c2d521b03a43ada09b7a1165599e14-1080p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/05/exit_2019_kr_lg_v205-07-2022_10g04-52.jpg",Lối Thoát Trên Không
