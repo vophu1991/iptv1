@@ -54,6 +54,11 @@ https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211208/borussia_
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211125/211125_0300_sporting_cp_borussia_dortmund_ucl_fm_fn/8ab90b321707fae2d674b6620df24bb7.smil/playlist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/1ZjbuaH.png,BLV :LÃU HẠT
+https://zsnvrudjcvliv.vcdn.cloud/atbichhd/index.m3u8
+
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoketv.space/
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/oMoFmdT.png",BLV: Thần Chổi ⚽
