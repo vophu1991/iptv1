@@ -2,25 +2,20 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/720X405/7c01cf45-858e-4190-81b5-047f86a56b00.jpg",17h00 15/07:Binh Duong - Da Nang 
+#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://i.imgur.com/lZIZjUK.png",18h00 16/07:FLC Thanh Hoa - Saigon
 https://sugustvno1.tk/get/ott/tv36O.php?channels=170
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/720X405/467dea6e-e633-4015-8424-3c28e75256a8.jpg",18h00 15/07:Song Lam Nghe An - Hong Linh Ha Tinh
-https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/720X405/a78c5bb6-77a0-46de-845f-47cbde10f3b3.jpg",18h00 15/07:Hai Phong - Viettel
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/720X405/10724e8f-aca4-4b85-a328-3f7d90f11536.jpg",18h00 15/07:Binh Dinh - Nam Dinh
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://i.imgur.com/lZIZjUK.png",19h15 16/07:Ho Chi Minh  - Hoang Anh Gia Lai
 https://sugustvno1.tk/get/ott/tv36O.php?channels=174
 
-
-
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP U19 " tvg-logo="https://i.imgur.com/Yyu1P9T.png",15h30 15/07:Việt Nam🇻🇳  - Thái Lan🇹🇭
-https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://vaobo.com/wp-content/uploads/2022/07/nhan-dinh-melbourne-victory-fc-vs-manchester-united-17h05-ngay-15-07.jpg",17h05 15/07:Man United💖 - Melbourne💖 
-http://tbientv.ddns.net/sport/mitom?url=https://xoilac7.net/truc-tiep/melbourne-vic-vs-man-utd-luc-1705-ngay-15-07-2022/&tb|Referer=https://vb.plvb.xyz/
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/720X405/e2f5ad2d-b396-469e-86c6-d28389783580.jpg",19h35 15/07:Crystal Palace✨ - Liverpool✨ 
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/uHJ0bge.png",18h00 16/07:Sevilla💖 - Tottenham✨ 
 https://sugustvno1.tk/get/ott/mytivi.php?love=267
-
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/uHJ0bge.png",06h00 17/07:Everto⭐n - Arsenal⭐
+http://tbientv.ddns.net/sport/mitom?url=https://xoilac7.net/truc-tiep/arsenal-vs-everton-luc-0600-ngay-17-07-2022/&tb|Referer=https://vb.plvb.xyz/
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/uHJ0bge.png",09h00 17/07:Chelsea💕 - América 💕
+#https://web-livecdn.fptplay.net/hdevent/fsport04_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/uHJ0bge.png",11h35 17/07:Aston Villa🎁 - Leeds🎁  
+http://tbientv.ddns.net/sport/mitom?url=https://xoilac7.net/truc-tiep/aston-villa-vs-leeds-united-luc-1135-ngay-17-07-2022/&tb|Referer=https://vb.plvb.xyz/
 
 
 
