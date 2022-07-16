@@ -68,65 +68,93 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211125/211125_03
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/1ZjbuaH.png",BLV :LÃU HẠT
 https://zsnvrudjcvliv.vcdn.cloud/atbichhd/index.m3u8
 
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI ⚽
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV ROY
+https://rmue2hq1pcliv.vcdn.cloud/ef88786f22078a80cdc53c9db97e36b5/1658009565020/rchtwtx/rchtwtx@720p.m3u8 
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV JAY
+https://rmue2hq1pcliv.vcdn.cloud/a244c8dc1b9bc902c0e2837c04c646c7/1658009675244/majhccy/majhccy@720p.m3u8 
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV URA
+https://rmue2hq1pcliv.vcdn.cloud/fe2bbdc18118e1a716548b88f6187c9e/1658009777719/armrqlx/armrqlx@720p.m3u8 
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV LEON
+https://rmue2hq1pcliv.vcdn.cloud/bf877b3f5614e6128972fbffec543423/1658009845329/trd02w8/trd02w8@720p.m3u8 
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV POLO
+https://rmue2hq1pcliv.vcdn.cloud/c543e58e50fc2dad1144d5fe397ce72c/1658009891866/qtdmef4/qtdmef4@720p.m3u8 
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV PANGO
+https://rmue2hq1pcliv.vcdn.cloud/7d70c3ce3a16f1e493431512e6dd17ff/1658009939961/twtxkja/twtxkja@720p.m3u8 
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV HELIO
+https://rmue2hq1pcliv.vcdn.cloud/09465e1f8f0cda50cace0f6264db39f7/1658009995801/r8ztat6/r8ztat6@720p.m3u8 
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV PENIS
+https://rmue2hq1pcliv.vcdn.cloud/dc84eb0241dc4615ed632e4d67c04400/1658012206990/en7hf6r/en7hf6r@720p.m3u8 
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV HYDRA
+https://rmue2hq1pcliv.vcdn.cloud/7950630d355e385dac89301c53e0ede2/1658012453668/y2f69yo/y2f69yo@720p.m3u8 
+#EXTINF:0 group-title="BLV MITOM" tvg-logo="https://i.imgur.com/oqc0U3Y.png",BLV ALEX
+https://rmue2hq1pcliv.vcdn.cloud/7d8ed13c99194f3bbe8dbc6f84f42e64/1658012812950/gmpmb95/gmpmb95@720p.m3u8 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoketv.space/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/oMoFmdT.png",BLV: Thần Chổi ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" tvg-logo="https://i.imgur.com/oMoFmdT.png",BLV: Thần Chổi ⚽
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoketv.space/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/w7O1dbk.png",BLV : SAO KÊ ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" tvg-logo="https://i.imgur.com/w7O1dbk.png",BLV : SAO KÊ ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoketv.space/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/Okyk2rw.png",BLV KEN ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" tvg-logo="https://i.imgur.com/Okyk2rw.png",BLV KEN ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saoketv.space/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/9MWBIDQ.png",BLV SAO KIM ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" tvg-logo="https://i.imgur.com/9MWBIDQ.png",BLV SAO KIM ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/chunklist.m3u8|Referer=https://saoketv.space/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/Wv7oABe.png",BLV SAO HOẢ ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" tvg-logo="https://i.imgur.com/Wv7oABe.png",BLV SAO HOẢ ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoketv.space/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/6VGfTad.png",BLV SAO MỘC ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" tvg-logo="https://i.imgur.com/6VGfTad.png",BLV SAO MỘC ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saoketv.space/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/9vFgHU1.png",BLV SAO HÔM ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN SAO KÊ 🎙️" tvg-logo="https://i.imgur.com/9vFgHU1.png",BLV SAO HÔM ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x7y4/playlist.m3u8|Referer=https://saoketv.space/
 
 
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/jzzLBf3.png",BLV: Giàng A Phò 1 ⚽
+
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" tvg-logo="https://i.imgur.com/jzzLBf3.png",BLV: Giàng A Phò 1 ⚽
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi1.live/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/P285ALk.png",BLV: Giàng A Lữ 1 ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" tvg-logo="https://i.imgur.com/P285ALk.png",BLV: Giàng A Lữ 1 ⚽
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi1.live/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/5oCLZVV.png",BLV: Giàng A CAY  ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" tvg-logo="https://i.imgur.com/5oCLZVV.png",BLV: Giàng A CAY  ⚽
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi1.live/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/XEslVMq.png",BLV: Giàng A Lếch⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" tvg-logo="https://i.imgur.com/XEslVMq.png",BLV: Giàng A Lếch⚽
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi1.live/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/uQcLpDc.png",,BLV: GiàngA CHÁO
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÀ KHỊA 🎙️" tvg-logo="https://i.imgur.com/uQcLpDc.png",,BLV: GiàngA CHÁO
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@chaohd1/playlist.m3u8|Referer=https://live.rakhoi1.live/truc-tiep/
 
 
 
 
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/EBsqUi2.png",BLV: PHỤ HỒ ⚽
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🎙️ BÌNH LUẬN VIÊN PHÚ HỘ TV 🎙️" tvg-logo="https://i.imgur.com/EBsqUi2.png",BLV: PHỤ HỒ ⚽
 https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@phuhohd1/playlist.m3u8|Referer=https://xem.phuho3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/OnYnuM3.png",BLV: THỢ XÂY ⚽
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🎙️ BÌNH LUẬN VIÊN PHÚ HỘ TV 🎙️" tvg-logo="https://i.imgur.com/OnYnuM3.png",BLV: THỢ XÂY ⚽
 https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxayhd1/playlist.m3u8|Referer=https://xem.phuho3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/v2MRw7d.png",BLV: ĐỐNG GẠCH ⚽
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🎙️ BÌNH LUẬN VIÊN PHÚ HỘ TV 🎙️" tvg-logo="https://i.imgur.com/v2MRw7d.png",BLV: ĐỐNG GẠCH ⚽
 https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@paohd1/playlist.m3u8|Referer=https://xem.phuho3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/59d2cdc.png",BLV:LOKI ⚽
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🎙️ BÌNH LUẬN VIÊN PHÚ HỘ TV 🎙️" tvg-logo="https://i.imgur.com/59d2cdc.png",BLV:LOKI ⚽
 https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@quihd1/playlist.m3u8|Referer=https://xem.phuho3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/ie7y5cA.png",BLV: BÊ TÔNG ⚽
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🎙️ BÌNH LUẬN VIÊN PHÚ HỘ TV 🎙️" tvg-logo="https://i.imgur.com/ie7y5cA.png",BLV: BÊ TÔNG ⚽
 https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@betonghd1/playlist.m3u8|Referer=https://xem.phuho3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/XIQc77b.png",BLV: XI MĂNG
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🎙️ BÌNH LUẬN VIÊN PHÚ HỘ TV 🎙️" tvg-logo="https://i.imgur.com/XIQc77b.png",BLV: XI MĂNG
 https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@ximanghd1/playlist.m3u8|Referer=https://xem.phuho3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/20sSTHT.png",BLV: SÁCH VỞ
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="🎙️ BÌNH LUẬN VIÊN PHÚ HỘ TV 🎙️" tvg-logo="https://i.imgur.com/20sSTHT.png",BLV: SÁCH VỞ
 https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@xachvuahd1/playlist.m3u8|Referer=https://xem.phuho3.tv/truc-tiep/
 
 
 
 
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/ucrEy25.png",BLV: Cá Mập ⚽
+
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" tvg-logo="https://i.imgur.com/ucrEy25.png",BLV: Cá Mập ⚽
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/LqcFrnh.png",BLV: Cá Chuối ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" tvg-logo="https://i.imgur.com/LqcFrnh.png",BLV: Cá Chuối ⚽
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/7QdBNub.png",BLV: Cá Nóc ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" tvg-logo="https://i.imgur.com/7QdBNub.png",BLV: Cá Nóc ⚽
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.caheo3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/VcpECr1.png",BLV: Cá Quả ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" tvg-logo="https://i.imgur.com/VcpECr1.png",BLV: Cá Quả ⚽
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo3.tv/truc-tiep/
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/gGVcTbA.png",BLV: Cá SẤU ⚽
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN CÁ HEO TV 🎙️" tvg-logo="https://i.imgur.com/gGVcTbA.png",BLV: Cá SẤU ⚽
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@casauhd1/playlist.m3u8|Referer=https://xem.caheo.live/truc-tiep/
 
 
