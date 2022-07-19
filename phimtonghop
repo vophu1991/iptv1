@@ -2,20 +2,15 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://i.imgur.com/lZIZjUK.png",18h00 16/07:FLC Thanh Hoa - Saigon
+#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://i.imgur.com/lZIZjUK.png",17h00 19/07:Da Nang - Song Lam Nghe An 
 https://sugustvno1.tk/get/ott/tv36O.php?channels=170
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://i.imgur.com/lZIZjUK.png",19h15 16/07:Ho Chi Minh  - Hoang Anh Gia Lai
+#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://i.imgur.com/lZIZjUK.png",18h00 19/07:Hai Phong - Binh Dinh 
+https://sugustvno1.tk/get/ott/tv36O.php?channels=183
+#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://i.imgur.com/lZIZjUK.png",18h00 19/07:NAM DỊNH - VIETTEL 
 https://sugustvno1.tk/get/ott/tv36O.php?channels=174
 
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/uHJ0bge.png",18h00 16/07:Sevilla💖 - Tottenham✨ 
-#https://sugustvno1.tk/get/ott/mytivi.php?love=267
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/uHJ0bge.png",06h00 17/07:Everto⭐n - Arsenal⭐
-#http://tbientv.ddns.net/sport/mitom?url=https://xoilac7.net/truc-tiep/arsenal-vs-everton-luc-0600-ngay-17-07-2022/&tb|Referer=https://vb.plvb.xyz/
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/uHJ0bge.png",09h00 17/07:Chelsea💕 - América 💕
-#https://web-livecdn.fptplay.net/hdevent/fsport04_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/uHJ0bge.png",21h00 18/07:Newcastle - Mainz 05  💕
-http://tbientv.ddns.net/sport/mitom?url=https://vebo1.net/truc-tiep/mainz-05-vs-newcastle-2100-18-07/&tb|Referer=https://vb.plvb.xyz/
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/uHJ0bge.png",17h10 19/07:Crystal 💕 - Man United 💕
+https://rmue2hq1pcliv.vcdn.cloud/43efdc54bb459d90f028c9c97fc5a087/1658230774084/gmpmb95/index.m3u8
 
 
 
