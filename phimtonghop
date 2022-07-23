@@ -2,18 +2,14 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP GIAO HỮU "tvg-logo="https://i.imgur.com/ERa4DHJ.jpg",16h45 23/07:Man United - Aston Villa 
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP TRẬN HÓT "tvg-logo="https://i.imgur.com/wUUbJK5.png",16h45 23/07:Man United - Aston Villa 
 http://tbientv.ddns.net/sport/mitom?url=https://xoilac7.net/truc-tiep/man-utd-vs-aston-villa-luc-1645-ngay-23-07-2022/&tb|Referer=https://vb.plvb.xyz/
 
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP TRẬN HÓT "tvg-logo="https://i.imgur.com/wUUbJK5.png",17h00 23/07:Urawa Red Diamonds - PSG 
+https://api.television4you.xyz/v1/getlink/mytv_web/267/hd
 
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/720X405/2a02f7ae-a098-40c8-bce6-1a210d688dde.jpg",17h00 20/07:Hoang Anh Gia Lai - Binh Duong  
-https://sugustvno1.tk/get/ott/tv36O.php?channels=174
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/720X405/3092fe57-6cfd-46f1-b8bb-fb82fd6fb381.jpg",19h15 20/07:Ha Noi  - Saigon 
-https://sugustvno1.tk/get/ott/tv36O.php?channels=174
-#EXTINF:-1 tvg-id="kcinehd" group-title="TRỰC TIẾP V-League " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/720X405/3676a323-6d88-4ca8-85dc-3f5a7e5c02ba.jpg",19h15 20/07:Ho Chi Minh City  - Hong Linh Ha Tinh 
-https://sugustvno1.tk/get/ott/tv36O.php?channels=183
-
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP TRẬN HÓT "tvg-logo="https://i.imgur.com/wUUbJK5.png",21h00 23/07:Rangers - Tottenham 
+http://tbientv.ddns.net/sport/mitom?url=https://xoilac7.net/truc-tiep/rangers-vs-tottenham-luc-2100-ngay-23-07-2022/&tb|Referer=https://vb.plvb.xyz/
 
 
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/21/orlando-city-arsenal-fm21-07-2022_13g15-53.jpg",Charlotte - Chelsea
