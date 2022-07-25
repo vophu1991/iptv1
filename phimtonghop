@@ -64,8 +64,8 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211125/211125_03
 
 #EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN MÃN NHÃN TV 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN MÃN NHÃN TV 🎙️" tvg-logo="https://i.imgur.com/Sy3Dzii.png",BLV :LÃO HẠT
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://mannhantv.live/
-
-
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN MÃN NHÃN TV 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN MÃN NHÃN TV 🎙️" tvg-logo="https://i.imgur.com/85e3vOM.png",BLV :TỜ NÚ
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x7y4/playlist.m3u8|Referer=https://mannhantv.live/
 
 
 
