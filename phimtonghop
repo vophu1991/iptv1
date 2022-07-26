@@ -3,8 +3,6 @@
 #EXTINF:vo phu 
 
 
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="TRỰC TIẾP TRẬN HÓT "tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SPL1200x600GHQTPSGVSgambaosaka1.jpg",17h00 25/07: Gamba Osaka - PSG
-https://sunnytv.xyz/nflq0wsOhkgzt7zperu8kmdjrx3/vip.php?id=cab16&user=sunny&pass=0796468789
 
    
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/24/arsenal-chelsea-fullmatch24-07-2022_09g04-55.jpg", Arsenal - Chelsea
@@ -4783,6 +4781,8 @@ https://vodcdn.hplus.com.vn/htvonline/_definst_/q1d0qafz0a/HTV.Huong.phu.sa.1080
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://mannhantv.live/
 #EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN MÃN NHÃN TV 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN MÃN NHÃN TV 🎙️" tvg-logo="https://i.imgur.com/85e3vOM.png",BLV :TỜ NÚ
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x7y4/playlist.m3u8|Referer=https://mannhantv.live/
+#EXTINF:-1 tvg-id="🎙️ BÌNH LUẬN VIÊN MÃN NHÃN TV 🎙️" group-title="🎙️ BÌNH LUẬN VIÊN MÃN NHÃN TV 🎙️" tvg-logo="https://i.imgur.com/4hc0P5C.png",BLV :DURES
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://mannhantv.live/
 
 
 
