@@ -2,6 +2,11 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="TRỰC TIẾP V-League" tvg-logo="https://i.imgur.com/PM30upP.png",17h00:29/07Da Nang - Nam Dinh
+https://sugustvno1.tk/get/ott/tv36O.php?channels=174
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="TRỰC TIẾP V-League" tvg-logo="https://i.imgur.com/PM30upP.png",19h00:29/07Ho Chi Minh - Hai Phong
+https://sugustvno1.tk/get/ott/tv36O.php?channels=174
 
 
    
