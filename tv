@@ -12,7 +12,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/rSecQH0.jpg",VTV5 HD
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/HKajnUI.jpg",VTV6  HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/640px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV CẦN THƠ
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/wKPcCP1.jpg",VTV7  HD
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -91,6 +91,104 @@ https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV📺" tvg-logo="https://i.imgur.com/162o1Fp.jpg",HTV Thể Thao  HD
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bg3VGsW/SCTV1.png", SCTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/m5trC9G/SCTV2.png", SCTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/9vrymzJ/SCTV3.png", SCTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/hLdbFB4/SCTV4.png", SCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv5hd" tvg-logo="https://i.ibb.co/8DMRX6x/SCTV5.png", SCTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv5/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv6hd" tvg-logo="https://i.ibb.co/JBFDPQj/SCTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/5hGNfBz/SCTV7.png", SCTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/Pmydd5Q/SCTV8.png", SCTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv8/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/grbyNXH/SCTV9.png", SCTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv10hd" tvg-logo="https://i.ibb.co/BzN2D80/SCTV10.png", SCTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv11hd" tvg-logo="https://i.ibb.co/z6RLc0t/SCTV11.png", SCTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv12hd" tvg-logo="https://i.ibb.co/S7Q00XT/SCTV12.png", SCTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/3BNx7fS/SCTV13.png", SCTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv14/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv18hd" tvg-logo="https://i.ibb.co/7Kz7hS6/SCTV18.png", SCTV18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV19HD" tvg-logo="https://i.ibb.co/Ttydy6z/SCTV19.png", SCTV19 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV20hd" tvg-logo="https://i.ibb.co/RyF60Dj/SCTV20.png", SCTV20 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv21hd" tvg-logo="https://i.ibb.co/qWdSdyM/SCTV21.png", SCTV21 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8#|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="btv5hd" tvg-logo="https://i.ibb.co/3sDGdJh/BTV5.png", BTV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8#|Referer=http://sctvonline.vn/
+
 
 #EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/8rY3RhY.jpg",VTC1  HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
