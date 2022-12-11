@@ -2,24 +2,25 @@
 #EXTM3U 
 #EXTINF: list TV
 
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/m3Qualv.jpg",VTV1 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/2VcsldL.jpg",VTV2 HD
-https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/6FurwOy.jpg",VTV3 HD
-https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/63tBjhD.jpg",VTV4 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 HD
+http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 HD
+http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 HD
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/rSecQH0.jpg",VTV5 HD
-https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/640px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV CẦN THƠ
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/wKPcCP1.jpg",VTV7  HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 HD
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CẦN THƠ
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7  HD
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/57XGWxW.jpg",VTV8 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/VTV8_logo_%282016-nay%29.png/revision/latest?cb=20201228131926&path-prefix=vi",VTV8 HD
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/J4y3T9d.jpg",VTV9 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://static.wikia.nocookie.net/vtv/images/9/95/VTV9_logo.png/revision/latest?cb=20200926010814&path-prefix=vi",VTV9 HD
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/W07kPef.jpg",Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/sqAQb4K.jpg",Vĩnh Long 2 HD
