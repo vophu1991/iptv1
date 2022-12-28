@@ -5,15 +5,15 @@
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 HD
-http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 HD
-http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 HD
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 HD
-http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CẦN THƠ
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7  HD
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/VTV8_logo_%282016-nay%29.png/revision/latest?cb=20201228131926&path-prefix=vi",VTV8 HD
